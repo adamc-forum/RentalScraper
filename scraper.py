@@ -34,10 +34,7 @@ class BaseScraper():
     def __init__(self, base_url="", complete_urls=[]):
         self.base_url = base_url
         self.complete_urls = complete_urls
-        self.urls = [
-            "https://www.padmapper.com/buildings/p921306/apartments-at-543-bannatyne-ave-winnipeg-mb-r3a-0g5",
-            "https://www.padmapper.com/buildings/p921306/apartments-at-543-bannatyne-ave-winnipeg-mb-r3a-0g5"
-        ]
+        self.urls = []
         self.listings = []
       
 class PadmapperScraper(BaseScraper):

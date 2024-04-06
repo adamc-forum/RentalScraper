@@ -10,8 +10,6 @@ from config import (
     create_chrome_driver
 )
 
-from multiprocessing import Process, Queue
-
 from scraper import PadmapperScraper
 
 from selenium.webdriver.chrome.webdriver import WebDriver
@@ -27,7 +25,7 @@ def extract_raw_data(filepath: str, listing_urls: list[str]) -> pd.DataFrame:
         # Initialize WebDriver for retrieving rental listings from landing page
         fetch_rental_listings_driver: WebDriver = create_chrome_driver(debugging_port=9222) 
         padmapper_scraper = PadmapperScraper(PADMAPPER_BASE_URL, [listing_url])
-        # padmapper_scraper.fetch_rental_listing_urls(fetch_rental_listings_driver)
+        padmapper_scraper.fetch_rental_listing_urls(fetch_rental_listings_driver)
 
         # Close the fetch_rental_listing_driver
         fetch_rental_listings_driver.quit()

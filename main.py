@@ -22,11 +22,12 @@ try:
     extract_raw_data(
         filepath=raw_filepath,
         listing_urls=[
-            # "https://www.padmapper.com/apartments/vancouver-bc",
+            "https://www.padmapper.com/apartments/vancouver-bc",
             "https://www.padmapper.com/apartments/winnipeg-mb",
-            # "https://www.padmapper.com/apartments/toronto-on",
-            # "https://www.padmapper.com/apartments/edmonton-ab",
-            # "https://www.padmapper.com/apartments/montreal-qc",
+            "https://www.padmapper.com/apartments/toronto-on",
+            "https://www.padmapper.com/apartments/ottawa-on",
+            "https://www.padmapper.com/apartments/montreal-qc",
+            "https://www.padmapper.com/apartments/edmonton-ab",
         ]
     )
 
