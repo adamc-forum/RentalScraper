@@ -26,7 +26,6 @@ def create_chrome_driver(*, debugging_port):
     chrome_options.add_argument("--headless")  # Enable headless mode (does not open browser GUI)
     chrome_options.add_argument("--log-level=3") 
 
-
     # Suppress console logs
     chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])
 

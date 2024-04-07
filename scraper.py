@@ -47,7 +47,7 @@ class PadmapperScraper(BaseScraper):
     def __init__(self, base_url="", complete_urls=[]):
         super().__init__(base_url, complete_urls)
         self.MAX_RETRIES = 3
-        self.PAGE_LOAD_TIMEOUT = 5
+        self.PAGE_LOAD_TIMEOUT = 15
         self.SCROLL_WAIT_TIME = 1
         self.UNIT_COUNT_THRESHOLD = 2
     
@@ -82,13 +82,16 @@ class PadmapperScraper(BaseScraper):
             try:
                 web_driver.get(url)
                 WebDriverWait(web_driver, self.PAGE_LOAD_TIMEOUT).until(
-                    lambda d: d.execute_script('return document.readyState') == 'complete'
+                    EC.presence_of_element_located((By.TAG_NAME, 'body'))
                 )
-                return True
+                if web_driver.execute_script('return document.readyState') == 'complete':
+                    return True
+                else:
+                    print(f"Page Load Timeout on {url}")
             except TimeoutException:
-                if attempt == self.MAX_RETRIES - 1:
-                    print(f"Scrapers.py - Timeout Error: {url}")
-                    return False
+                print(f"Page Load Attempt {attempt + 1} failed for URL: {url}")
+                web_driver.refresh()  
+        return False
     
     def _click_tile_view_button(self, web_driver: WebDriver):
         """

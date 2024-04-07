@@ -1,5 +1,6 @@
 from functions import (
-    extract_raw_data
+    extract_raw_data,
+    get_cleaned_df
 )
 
 import os
@@ -31,9 +32,9 @@ try:
         ]
     )
 
-    # cleaned_data_df = get_cleaned_df(
-    #     raw_filepath=raw_filepath, cleaned_filepath=cleaned_filepath
-    # )
+    cleaned_data_df = get_cleaned_df(
+        raw_filepath=raw_filepath, cleaned_filepath=cleaned_filepath
+    )
 except Exception as e:
     print("An error occurred while extracting data:", e)
     exit()
