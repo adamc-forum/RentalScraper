@@ -186,7 +186,7 @@ class PadmapperScraper(BaseScraper):
             for div in dropdown_divs:
                 web_driver.execute_script("arguments[0].scrollIntoView();", div)
                 web_driver.execute_script("arguments[0].click();", div)
-                generate_time_gap(1, 3)
+                generate_time_gap(2, 3)
             return False
         except TimeoutException:
             return True  # If floorplan panels are not found, assume it's a single unit
