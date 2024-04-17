@@ -1,2 +1,5 @@
 env/
 __pycache__
+listings.txt
+listings.pkl
+log.txt
