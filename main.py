@@ -10,14 +10,12 @@ import time
 
 current_dir = os.path.dirname(os.path.realpath(__file__))
 
-current_timestamp = datetime.now().strftime("%d-%m-%Y")
+current_timestamp = datetime.now().strftime("%m-%Y")
 
 cleaned_data_files = os.listdir(os.path.join('data', 'cleaned_data'))
 
 raw_filepath = f"{current_dir}/data/raw_data/{current_timestamp}_rental_listings.xlsx"
 cleaned_filepath = f"{current_dir}/data/cleaned_data/{current_timestamp}_cleaned_listings.xlsx"
-model_filepath = f"{current_dir}/backend/app/model.joblib"
-model_archive_filepath = f"{current_dir}/model/model_archives/{current_timestamp}_model.joblib"
 
 try:
     extract_raw_data(
