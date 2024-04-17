@@ -61,6 +61,7 @@ def extract_raw_data(filepath: str, listing_urls: list[str]) -> pd.DataFrame:
                         try_count += 1
                         get_rental_data_driver.quit()
                         get_rental_data_driver = create_chrome_driver(debugging_port=9223)
+                        get_rental_data_driver.refresh()
 
                 # On every 100 listings read, write them to the Excel sheet (in case of crash)
                 if len(current_100_units) >= 100:
