@@ -1,63 +1,26 @@
 ********** Accessing https://www.padmapper.com/apartments/vancouver-bc **********
-Reached the end of the page or no new content loaded.
-Extracted 4 Floorplans for https://www.padmapper.com/buildings/p432510/apartments-at-1188-bidwell-st-vancouver-bc-v6g-0c6
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p449020/apartments-at-55-water-st-vancouver-bc-v6b-1a1
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p674390/apartments-at-1255-pendrell-st-vancouver-bc-v6e-1l7
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p432509/apartments-at-33-water-st-vancouver-bc-v6b-1r4
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p228884/apartments-at-5815-yew-st-vancouver-bc-v6m-3y6
-Extracted 3 Floorplans for https://www.padmapper.com/buildings/p220485/flamingo-apartments-at-2061-beach-ave-vancouver-bc-v6g-1z3
-Extracted 6 Floorplans for https://www.padmapper.com/buildings/p217942/metropolitan-towers-apartments-at-930-seymour-st-vancouver-bc-v6b-1b4
-Extracted 6 Floorplans for https://www.padmapper.com/buildings/p1102762/apartments-at-2550-garden-dr-vancouver-bc-v5n-4x6
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p528695/apartments-at-2035-barclay-st-vancouver-bc-v6g-1l6
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p225101/santana-apartments-at-1251-jervis-st-vancouver-bc-v6e-2e1
-Extracted 4 Floorplans for https://www.padmapper.com/buildings/p220490/skyline-apartments-at-1305-12th-ave-w-vancouver-bc-v6h-1m3
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p221590/apartments-at-1501-haro-st-vancouver-bc-v6g-1g4
-Extracted 3 Floorplans for https://www.padmapper.com/buildings/p377600/the-bovill-apartments-at-188-49th-ave-e-vancouver-bc-v5w-0e6
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p221691/apartments-at-1005-jervis-st-vancouver-bc-v6e-3t1
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p780822/burrard-place-rental-apartments-at-1289-hornby-st-vancouver-bc-v6z-0g7
-Extracted 3 Floorplans for https://www.padmapper.com/buildings/p220470/zephyr-apartments-at-1661-davie-st-vancouver-bc-v6g-1w1
-Extracted 4 Floorplans for https://www.padmapper.com/buildings/p431969/apartments-at-1770-pendrell-st-vancouver-bc-v6g-0c5
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p220475/royal-villa-apartments-at-8675-french-st-vancouver-bc-v6p-4w5
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p221376/apartments-at-1580-haro-st-vancouver-bc-v6g-1g6
-Extracted 5 Floorplans for https://www.padmapper.com/buildings/p558967/west-bay-court-apartments-at-1111-pacific-st-vancouver-bc-v6e-3x7
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p561030/apartments-at-1918-york-ave-vancouver-bc-v6j-1e3
-Extracted 4 Floorplans for https://www.padmapper.com/buildings/p436541/apartments-at-935-jervis-st-vancouver-bc-v6e-2b5
-Extracted 3 Floorplans for https://www.padmapper.com/buildings/p790092/muro-apartments-at-1770-davie-st-vancouver-bc-v6g-1w4
-Extracted 5 Floorplans for https://www.padmapper.com/buildings/p555371/eterno-1168-pendrell-apartments-at-1168-pendrell-st-vancouver-bc-v6e-1l4
-Extracted 4 Floorplans for https://www.padmapper.com/buildings/p615374/chronicle-apartments-at-825-nicola-st-vancouver-bc-v6g-2c4
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p633202/apartments-at-8616-oak-st-vancouver-bc-v6p-4b3
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p1013394/keel-apartments-at-8690-jack-uppal-st-vancouver-bc-v5s-0k1
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p510456/viridian-apartments-at-1783-14th-ave-w-vancouver-bc-v6j-2j7
-Extracted 7 Floorplans for https://www.padmapper.com/buildings/p263578/barafield-apartments-at-1260-harwood-st-vancouver-bc-v6e-1s4
-Extracted 6 Floorplans for https://www.padmapper.com/buildings/p427023/bluesky-chinatown-apartments-at-183-georgia-st-e-vancouver-bc-v6a-0e5
-Extracted 5 Floorplans for https://www.padmapper.com/buildings/p469624/pacific-palisades-apartments-at-788-jervis-st-vancouver-bc-v6e-0b5
-Extracted 4 Floorplans for https://www.padmapper.com/buildings/p213237/bayview-at-coal-harbour-apartments-at-1529-pender-st-w-vancouver-bc-v6g-3j3
-Extracted 3 Floorplans for https://www.padmapper.com/buildings/p469623/chancellor-court-apartments-at-2233-allison-rd-vancouver-bc-v6t-1t7
-Extracted 3 Floorplans for https://www.padmapper.com/buildings/p213592/forte-apartments-at-1755-14th-ave-w-vancouver-bc-v6j-2j6
-Extracted 4 Floorplans for https://www.padmapper.com/buildings/p1013244/richards-pender-apartments-at-510-richards-st-vancouver-bc-v6b-none
-Extracted 3 Floorplans for https://www.padmapper.com/buildings/p513898/apartments-at-1200-hornby-st-vancouver-bc-v6z-1w2
-Extracted 6 Floorplans for https://www.padmapper.com/buildings/p358944/english-bay-residences-apartments-at-1668-davie-st-vancouver-bc-v6g-1v9
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p872529/apartments-at-1320-bute-st-vancouver-bc-v6e-2a3
-Extracted 3 Floorplans for https://www.padmapper.com/buildings/p602868/apartments-at-1348-barclay-st-vancouver-bc-v6e-1h7
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p604297/apartments-at-945-jervis-st-vancouver-bc-v6e-2b8
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p646416/apartments-at-1360-hornby-st-vancouver-bc-v6z-1w5
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p808292/hub-place-apartments-at-1649-broadway-e-vancouver-bc-v5n-0j4
-Extracted 5 Floorplans for https://www.padmapper.com/buildings/p329044/beach-towers-apartments-at-1600l-beach-ave-vancouver-bc-v6g-1y6
-Extracted 4 Floorplans for https://www.padmapper.com/buildings/p871855/laurel-apartments-at-8605-laurel-st-vancouver-bc-v6p-0k4
-Extracted 4 Floorplans for https://www.padmapper.com/buildings/p428567/pendrell-apartments-at-1108-pendrell-st-vancouver-bc-v6e-0c7
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p220481/casa-bella-apartments-at-840-broughton-st-vancouver-bc-v6g-2a1
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p216876/pine-manor-apartments-at-1745-12th-ave-w-vancouver-bc-v6j-2e5
-Extracted 3 Floorplans for https://www.padmapper.com/buildings/p498070/brixton-flats-apartments-at-303-pender-st-e-vancouver-bc-v6a-0j3
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p443202/the-dalip-apartments-at-5656-victoria-dr-vancouver-bc-v5p-3w4
-Extracted 5 Floorplans for https://www.padmapper.com/buildings/p604641/apartments-at-3583-kingsway-vancouver-bc-v5r-5l9
-Extracted 3 Floorplans for https://www.padmapper.com/buildings/p1017596/heritage-rental-apartment-at-1517-comox-st-vancouver-bc-v6g-1p3
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p993793/comma-fraser-apartments-at-695-east-19th-ave-vancouver-bc-v5v-none
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p426759/the-standard-apartments-at-1142-granville-st-vancouver-bc-v6z-0b5
-Extracted 9 Floorplans for https://www.padmapper.com/buildings/p1117150/arbutus-residences-apartments-at-2139-lahb-ave-vancouver-bc-v6l-0b9
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p1114626/narrows-apartments-at-3455-hastings-st-e-vancouver-bc-v5k-2a5
-Extracted 5 Floorplans for https://www.padmapper.com/buildings/p722266/fontainebleau-apartments-at-5455-balsam-st-vancouver-bc-v6m-4b3
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p224226/apartments-at-855-jervis-st-vancouver-bc-v6e-2b2
-Extracted 3 Floorplans for https://www.padmapper.com/buildings/p1119115/apartments-at-825-825-east-8th-avenue-vancouver-bc-none-none
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p469622/starlight-towers-apartments-at-5603-balsam-st-vancouver-bc-v6m-4b6
-Extracted 4 Floorplans for https://www.padmapper.com/buildings/p566050/new-york-apartments-at-2341-york-ave-vancouver-bc-v6k-1c8
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p447788/victoria-mews-apartments-at-1933-41st-ave-e-vancouver-bc-v5p-4y4
+An error occurred while extracting data: Message: unknown error: session deleted because of page crash
+from disconnected: not connected to DevTools
+  (Session info: chrome=124.0.6367.61)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7090D7062+63090]
+	(No symbol) [0x00007FF709042CB2]
+	(No symbol) [0x00007FF708EDEC65]
+	(No symbol) [0x00007FF708ECC31B]
+	(No symbol) [0x00007FF708ECBEC0]
+	(No symbol) [0x00007FF708EE0EC1]
+	(No symbol) [0x00007FF708F62AE9]
+	(No symbol) [0x00007FF708F46D83]
+	(No symbol) [0x00007FF708F183A8]
+	(No symbol) [0x00007FF708F19441]
+	GetHandleVerifier [0x00007FF7094D25CD+4238301]
+	GetHandleVerifier [0x00007FF70950F72D+4488509]
+	GetHandleVerifier [0x00007FF709507A0F+4456479]
+	GetHandleVerifier [0x00007FF7091B05A6+953270]
+	(No symbol) [0x00007FF70904E57F]
+	(No symbol) [0x00007FF709049254]
+	(No symbol) [0x00007FF70904938B]
+	(No symbol) [0x00007FF709039BC4]
+	BaseThreadInitThunk [0x00007FFEAD0A7344+20]
+	RtlUserThreadStart [0x00007FFEAD4C26B1+33]
+
