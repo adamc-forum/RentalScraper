@@ -41,6 +41,8 @@ def extract_raw_data(filepath: str, listing_urls: list[str]) -> pd.DataFrame:
             file.write('\n'.join(padmapper_scraper.urls))
         
         current_100_units = []
+        
+        print(f"***** Extracted {len(padmapper_scraper.urls)} listings for {listing_url.split('/')[-1]} *****")
 
         # Scrape page content of collected URLs to get rental listing data 
         for url in padmapper_scraper.urls:
@@ -52,11 +54,11 @@ def extract_raw_data(filepath: str, listing_urls: list[str]) -> pd.DataFrame:
                     try:
                         rental_listing_data = func_timeout.func_timeout(30, padmapper_scraper.get_rental_listing_data, args=(get_rental_data_driver, url))
                         if len(rental_listing_data) == 0:
-                            print(f"Extracted 0 units on url {url}, retrying...")
+                            print(f"ERROR: Extracted 0 units on url {url}, retrying...")
                         else:
                             break  # Exit the loop if data is successfully retrieved
                     except func_timeout.FunctionTimedOut:
-                        print(f"Function timed out on url {url}, retrying...")
+                        print(f"ERROR: Function timed out on url {url}, retrying...")
                     finally:
                         try_count += 1
                         get_rental_data_driver.quit()

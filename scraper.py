@@ -59,7 +59,7 @@ class PadmapperScraper(BaseScraper):
             web_driver (webdriver): The Selenium WebDriver to use for scraping.
         """
         for full_url in self.complete_urls:
-            print(f'Scrapers.py - Accessing {full_url}')
+            print(f'********** Accessing {full_url} **********')
             try:
                 if self._try_load_page(web_driver, full_url):
                     self._click_tile_view_button(web_driver)
@@ -68,8 +68,6 @@ class PadmapperScraper(BaseScraper):
             except NoSuchElementException:
                 print(f"Encountered error while scrolling {full_url}")
                 continue
-            for url in self.urls:
-                print(url)
 
     def _try_load_page(self, web_driver: WebDriver, url):
         """
@@ -87,9 +85,9 @@ class PadmapperScraper(BaseScraper):
                 if web_driver.execute_script('return document.readyState') == 'complete':
                     return True
                 else:
-                    print(f"Page Load Timeout on {url}")
+                    print(f"ERROR: Page Load Timeout on {url}")
             except TimeoutException:
-                print(f"Page Load Attempt {attempt + 1} failed for URL: {url}")
+                print(f"ERROR: Page Load Attempt {attempt + 1} failed for URL: {url}")
                 web_driver.refresh()  
         return False
     
