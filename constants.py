@@ -58,3 +58,5 @@ BuildingAmenitiesDict = {
 table_columns = [table_header.value for table_header in TableHeaders]
 
 PADMAPPER_BASE_URL = "https://www.padmapper.com"
+
+SHAREPOINT_ROOT_FOLDER = "Rental Web Scraper"

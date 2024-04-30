@@ -1,58 +1,16 @@
-import os
-import certifi
-import ssl
-from sendgrid import SendGridAPIClient
-from sendgrid.helpers.mail import Mail, Attachment, FileContent, FileName, FileType, Disposition
+from constants import (
+    SHAREPOINT_ROOT_FOLDER
+)
+
 from azure.identity import DefaultAzureCredential, CertificateCredential
 from azure.keyvault.secrets import SecretClient
+from dotenv import load_dotenv
+from datetime import datetime
+import os
 import base64
 import requests
-from dotenv import load_dotenv
 
 load_dotenv()
-
-def send_email():
-    # Configure SSL context to use certifi
-    ssl_context = ssl.create_default_context(cafile=certifi.where())
-
-    # Set the environment variable for SSL_CERT_FILE
-    os.environ['SSL_CERT_FILE'] = certifi.where()
-
-    # Your SendGrid API Key
-    sendgrid_api_key = f'{os.getenv('EMAIL_API')}'  # Ensure you have set this environment variable
-
-    # Initialize SendGrid client with the SSL context (not directly applicable, just demonstrates setup)
-    sg = SendGridAPIClient(sendgrid_api_key)
-
-    # Email details
-    message = Mail(
-        from_email='shivamj@forumam.com',
-        to_emails='sjindal1729@gmail.com',
-        subject='Email Via Sendgrid',
-        html_content='<p>Here are the listings for the month of april!</p> <br>'
-    )
-    
-    file_path = r'C:\Users\adamc\Downloads\RentalScraper\RentalScraperCode\data\cleaned_data\07-04-2024_cleaned_listings.xlsx'
-    with open(file_path, 'rb') as f:
-        data = f.read()
-        f.close()
-    encoded_file = base64.b64encode(data).decode()
-    
-    attachment = Attachment()
-    attachment.file_content = FileContent(encoded_file)
-    attachment.file_type = FileType('application/vnd.openxmlformats-officedocument.spreadsheetml.sheet')  # MIME type for .xlsx
-    attachment.file_name = FileName('07-04-2024_cleaned_listings.xlsx')
-    attachment.disposition = Disposition('attachment')
-    message.attachment = attachment
-
-    # Send the email
-    try:
-        response = sg.send(message)
-        print(f"Email sent! Status code: {response.status_code}")
-        print(response.body)
-        print(response.headers)
-    except Exception as e:
-        print(f"An error occurred: {e}")
 
 APP_TENANT_ID = os.getenv("APP_TENANT_ID")
 APP_CLIENT_ID = os.getenv("APP_CLIENT_ID")
@@ -103,7 +61,7 @@ def get_sharepoint_drive_id(site_id: str, access_token: str) -> str:
             return drive_id
     return ""
 
-def upload_document_to_sharepoint(file_content: bytes):
+def upload_document_to_sharepoint(file_content: bytes, file_path: str):
     try:
         access_token = get_access_token()
         headers = get_sharepoint_headers(access_token)
@@ -111,7 +69,6 @@ def upload_document_to_sharepoint(file_content: bytes):
         drive_id = get_sharepoint_drive_id(site_id, access_token)
         if drive_id is None or site_id is None:
             raise Exception("Failed to get SharePoint site or drive ID")
-        file_path = f"General/Rental_Listings.xlsx"
         upload_api_endpoint = f"https://graph.microsoft.com/v1.0/sites/{site_id}/drives/{drive_id}/root:/{file_path}:/content"
         response = requests.put(upload_api_endpoint,
                                 headers=headers, data=file_content, timeout=60)
@@ -119,10 +76,17 @@ def upload_document_to_sharepoint(file_content: bytes):
         raise e
     return response.status_code in (200, 201)
 
-file_path = r'C:\Users\adamc\Downloads\RentalScraper\RentalScraperCode\data\cleaned_data\07-04-2024_cleaned_listings.xlsx'
-with open(file_path, 'rb') as f:
-    data = f.read()
+current_timestamp = datetime.now().strftime("%m-%Y")
+cleaned_data_files = os.listdir(os.path.join('data', 'cleaned_data'))
 
-upload_document_to_sharepoint(data)
-
-# send_email()
+for directory in [
+    r'C:\Users\adamc\Downloads\RentalScraper\RentalScraperCode\data\cleaned_data', r'C:\Users\adamc\Downloads\RentalScraper\RentalScraperCode\data\raw_data', r'C:\Users\adamc\Downloads\RentalScraper\RentalScraperCode\logs'
+]:
+    files = [os.path.join(directory, f) for f in os.listdir(directory)]
+    files.sort(key=os.path.getmtime, reverse=True)
+    target_files =  [file_path for file_path in files if current_timestamp in file_path]
+    target_file = target_files[0] if target_files else None
+    with open(target_file, 'rb') as f:
+        data = f.read()
+    file_date, file_name = target_file.split('\\')[-1].split('_')[0], target_file.split('\\')[-1].replace(current_timestamp, "")[1:]
+    upload_document_to_sharepoint(data, f'{SHAREPOINT_ROOT_FOLDER}/{file_date}/{file_name}')
