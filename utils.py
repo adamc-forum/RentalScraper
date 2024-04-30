@@ -47,9 +47,9 @@ def make_matcher(tag_name, text):
     return match_tag
 
 # Using make_matcher to create specific tag matchers
-match_address = make_matcher('h', 'address')  # Matcher for header tags containing address information
-match_pets = make_matcher('h', 'dogs')  # Matcher for header tags containing pet information
-match_sqft = make_matcher('h', 'feet')  # Matcher for header tags containing sqft information
-match_price = make_matcher('h', 'price') # Matcher for header tags containing price information
-match_bed = make_matcher('h', 'bed') # Matcher for header tags containing price information
-match_bath = make_matcher('h', 'bath') # Matcher for header tags containing price information
+match_address = make_matcher('h', 'address') 
+match_pets = make_matcher('h', 'dogs')  
+match_sqft = make_matcher('h', 'feet')  
+match_price = make_matcher('h', 'price') 
+match_bed = make_matcher('h', 'bed') 
+match_bath = make_matcher('h', 'bath') 

@@ -4,9 +4,7 @@ from functions import (
 )
 
 import os
-
 from datetime import datetime
-import time
 
 current_dir = os.path.dirname(os.path.realpath(__file__))
 
@@ -14,7 +12,7 @@ current_timestamp = datetime.now().strftime("%m-%Y")
 
 cleaned_data_files = os.listdir(os.path.join('data', 'cleaned_data'))
 
-raw_filepath = f"{current_dir}/data/raw_data/{current_timestamp}_rental_listings.xlsx"
+raw_filepath = f"{current_dir}/data/raw_data/{current_timestamp}_raw_listings.xlsx"
 cleaned_filepath = f"{current_dir}/data/cleaned_data/{current_timestamp}_cleaned_listings.xlsx"
 
 try:
