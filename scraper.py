@@ -5,6 +5,7 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from selenium.webdriver.chrome.webdriver import WebDriver
 import pickle
 import random
+import func_timeout
 
 from bs4 import BeautifulSoup
 from constants import TableHeaders
@@ -21,19 +22,29 @@ from utils import (
 
 import re
 import time
+
+#################################### High Level Comments ###################################
+# Scraper class has methods for clicking buttons, scrolling the page, extracting information and handling errors
+# These methods are coordinated via the extract_raw_data function in functions.py - entry point
+# Only listing urls with more than 2 floorplans are extracted
+# Assumes we do not want to prioritize listings by owners (not AM firms)
+# Listings with >= 2 floorplans are definitely by AM firms - more accurate representation of competitor strategy
+# Targeting all single unit listings also greatly increases scraping time without much benefit
+# Wanted to minimize the number of HTTPS requests to avoid detection / blocking by website.
+# Ensure the scraper operates stealthily before increasing the request frequency.
+# TODO: Improve scraper speed and robustness to reliably handle single unit listings
+
 class BaseScraper():
     """
     Abstract base class for building web scrapers.
 
     Attributes:
         base_url (str): Base URL of the site.
-        full_url (str): Full URL for making specific requests.
         urls (List[str]): List of URLs to scrape from.
         listings (List[dict]): All rental listings scraped.
     """
-    def __init__(self, base_url="", complete_urls=[]):
+    def __init__(self, base_url=""):
         self.base_url = base_url
-        self.complete_urls = complete_urls
         self.urls = []
         self.listings = []
       
@@ -43,38 +54,43 @@ class PadmapperScraper(BaseScraper):
 
     Inherits from BaseScraper and adds methods tailored for scraping Padmapper.
     """
-
-    def __init__(self, base_url="", complete_urls=[]):
-        super().__init__(base_url, complete_urls)
+    def __init__(self, base_url=""):
+        super().__init__(base_url)
         self.MAX_RETRIES = 3
         self.PAGE_LOAD_TIMEOUT = 15
         self.SCROLL_WAIT_TIME = 1
         self.UNIT_COUNT_THRESHOLD = 2
     
-    def fetch_rental_listing_urls(self, web_driver: WebDriver):
+    def fetch_rental_listing_urls(self, web_driver: WebDriver, landing_page_url: str):
         """
-        Retrieves and stores all the listing urls from the landing page.
+        Retrieves and stores all the listing URLs from the landing page.
 
         Args:
-            web_driver (webdriver): The Selenium WebDriver to use for scraping.
+            web_driver (WebDriver): The Selenium WebDriver to use for scraping.
+            landing_page_url (str): The URL of the landing page to scrape.
         """
-        for full_url in self.complete_urls:
-            print(f'********** Accessing {full_url} **********')
-            try:
-                if self._try_load_page(web_driver, full_url):
-                    self._click_tile_view_button(web_driver)
-                    self.scroll_to_end_of_page(web_driver)
-                    self.urls.extend(self.extract_urls(web_driver))
-            except NoSuchElementException:
-                print(f"Encountered error while scrolling {full_url}")
-                continue
+        print(f'********** Accessing {landing_page_url} **********')
+        try:
+            if self._try_load_page(web_driver, landing_page_url):
+                self._click_tile_view_button(web_driver)
+                try:
+                    func_timeout.func_timeout(900, self._scroll_to_end_of_page, args=(web_driver,))
+                except func_timeout.FunctionTimedOut:
+                    print(f"Timeout reached when scrolling to bottom of {landing_page_url}")
+                self.urls.extend(self._extract_urls(web_driver))
+        except NoSuchElementException:
+            print(f"Encountered error while scrolling {landing_page_url}")
 
-    def _try_load_page(self, web_driver: WebDriver, url):
+    def _try_load_page(self, web_driver: WebDriver, url: str) -> bool:
         """
-        Attempts to completely load page and avoid perpetually loading state
+        Attempts to completely load the page and avoid perpetually loading state.
 
         Args:
-            web_driver (webdriver): The Selenium WebDriver to use for scraping.
+            web_driver (WebDriver): The Selenium WebDriver to use for scraping.
+            url (str): The URL of the page to load.
+
+        Returns:
+            bool: True if the page loads successfully, False otherwise.
         """
         for attempt in range(self.MAX_RETRIES):
             try:
@@ -93,10 +109,10 @@ class PadmapperScraper(BaseScraper):
     
     def _click_tile_view_button(self, web_driver: WebDriver):
         """
-        Renders tile view so sufficient details are accessible in each listing
+        Clicks tile view button to switch to tile view from default block view.
 
         Args:
-            web_driver (webdriver): The Selenium WebDriver to use for scraping.
+            web_driver (WebDriver): The Selenium WebDriver to use for scraping.
         """
         try:
             # Locate the button by class and aria-label attributes
@@ -107,44 +123,33 @@ class PadmapperScraper(BaseScraper):
             print("Tile View button not found. Unable to continue")
             raise
 
-    def scroll_to_end_of_page(self, web_driver: WebDriver, timeout=600):
+    def _scroll_to_end_of_page(self, web_driver: WebDriver):
         """
         Scrolls to the end of the page until no more content loads or a timeout is reached.
 
         Args:
-            web_driver (webdriver): The Selenium WebDriver to use for scraping.
-            timeout (int): The maximum time (in seconds) to wait for new content to load.
+            web_driver (WebDriver): The Selenium WebDriver to use for scraping.
         """
         last_height = web_driver.execute_script("return document.body.scrollHeight")
-        start_time = time.time()
 
         while True:
-            # Scroll down to bottom
             web_driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             time.sleep(random.uniform(1, 2)) 
-            
-            # Wait for content to load
             try:
                 WebDriverWait(web_driver, 5).until(
                     lambda driver: driver.execute_script("return document.body.scrollHeight") > last_height
                 )
                 last_height = web_driver.execute_script("return document.body.scrollHeight")
             except TimeoutException:
-                # If no new content loads within the timeout, assume we've reached the end
                 print("Reached the end of the page or no new content loaded.")
                 break
 
-            # Check for timeout
-            if time.time() - start_time > timeout:
-                print("Timeout reached while scrolling.")
-                break
-
-    def extract_urls(self, web_driver: WebDriver):
+    def _extract_urls(self, web_driver: WebDriver) -> list:
         """
-        Extracts rental listing URLs from home page
+        Extracts rental listing URLs from the home page.
 
         Args:
-            web_driver (webdriver): The Selenium WebDriver to use for scraping.
+            web_driver (WebDriver): The Selenium WebDriver to use for scraping.
 
         Returns:
             List[str]: List of extracted URLs.
@@ -153,7 +158,7 @@ class PadmapperScraper(BaseScraper):
         soup = BeautifulSoup(page_html_content, 'html.parser')
 
         extracted_urls = []
-        # Get all rental listing URLS visible on the page
+        # Get all rental listing URLs visible on the page
         link_elements = soup.find_all('a', class_=lambda cls: cls and cls.startswith('ListItemTile_address'))
         for link in link_elements:
             # Find the number of floorplans for the listing by getting the relevant sibling div
@@ -191,11 +196,14 @@ class PadmapperScraper(BaseScraper):
 
     def get_rental_listing_data(self, web_driver: WebDriver, url: str) -> list:
         """
-        Iterates over all collected urls and scrapes data from each link's page.
+        Iterates over all collected URLs and scrapes data from each link's page.
 
         Args:
-            web_driver (webdriver): The Selenium WebDriver to use for scraping.
+            web_driver (WebDriver): The Selenium WebDriver to use for scraping.
             url (str): URL of the listing page to scrape.
+
+        Returns:
+            list: List of rental listing data dictionaries.
         """
         try:
             if not self._try_load_page(web_driver, url):
@@ -209,21 +217,25 @@ class PadmapperScraper(BaseScraper):
             is_single_unit = self._process_floorplan_panels(web_driver)
             link_html_content = web_driver.page_source
             print(f"Processing listing: {url}")
-            return self.get_rental_units_data_by_listing(link_html_content, is_single_unit, url)
+            return self._get_rental_units_data_by_listing(link_html_content, is_single_unit, url)
         
         except Exception as e:
             print(f"Error encountered on page {url}: {e}")
             raise
     
-    def get_rental_units_data_by_listing(self, link_html_content, is_single_unit, url):
+    def _get_rental_units_data_by_listing(self, link_html_content: str, is_single_unit: bool, url: str) -> list:
         """
-        Extracts relevant data for each rental unit on listing (can be single unit)
+        Extracts relevant data for each rental unit on listing (can be single unit).
 
         Args:
             link_html_content (str): The HTML content of the page to be scraped.
+            is_single_unit (bool): Whether the listing is a single unit or has multiple units.
+            url (str): URL of the listing page.
+
+        Returns:
+            list: A list of dictionaries, each containing data for a rental unit.
         """
-        
-        # Parse the HTML with Beautiful Soup
+        # Parse the HTML with BeautifulSoup
         soup = BeautifulSoup(link_html_content, 'html.parser')
         
         building_title_text, neighborhood_title_text, price_text, bed_text, bath_text, sqft_text, address_text, pets_text, lat_text, lon_text, city_text = DataExtractor.extract_building_details(soup)
@@ -231,7 +243,8 @@ class PadmapperScraper(BaseScraper):
         unit_amenities_text, building_amenities_text = DataExtractor.extract_amenities(soup)
 
         all_units_data = DataExtractor.extract_rental_unit_details(soup)
-		# For single page listings, all_units_data is already extracted from extract_building_details() and extract_rental_unit_details() will return empty
+
+        # For single page listings, all_units_data is already extracted from extract_building_details(), extract_rental_unit_details() will return empty
         all_units_data = all_units_data if not is_single_unit else [
             {
                 TableHeaders.LISTING.value: bed_text,
@@ -244,7 +257,7 @@ class PadmapperScraper(BaseScraper):
 
         rental_listing_units = []
 
-		# Concatenate each row of rental unit data with columns for building and rental unit amenities
+        # Concatenate each row of rental unit data with columns for building and rental unit amenities
         for unit_data in all_units_data:
             unit_data[TableHeaders.BUILDING.value] = building_title_text
             unit_data[TableHeaders.NEIGHBOURHOOD.value] = neighborhood_title_text
@@ -269,13 +282,13 @@ class DataExtractor():
     @staticmethod
     def extract_building_details(soup: BeautifulSoup) -> tuple:
         """
-        Extracts text of unit and building amenities.
+        Extracts building details from the listing page.
 
         Args:
             soup (BeautifulSoup): The BeautifulSoup object to extract data from.
 
         Returns:
-            Tuple[str, str]: A tuple containing text of unit amenities and building amenities.
+            tuple: A tuple containing building details.
         """
         building_title = soup.find('h1', class_=lambda cls: cls and 'FullDetail_street_' in cls)
         building_title_text = re.split(r'[^\w ]+',  building_title.get_text())[0] if building_title else ""
@@ -304,6 +317,15 @@ class DataExtractor():
 
     @staticmethod
     def extract_summary_table(soup: BeautifulSoup) -> list:
+        """
+        Extracts summary table details from the listing page.
+
+        Args:
+            soup (BeautifulSoup): The BeautifulSoup object containing the summary table.
+
+        Returns:
+            list: A list of extracted details.
+        """
         extracted_text = []
         for matching_function in [match_price, match_bed, match_bath, match_sqft, match_address, match_pets]:
             detail_header = soup.find(matching_function)
@@ -322,7 +344,7 @@ class DataExtractor():
             soup (BeautifulSoup): The BeautifulSoup object to extract data from.
 
         Returns:
-            Tuple[str, str]: A tuple containing text of unit amenities and building amenities.
+            tuple: A tuple containing text of unit amenities and building amenities.
         """
         amenities = soup.find_all('div', class_=lambda value: value and 'Amenities_header_' in value)
         unit_amenities, building_amenities = [], []
@@ -339,20 +361,21 @@ class DataExtractor():
         unit_amenities_text = ", ".join([amenity.get_text() for amenity in unit_amenities])  
         building_amenities_text = ", ".join([amenity.get_text() for amenity in building_amenities])  
 
-        return(unit_amenities_text, building_amenities_text)
+        return (unit_amenities_text, building_amenities_text)
 
     @staticmethod
     def extract_rental_unit_details(soup: BeautifulSoup) -> list:
         """
-        Extracts rental unit details from listing.
+        Extracts rental unit details from the listing page.
 
         Args:
             soup (BeautifulSoup): The BeautifulSoup object to extract data from.
 
         Returns:
-            List[dict]: A list of dictionaries, each containing data for a rental unit.
+            list: A list of dictionaries, each containing data for a rental unit.
         """
         all_units_data = []
+
         # Find all divs where class contains 'Floorplan_floorplan'
         floorplans = soup.find_all('div', class_=lambda cls: cls and 'Floorplan_floorplansContainer_' in cls)
         for floorplan in floorplans:

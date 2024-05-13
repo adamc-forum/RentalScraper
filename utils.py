@@ -13,18 +13,18 @@ def get_headers(base_url):
 
     # Set the headers to mimic a browser request from Chrome on Windows
     headers = {
-        'User-Agent': user_agent,  # Randomly generated user agent string
-        'DNT': '1',  # Do Not Track request header
-        'Accept-Language': 'en-US,en;q=0.5',  # Preferred languages
-        'Referer': f'{base_url}',  # Referrer URL
-        'Sec-Ch-Ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"',  # Browser and version information
-        'Sec-Ch-Ua-Mobile': '?0',  # Indicates that the request is not from a mobile device
-        'Sec-Ch-Ua-Platform': '"Windows"',  # Platform information
-        'Sec-Fetch-Dest': 'document',  # Type of the request target
-        'Sec-Fetch-Mode': 'navigate',  # Mode for the request
-        'Sec-Fetch-Site': 'same-origin',  # Relationship between the request and the site
-        'Sec-Fetch-User': '?1',  # Indicates user activation
-        'Upgrade-Insecure-Requests': '1'  # Requests for upgrading to a secure connection
+        'User-Agent': user_agent,  
+        'DNT': '1', 
+        'Accept-Language': 'en-US,en;q=0.5', 
+        'Referer': f'{base_url}', 
+        'Sec-Ch-Ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"', 
+        'Sec-Ch-Ua-Mobile': '?0', 
+        'Sec-Ch-Ua-Platform': '"Windows"', 
+        'Sec-Fetch-Dest': 'document', 
+        'Sec-Fetch-Mode': 'navigate', 
+        'Sec-Fetch-Site': 'same-origin', 
+        'Sec-Fetch-User': '?1', 
+        'Upgrade-Insecure-Requests': '1' 
     }
     return headers
 
