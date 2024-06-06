@@ -1,0 +1,26 @@
+An error occurred while extracting data: Message: session not created: This version of ChromeDriver only supports Chrome version 123
+Current browser version is 125.0.6422.142 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E5EA7062+63090]
+	(No symbol) [0x00007FF7E5E12CB2]
+	(No symbol) [0x00007FF7E5CAEC65]
+	(No symbol) [0x00007FF7E5CE54C2]
+	(No symbol) [0x00007FF7E5CE48CF]
+	(No symbol) [0x00007FF7E5CDE8C5]
+	(No symbol) [0x00007FF7E5CDB2F4]
+	(No symbol) [0x00007FF7E5D20BFB]
+	(No symbol) [0x00007FF7E5D20830]
+	(No symbol) [0x00007FF7E5D16D83]
+	(No symbol) [0x00007FF7E5CE83A8]
+	(No symbol) [0x00007FF7E5CE9441]
+	GetHandleVerifier [0x00007FF7E62A25CD+4238301]
+	GetHandleVerifier [0x00007FF7E62DF72D+4488509]
+	GetHandleVerifier [0x00007FF7E62D7A0F+4456479]
+	GetHandleVerifier [0x00007FF7E5F805A6+953270]
+	(No symbol) [0x00007FF7E5E1E57F]
+	(No symbol) [0x00007FF7E5E19254]
+	(No symbol) [0x00007FF7E5E1938B]
+	(No symbol) [0x00007FF7E5E09BC4]
+	BaseThreadInitThunk [0x00007FFA409C7344+20]
+	RtlUserThreadStart [0x00007FFA41CC26B1+33]
+
