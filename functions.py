@@ -1,62 +1,76 @@
 import os
 import re
-
 import func_timeout
+import pandas as pd
 
-from constants import TableHeaders, UnitAmenitiesDict, BuildingAmenitiesDict
+from constants import (
+    TableHeaders, UnitAmenitiesDict, BuildingAmenitiesDict
+)
 
 from constants import (
     table_columns, TableHeaders, PADMAPPER_BASE_URL
 )
 
-from config import (
-    create_chrome_driver
-)
-
+from config import create_chrome_driver
 from scraper import PadmapperScraper
-
 from selenium.webdriver.chrome.webdriver import WebDriver
-
-import pandas as pd
-
 from datetime import datetime
 
-def extract_raw_data(filepath: str, listing_urls: list[str]) -> pd.DataFrame:
+#################################### High Level Comments ###################################
+# Used separate drivers for fetching and scraping listing urls
+# Preferred explicitly creating a new driver instance in case previous instance disconnected
+# Fetching urls driver visits regional landing pages e.g. https://www.padmapper.com/apartments/toronto-on
+# Scraping urls driver visits each url extracted by fetching urls driver
+
+def extract_raw_data(filepath: str, landing_page_urls: list[str]) -> pd.DataFrame:
+    """
+    Extracts raw rental listing data from provided URLs and saves it to an Excel file.
+
+    Args:
+        filepath (str): The path to save the extracted data Excel file.
+        landing_page_urls (list[str]): A list of regional landing page URLs to scrape for rental listings.
+
+    Returns:
+        pd.DataFrame: A DataFrame containing the extracted rental listing data.
+    """
     extracted_listing_data = []
 
-    for listing_url in listing_urls:
-        # Initialize WebDriver for retrieving rental listings from landing page
+    for landing_page_url in landing_page_urls:
+        
+        # Initialize web driver for retrieving rental listings from regional landing page
         fetch_rental_listings_driver: WebDriver = create_chrome_driver(debugging_port=9222) 
-        padmapper_scraper = PadmapperScraper(PADMAPPER_BASE_URL, [listing_url])
-        padmapper_scraper.fetch_rental_listing_urls(fetch_rental_listings_driver)
+        padmapper_scraper = PadmapperScraper(PADMAPPER_BASE_URL)
+        padmapper_scraper.fetch_rental_listing_urls(web_driver=fetch_rental_listings_driver, landing_page_url=landing_page_url)
 
-        # Close the fetch_rental_listing_driver
         fetch_rental_listings_driver.quit()
 
-        # Initialize WebDriver for extracting data from every rental listing
+        # Initialize web driver for extracting data from every extracted rental listing
         get_rental_data_driver: WebDriver = create_chrome_driver(debugging_port=9223)
 
-        # Log all extracted listings to a txt file for data permanence
-        with open('listings.txt', 'a') as file:
-            file.write('\n'.join(padmapper_scraper.urls))
-        
         current_100_units = []
         
-        print(f"***** Extracted {len(padmapper_scraper.urls)} listings for {listing_url.split('/')[-1]} *****")
+        print(f"***** Extracted {len(padmapper_scraper.urls)} listings for {landing_page_url.split('/')[-1]} *****")
+        print(f"{'\n'.join(padmapper_scraper.urls)}")
 
-        # Scrape page content of collected URLs to get rental listing data 
+        # Scrape page content of scraped listing URLs to get rental listing data 
         for url in padmapper_scraper.urls:
             try:
                 try_count = 0
-                max_retries = 3  # Set a limit for retries
+
+                # Max retries for attempting to scrape a url
+                max_retries = 3  
 
                 while try_count < max_retries:
                     try:
-                        rental_listing_data = func_timeout.func_timeout(30, padmapper_scraper.get_rental_listing_data, args=(get_rental_data_driver, url))
-                        if len(rental_listing_data) == 0:
+                        # Attempt to scrape url with a 30 second time limit
+                        # If function times out or no data was extracted, retry upto 3 times
+                        # Else, data was retrieved successful, break and exit the loop
+
+                        listing_data = func_timeout.func_timeout(30, padmapper_scraper.get_rental_listing_data, args=(get_rental_data_driver, url))
+                        if len(listing_data) == 0:
                             print(f"ERROR: Extracted 0 units on url {url}, retrying...")
                         else:
-                            break  # Exit the loop if data is successfully retrieved
+                            break
                     except func_timeout.FunctionTimedOut:
                         print(f"ERROR: Function timed out on url {url}, retrying...")
                     finally:
@@ -65,40 +79,49 @@ def extract_raw_data(filepath: str, listing_urls: list[str]) -> pd.DataFrame:
                         get_rental_data_driver = create_chrome_driver(debugging_port=9223)
                         get_rental_data_driver.refresh()
 
-                # On every 100 listings read, write them to the Excel sheet (in case of crash)
+                # Every 100 listings, write to the Excel sheet (in case web driver crashes)
                 if len(current_100_units) >= 100:
-                    extracted_listing_data += current_100_units
-                    extracted_listing_data_df = pd.DataFrame(extracted_listing_data, columns=table_columns)
-                    extracted_listing_data_df.to_excel(filepath, index=False)
+                    all_listings_data += current_100_units
+                    all_listings_data_df = pd.DataFrame(all_listings_data, columns=table_columns)
+                    all_listings_data_df.to_excel(filepath, index=False)
                     current_100_units.clear()
 
-                if rental_listing_data:
-                    current_100_units += rental_listing_data
+                if listing_data:
+                    current_100_units += listing_data
 
             except:
-                print(f"Error occured on url: {url}")
+                print(f"Error occurred on url: {url}")
                 continue
 
-        # Append remaining padmapper listings to all_units
-        extracted_listing_data += current_100_units
+        # Append remaining padmapper listings to all listings
+        all_listings_data += current_100_units
 
-        extracted_listing_data_df = pd.DataFrame(extracted_listing_data, columns=table_columns)
+        all_listings_data_df = pd.DataFrame(all_listings_data, columns=table_columns)
 
-        extracted_listing_data_df.to_excel(filepath, index=False)
+        all_listings_data_df.to_excel(filepath, index=False)
 
         # Close the get_rental_data_driver
         get_rental_data_driver.quit()
 
-    extracted_listing_data_df[TableHeaders.DATE.value] = pd.to_datetime(extracted_listing_data_df[TableHeaders.DATE.value], errors='coerce')
-    extracted_listing_data_df[TableHeaders.DATE.value] = extracted_listing_data_df[TableHeaders.DATE.value].fillna(datetime.now())    
+    all_listings_data_df[TableHeaders.DATE.value] = pd.to_datetime(all_listings_data_df[TableHeaders.DATE.value], errors='coerce')
+    all_listings_data_df[TableHeaders.DATE.value] = all_listings_data_df[TableHeaders.DATE.value].fillna(datetime.now())    
     
-    extracted_listing_data_df.to_excel(filepath, index=False)
+    all_listings_data_df.to_excel(filepath, index=False)
 
-    return extracted_listing_data_df
+    return all_listings_data_df
 
 ################## Parsing and validation functions #################
 
 def parse_bed_value(bed_value):
+    """
+    Parses the bed value from a listing and returns the number of bedrooms.
+
+    Args:
+        bed_value: The value representing the number of bedrooms.
+
+    Returns:
+        int or None: The number of bedrooms, or None if parsing fails.
+    """
     if pd.isna(bed_value):
         return bed_value
     bed_value = bed_value.lower()
@@ -111,6 +134,15 @@ def parse_bed_value(bed_value):
 
 
 def parse_bath_value(bath_value):
+    """
+    Parses the bath value from a listing and returns the number of bathrooms.
+
+    Args:
+        bath_value: The value representing the number of bathrooms.
+
+    Returns:
+        float or None: The number of bathrooms, or None if parsing fails.
+    """
     if pd.isna(bath_value):
         return bath_value
     try:
@@ -123,6 +155,15 @@ def parse_bath_value(bath_value):
 
 
 def parse_sqft_value(sqft_value):
+    """
+    Parses the square footage value from a listing.
+
+    Args:
+        sqft_value: The value representing the square footage.
+
+    Returns:
+        int or None: The square footage, or None if parsing fails.
+    """
     if pd.isna(sqft_value) or re.search(r'\d', sqft_value) is None:
         return None
     sqft_value = int(sqft_value.replace(',', '').split(' ')[0])
@@ -130,6 +171,15 @@ def parse_sqft_value(sqft_value):
 
 
 def parse_price_value(price_value):
+    """
+    Parses the price value from a listing and returns the minimum, maximum, and average prices.
+
+    Args:
+        price_value: The value representing the price.
+
+    Returns:
+        tuple: A tuple containing the minimum, maximum, and average prices, or None if parsing fails.
+    """
     if pd.isna(price_value):
         return None, None, None
     price_value = price_value.replace('$', '').replace(',', '')
@@ -149,28 +199,72 @@ def parse_price_value(price_value):
         return None, None, None
 
 def parse_building_amenities(amenities_value):
+    """
+    Parses the building amenities value from a listing.
+
+    Args:
+        amenities_value: The value representing the building amenities.
+
+    Returns:
+        list or None: A list of building amenities, or None if parsing fails.
+    """
     if not pd.isna(amenities_value):
         return [amenity.strip() for amenity in amenities_value.split(',') if amenity.strip() in BuildingAmenitiesDict]
     return None
 
 
 def parse_unit_amenities(amenities_value):
+    """
+    Parses the unit amenities value from a listing.
+
+    Args:
+        amenities_value: The value representing the unit amenities.
+
+    Returns:
+        list or None: A list of unit amenities, or None if parsing fails.
+    """
     if not pd.isna(amenities_value):
         return [amenity.strip() for amenity in amenities_value.split(',') if amenity.strip() in UnitAmenitiesDict]
     return None
 
 
 def parse_pets_value(pets_value):
+    """
+    Parses the pets allowed value from a listing.
+
+    Args:
+        pets_value: The value representing whether pets are allowed.
+
+    Returns:
+        int: 1 if pets are allowed, 0 otherwise.
+    """
     if pd.isna(pets_value):
         return 0
     pets_value = pets_value.lower()
     return 1 if any(pet in pets_value for pet in ['dog', 'cat', 'yes']) else 0
 
 def get_raw_df(raw_filepath: str) -> pd.DataFrame:
+    """
+    Reads a raw Excel file and returns it as a DataFrame.
+
+    Args:
+        raw_filepath (str): The path to the raw data Excel file.
+
+    Returns:
+        pd.DataFrame: A DataFrame containing the raw data.
+    """
     return pd.read_excel(raw_filepath)
 
-# Main function to process the data
 def get_cleaned_data(df):
+    """
+    Cleans and processes the raw data DataFrame.
+
+    Args:
+        df (pd.DataFrame): The raw data DataFrame.
+
+    Returns:
+        pd.DataFrame: A cleaned and processed DataFrame.
+    """
     df[TableHeaders.BED.value] = df[TableHeaders.BED.value].apply(parse_bed_value)
     df[TableHeaders.BATH.value] = df[TableHeaders.BATH.value].apply(parse_bath_value)
     df[TableHeaders.SQFT.value] = df[TableHeaders.SQFT.value].apply(parse_sqft_value)
@@ -223,6 +317,16 @@ def get_cleaned_data(df):
     return df
 
 def get_cleaned_df(raw_filepath: str, cleaned_filepath: str) -> pd.DataFrame:
+    """
+    Processes raw data from a file and saves the cleaned data to a new file.
+
+    Args:
+        raw_filepath (str): The path to the raw data file.
+        cleaned_filepath (str): The path to save the cleaned data file.
+
+    Returns:
+        pd.DataFrame: A DataFrame containing the cleaned data.
+    """
     cleaned_df = get_cleaned_data(get_raw_df(raw_filepath))
     cleaned_df.to_excel(cleaned_filepath, index=False)
     return cleaned_df

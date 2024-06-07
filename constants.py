@@ -1,5 +1,9 @@
 from enum import Enum
 
+# Table headers define the headers in the output excel file
+
+# Building / Unit amenities are extracted a single string before being split into separate columns
+
 class TableHeaders(Enum):
     BUILDING = 'Building'
     NEIGHBOURHOOD = 'Neighbourhood'
@@ -58,5 +62,8 @@ BuildingAmenitiesDict = {
 table_columns = [table_header.value for table_header in TableHeaders]
 
 PADMAPPER_BASE_URL = "https://www.padmapper.com"
+
+# Defines the root sharepoint folder where the output files will be uploaded
+# .env will contain the graph API endpoint which is the target sharepoint site
 
 SHAREPOINT_ROOT_FOLDER = "Rental Web Scraper"

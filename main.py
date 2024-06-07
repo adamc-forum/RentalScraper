@@ -18,7 +18,7 @@ cleaned_filepath = f"{current_dir}/data/cleaned_data/{current_timestamp}_cleaned
 try:
     extract_raw_data(
         filepath=raw_filepath,
-        listing_urls=[
+        landing_page_urls=[
             "https://www.padmapper.com/apartments/vancouver-bc",
             "https://www.padmapper.com/apartments/winnipeg-mb",
             "https://www.padmapper.com/apartments/toronto-on",
