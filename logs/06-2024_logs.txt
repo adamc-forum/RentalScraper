@@ -1,26 +1,537 @@
-An error occurred while extracting data: Message: session not created: This version of ChromeDriver only supports Chrome version 123
-Current browser version is 125.0.6422.142 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+********** Accessing https://www.padmapper.com/apartments/vancouver-bc **********
+Reached the end of the page or no new content loaded.
+Extracted 3 Floorplans for https://www.padmapper.com/buildings/p449020/apartments-at-55-water-st-vancouver-bc-v6b-1a1
+Extracted 4 Floorplans for https://www.padmapper.com/buildings/p1102762/apartments-at-2550-garden-dr-vancouver-bc-v5n-4x6
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p792305/blood-alley-apartments-at-23-cordova-st-w-vancouver-bc-v6b-1c8
+Extracted 4 Floorplans for https://www.padmapper.com/buildings/p431969/apartments-at-1770-pendrell-st-vancouver-bc-v6g-0c5
+Extracted 3 Floorplans for https://www.padmapper.com/buildings/p220470/zephyr-apartments-at-1661-davie-st-vancouver-bc-v6g-1w1
+Extracted 4 Floorplans for https://www.padmapper.com/buildings/p220485/flamingo-apartments-at-2061-beach-ave-vancouver-bc-v6g-1z3
+Extracted 4 Floorplans for https://www.padmapper.com/buildings/p263578/barafield-apartments-at-1260-harwood-st-vancouver-bc-v6e-1s4
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p225101/santana-apartments-at-1251-jervis-st-vancouver-bc-v6e-2e1
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p604297/apartments-at-945-jervis-st-vancouver-bc-v6e-2b8
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p646416/apartments-at-1360-hornby-st-vancouver-bc-v6z-1w5
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p674390/apartments-at-1255-pendrell-st-vancouver-bc-v6e-1l7
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p1013244/richards-pender-apartments-at-510-richards-st-vancouver-bc-v6b-none
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p602868/apartments-at-1348-barclay-st-vancouver-bc-v6e-1h7
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p528695/apartments-at-2035-barclay-st-vancouver-bc-v6g-1l6
+Extracted 4 Floorplans for https://www.padmapper.com/buildings/p368034/wesley-place-apartments-at-1022-nelson-st-vancouver-bc-v6e-4s7
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p228884/apartments-at-5815-yew-st-vancouver-bc-v6m-3y6
+Extracted 3 Floorplans for https://www.padmapper.com/buildings/p780822/burrard-place-rental-apartments-at-1289-hornby-st-vancouver-bc-v6z-0g7
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p1017597/apartments-at-440-richards-st-vancouver-bc-v6b-2z3
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p513254/modern-1009-harwood-street-apartments-at-1009-harwood-st-vancouver-bc-v6e-0c2
+Extracted 4 Floorplans for https://www.padmapper.com/buildings/p436541/apartments-at-935-jervis-st-vancouver-bc-v6e-2b5
+Extracted 4 Floorplans for https://www.padmapper.com/buildings/p765919/suffolk-house-1540-haro-apartments-at-1540-haro-st-vancouver-bc-v6g-1g5
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p432509/apartments-at-33-water-st-vancouver-bc-v6b-1r4
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p498070/brixton-flats-apartments-at-303-pender-st-e-vancouver-bc-v6a-0j3
+Extracted 3 Floorplans for https://www.padmapper.com/buildings/p428564/tate-1283-howe-apartments-at-1283-howe-st-vancouver-bc-v6z-0e3
+Extracted 5 Floorplans for https://www.padmapper.com/buildings/p558967/west-bay-court-apartments-at-1111-pacific-st-vancouver-bc-v6e-3x7
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p222084/apartments-at-8735-selkirk-st-vancouver-bc-v6p-4j5
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p221590/apartments-at-1501-haro-st-vancouver-bc-v6g-1g4
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p221376/apartments-at-1580-haro-st-vancouver-bc-v6g-1g6
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p432510/apartments-at-1188-bidwell-st-vancouver-bc-v6g-0c6
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p913818/the-mansion-apartments-at-1523-davie-st-vancouver-bc-v6g-3a2
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p513898/landis-residences-at-1200-hornby-street-apartments-at-1200-hornby-st-vancouver-bc-v6z-1w2
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p287987/one-pacific-68-smithe-apartments-at-68-smithe-st-vancouver-bc-v6b-0p5
+Extracted 5 Floorplans for https://www.padmapper.com/buildings/p528696/the-florida-1170-barclay-apartments-at-1170-barclay-st-vancouver-bc-v6e-1h1
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p561030/apartments-at-1918-york-ave-vancouver-bc-v6j-1e3
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p213592/forte-apartments-at-1755-14th-ave-w-vancouver-bc-v6j-2j6
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p510456/viridian-apartments-at-1783-14th-ave-w-vancouver-bc-v6j-2j7
+Extracted 4 Floorplans for https://www.padmapper.com/buildings/p224226/apartments-at-855-jervis-st-vancouver-bc-v6e-2b2
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p928065/apartments-at-2291-1st-ave-w-vancouver-bc-v6k-1e9
+Extracted 5 Floorplans for https://www.padmapper.com/buildings/p555371/eterno-1168-pendrell-apartments-at-1168-pendrell-st-vancouver-bc-v6e-1l4
+Extracted 3 Floorplans for https://www.padmapper.com/buildings/p790092/muro-apartments-at-1770-davie-st-vancouver-bc-v6g-1w4
+Extracted 5 Floorplans for https://www.padmapper.com/buildings/p329044/beach-towers-apartments-at-1600l-beach-ave-vancouver-bc-v6g-1y6
+Extracted 5 Floorplans for https://www.padmapper.com/buildings/p1117150/arbutus-residences-apartments-at-2139-lahb-ave-vancouver-bc-v6l-0b9
+Extracted 5 Floorplans for https://www.padmapper.com/buildings/p615374/chronicle-apartments-at-825-nicola-st-vancouver-bc-v6g-2c4
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p446296/fraser-flats-apartments-at-3688-3618-3688-sawmill-crescent-vancouver-bc-v5s-0e6
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p288695/ocean-park-place-apartments-at-990-broughton-st-vancouver-bc-v6g-2a5
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p426759/the-standard-apartments-at-1142-granville-st-vancouver-bc-v6z-0b5
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p428567/pendrell-apartments-at-1108-pendrell-st-vancouver-bc-v6e-0c7
+Extracted 4 Floorplans for https://www.padmapper.com/buildings/p220490/skyline-apartments-at-1305-12th-ave-w-vancouver-bc-v6h-1m3
+Extracted 6 Floorplans for https://www.padmapper.com/buildings/p214592/yaletown-939-apartments-at-939-beatty-st-vancouver-bc-v6z-3c1
+Extracted 3 Floorplans for https://www.padmapper.com/buildings/p1013394/keel-apartments-at-8690-jack-uppal-st-vancouver-bc-v5s-0k1
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p469619/art-on-6th-apartments-at-1618-west-6th-ave-vancouver-bc-v6j-none
+Extracted 9 Floorplans for https://www.padmapper.com/buildings/p213237/bayview-at-coal-harbour-apartments-at-1529-pender-st-w-vancouver-bc-v6g-3j3
+Extracted 5 Floorplans for https://www.padmapper.com/buildings/p217942/metropolitan-towers-apartments-at-930-seymour-st-vancouver-bc-v6b-1b4
+Extracted 3 Floorplans for https://www.padmapper.com/buildings/p358944/english-bay-residences-apartments-at-1668-davie-st-vancouver-bc-v6g-1v9
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p489880/the-melbourne-apartments-at-3433-crowley-dr-vancouver-bc-v5r-6c5
+Extracted 3 Floorplans for https://www.padmapper.com/buildings/p489879/the-remington-apartments-at-3528-vanness-ave-vancouver-bc-v5r-6g4
+Extracted 5 Floorplans for https://www.padmapper.com/buildings/p722266/fontainebleau-apartments-at-5455-balsam-st-vancouver-bc-v6m-4b3
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p318108/regency-park-residences-apartments-at-1225-cardero-st-vancouver-bc-v6g-2h8
+Extracted 5 Floorplans for https://www.padmapper.com/buildings/p427023/bluesky-chinatown-apartments-at-183-georgia-st-e-vancouver-bc-v6a-0e5
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p808292/hub-place-apartments-at-1649-broadway-e-vancouver-bc-v5n-0j4
+Extracted 4 Floorplans for https://www.padmapper.com/buildings/p469624/pacific-palisades-apartments-at-788-jervis-st-vancouver-bc-v6e-0b5
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p469618/bayshore-outlook-apartments-at-699-cardero-st-vancouver-bc-v6g-3h7
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p469622/starlight-towers-apartments-at-5603-balsam-st-vancouver-bc-v6m-4b6
+Extracted 3 Floorplans for https://www.padmapper.com/buildings/p469623/chancellor-court-apartments-at-2233-allison-rd-vancouver-bc-v6t-1t7
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p447788/victoria-mews-apartments-at-1933-41st-ave-e-vancouver-bc-v5p-4y4
+Extracted 3 Floorplans for https://www.padmapper.com/buildings/p633202/apartments-at-8616-oak-st-vancouver-bc-v6p-4b3
+Extracted 3 Floorplans for https://www.padmapper.com/buildings/p993793/comma-fraser-apartments-at-695-east-19th-ave-vancouver-bc-v5v-none
+Extracted 4 Floorplans for https://www.padmapper.com/buildings/p604641/apartments-at-3583-kingsway-vancouver-bc-v5r-5l9
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p328414/strathmore-lodge-apartments-at-1086-bute-st-vancouver-bc-v6e-1z5
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p220487/bellevue-towers-apartments-at-4639-10th-ave-w-vancouver-bc-v6r-2j3
+Extracted 3 Floorplans for https://www.padmapper.com/buildings/p214411/false-creek-residences-apartments-at-75-1st-ave-w-vancouver-bc-v5y-0c4
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p515297/waldorf-studios-apartments-at-116-hastings-st-w-vancouver-bc-v6b-1g8
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p451969/shoreline-west-end-apartments-at-1763-comox-st-vancouver-bc-v6g-1p5
+Extracted 4 Floorplans for https://www.padmapper.com/buildings/p589984/kitsilano-low-rise-building-apartments-at-1750-vine-st-vancouver-bc-v6k-3j5
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p500584/quay-west-1-2-apartments-at-1033-marinaside-cres-vancouver-bc-v6z-3a3
+Extracted 5 Floorplans for https://www.padmapper.com/buildings/p529862/alma-455-abbott-street-apartments-at-455-abbott-st-vancouver-bc-v6b-2l2
+Extracted 3 Floorplans for https://www.padmapper.com/buildings/p369360/the-heights-apartments-at-388-skeena-st-vancouver-bc-v5k-0e5
+Extracted 3 Floorplans for https://www.padmapper.com/buildings/p1006583/hendry-place-apartments-at-3588-hull-street-vancouver-bc-v5n-4r9
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p220524/apartments-at-1011-beach-ave-vancouver-bc-v6e-1t8
+Extracted 18 Floorplans for https://www.padmapper.com/buildings/p1030084/aster-east-village-apartments-at-444-kootenay-street-vancouver-bc-v5k-0h7
+***** Extracted 80 listings for vancouver-bc *****
+https://www.padmapper.com/buildings/p449020/apartments-at-55-water-st-vancouver-bc-v6b-1a1
+https://www.padmapper.com/buildings/p1102762/apartments-at-2550-garden-dr-vancouver-bc-v5n-4x6
+https://www.padmapper.com/buildings/p792305/blood-alley-apartments-at-23-cordova-st-w-vancouver-bc-v6b-1c8
+https://www.padmapper.com/buildings/p431969/apartments-at-1770-pendrell-st-vancouver-bc-v6g-0c5
+https://www.padmapper.com/buildings/p220470/zephyr-apartments-at-1661-davie-st-vancouver-bc-v6g-1w1
+https://www.padmapper.com/buildings/p220485/flamingo-apartments-at-2061-beach-ave-vancouver-bc-v6g-1z3
+https://www.padmapper.com/buildings/p263578/barafield-apartments-at-1260-harwood-st-vancouver-bc-v6e-1s4
+https://www.padmapper.com/buildings/p225101/santana-apartments-at-1251-jervis-st-vancouver-bc-v6e-2e1
+https://www.padmapper.com/buildings/p604297/apartments-at-945-jervis-st-vancouver-bc-v6e-2b8
+https://www.padmapper.com/buildings/p646416/apartments-at-1360-hornby-st-vancouver-bc-v6z-1w5
+https://www.padmapper.com/buildings/p674390/apartments-at-1255-pendrell-st-vancouver-bc-v6e-1l7
+https://www.padmapper.com/buildings/p1013244/richards-pender-apartments-at-510-richards-st-vancouver-bc-v6b-none
+https://www.padmapper.com/buildings/p602868/apartments-at-1348-barclay-st-vancouver-bc-v6e-1h7
+https://www.padmapper.com/buildings/p528695/apartments-at-2035-barclay-st-vancouver-bc-v6g-1l6
+https://www.padmapper.com/buildings/p368034/wesley-place-apartments-at-1022-nelson-st-vancouver-bc-v6e-4s7
+https://www.padmapper.com/buildings/p228884/apartments-at-5815-yew-st-vancouver-bc-v6m-3y6
+https://www.padmapper.com/buildings/p780822/burrard-place-rental-apartments-at-1289-hornby-st-vancouver-bc-v6z-0g7
+https://www.padmapper.com/buildings/p1017597/apartments-at-440-richards-st-vancouver-bc-v6b-2z3
+https://www.padmapper.com/buildings/p513254/modern-1009-harwood-street-apartments-at-1009-harwood-st-vancouver-bc-v6e-0c2
+https://www.padmapper.com/buildings/p436541/apartments-at-935-jervis-st-vancouver-bc-v6e-2b5
+https://www.padmapper.com/buildings/p765919/suffolk-house-1540-haro-apartments-at-1540-haro-st-vancouver-bc-v6g-1g5
+https://www.padmapper.com/buildings/p432509/apartments-at-33-water-st-vancouver-bc-v6b-1r4
+https://www.padmapper.com/buildings/p498070/brixton-flats-apartments-at-303-pender-st-e-vancouver-bc-v6a-0j3
+https://www.padmapper.com/buildings/p428564/tate-1283-howe-apartments-at-1283-howe-st-vancouver-bc-v6z-0e3
+https://www.padmapper.com/buildings/p558967/west-bay-court-apartments-at-1111-pacific-st-vancouver-bc-v6e-3x7
+https://www.padmapper.com/buildings/p222084/apartments-at-8735-selkirk-st-vancouver-bc-v6p-4j5
+https://www.padmapper.com/buildings/p221590/apartments-at-1501-haro-st-vancouver-bc-v6g-1g4
+https://www.padmapper.com/buildings/p221376/apartments-at-1580-haro-st-vancouver-bc-v6g-1g6
+https://www.padmapper.com/buildings/p432510/apartments-at-1188-bidwell-st-vancouver-bc-v6g-0c6
+https://www.padmapper.com/buildings/p913818/the-mansion-apartments-at-1523-davie-st-vancouver-bc-v6g-3a2
+https://www.padmapper.com/buildings/p513898/landis-residences-at-1200-hornby-street-apartments-at-1200-hornby-st-vancouver-bc-v6z-1w2
+https://www.padmapper.com/buildings/p287987/one-pacific-68-smithe-apartments-at-68-smithe-st-vancouver-bc-v6b-0p5
+https://www.padmapper.com/buildings/p528696/the-florida-1170-barclay-apartments-at-1170-barclay-st-vancouver-bc-v6e-1h1
+https://www.padmapper.com/buildings/p561030/apartments-at-1918-york-ave-vancouver-bc-v6j-1e3
+https://www.padmapper.com/buildings/p213592/forte-apartments-at-1755-14th-ave-w-vancouver-bc-v6j-2j6
+https://www.padmapper.com/buildings/p510456/viridian-apartments-at-1783-14th-ave-w-vancouver-bc-v6j-2j7
+https://www.padmapper.com/buildings/p224226/apartments-at-855-jervis-st-vancouver-bc-v6e-2b2
+https://www.padmapper.com/buildings/p928065/apartments-at-2291-1st-ave-w-vancouver-bc-v6k-1e9
+https://www.padmapper.com/buildings/p555371/eterno-1168-pendrell-apartments-at-1168-pendrell-st-vancouver-bc-v6e-1l4
+https://www.padmapper.com/buildings/p790092/muro-apartments-at-1770-davie-st-vancouver-bc-v6g-1w4
+https://www.padmapper.com/buildings/p329044/beach-towers-apartments-at-1600l-beach-ave-vancouver-bc-v6g-1y6
+https://www.padmapper.com/buildings/p1117150/arbutus-residences-apartments-at-2139-lahb-ave-vancouver-bc-v6l-0b9
+https://www.padmapper.com/buildings/p615374/chronicle-apartments-at-825-nicola-st-vancouver-bc-v6g-2c4
+https://www.padmapper.com/buildings/p446296/fraser-flats-apartments-at-3688-3618-3688-sawmill-crescent-vancouver-bc-v5s-0e6
+https://www.padmapper.com/buildings/p288695/ocean-park-place-apartments-at-990-broughton-st-vancouver-bc-v6g-2a5
+https://www.padmapper.com/buildings/p426759/the-standard-apartments-at-1142-granville-st-vancouver-bc-v6z-0b5
+https://www.padmapper.com/buildings/p428567/pendrell-apartments-at-1108-pendrell-st-vancouver-bc-v6e-0c7
+https://www.padmapper.com/buildings/p220490/skyline-apartments-at-1305-12th-ave-w-vancouver-bc-v6h-1m3
+https://www.padmapper.com/buildings/p214592/yaletown-939-apartments-at-939-beatty-st-vancouver-bc-v6z-3c1
+https://www.padmapper.com/buildings/p1013394/keel-apartments-at-8690-jack-uppal-st-vancouver-bc-v5s-0k1
+https://www.padmapper.com/buildings/p469619/art-on-6th-apartments-at-1618-west-6th-ave-vancouver-bc-v6j-none
+https://www.padmapper.com/buildings/p213237/bayview-at-coal-harbour-apartments-at-1529-pender-st-w-vancouver-bc-v6g-3j3
+https://www.padmapper.com/buildings/p217942/metropolitan-towers-apartments-at-930-seymour-st-vancouver-bc-v6b-1b4
+https://www.padmapper.com/buildings/p358944/english-bay-residences-apartments-at-1668-davie-st-vancouver-bc-v6g-1v9
+https://www.padmapper.com/buildings/p489880/the-melbourne-apartments-at-3433-crowley-dr-vancouver-bc-v5r-6c5
+https://www.padmapper.com/buildings/p489879/the-remington-apartments-at-3528-vanness-ave-vancouver-bc-v5r-6g4
+https://www.padmapper.com/buildings/p722266/fontainebleau-apartments-at-5455-balsam-st-vancouver-bc-v6m-4b3
+https://www.padmapper.com/buildings/p318108/regency-park-residences-apartments-at-1225-cardero-st-vancouver-bc-v6g-2h8
+https://www.padmapper.com/buildings/p427023/bluesky-chinatown-apartments-at-183-georgia-st-e-vancouver-bc-v6a-0e5
+https://www.padmapper.com/buildings/p808292/hub-place-apartments-at-1649-broadway-e-vancouver-bc-v5n-0j4
+https://www.padmapper.com/buildings/p469624/pacific-palisades-apartments-at-788-jervis-st-vancouver-bc-v6e-0b5
+https://www.padmapper.com/buildings/p469618/bayshore-outlook-apartments-at-699-cardero-st-vancouver-bc-v6g-3h7
+https://www.padmapper.com/buildings/p469622/starlight-towers-apartments-at-5603-balsam-st-vancouver-bc-v6m-4b6
+https://www.padmapper.com/buildings/p469623/chancellor-court-apartments-at-2233-allison-rd-vancouver-bc-v6t-1t7
+https://www.padmapper.com/buildings/p447788/victoria-mews-apartments-at-1933-41st-ave-e-vancouver-bc-v5p-4y4
+https://www.padmapper.com/buildings/p633202/apartments-at-8616-oak-st-vancouver-bc-v6p-4b3
+https://www.padmapper.com/buildings/p993793/comma-fraser-apartments-at-695-east-19th-ave-vancouver-bc-v5v-none
+https://www.padmapper.com/buildings/p604641/apartments-at-3583-kingsway-vancouver-bc-v5r-5l9
+https://www.padmapper.com/buildings/p328414/strathmore-lodge-apartments-at-1086-bute-st-vancouver-bc-v6e-1z5
+https://www.padmapper.com/buildings/p220487/bellevue-towers-apartments-at-4639-10th-ave-w-vancouver-bc-v6r-2j3
+https://www.padmapper.com/buildings/p214411/false-creek-residences-apartments-at-75-1st-ave-w-vancouver-bc-v5y-0c4
+https://www.padmapper.com/buildings/p515297/waldorf-studios-apartments-at-116-hastings-st-w-vancouver-bc-v6b-1g8
+https://www.padmapper.com/buildings/p451969/shoreline-west-end-apartments-at-1763-comox-st-vancouver-bc-v6g-1p5
+https://www.padmapper.com/buildings/p589984/kitsilano-low-rise-building-apartments-at-1750-vine-st-vancouver-bc-v6k-3j5
+https://www.padmapper.com/buildings/p500584/quay-west-1-2-apartments-at-1033-marinaside-cres-vancouver-bc-v6z-3a3
+https://www.padmapper.com/buildings/p529862/alma-455-abbott-street-apartments-at-455-abbott-st-vancouver-bc-v6b-2l2
+https://www.padmapper.com/buildings/p369360/the-heights-apartments-at-388-skeena-st-vancouver-bc-v5k-0e5
+https://www.padmapper.com/buildings/p1006583/hendry-place-apartments-at-3588-hull-street-vancouver-bc-v5n-4r9
+https://www.padmapper.com/buildings/p220524/apartments-at-1011-beach-ave-vancouver-bc-v6e-1t8
+https://www.padmapper.com/buildings/p1030084/aster-east-village-apartments-at-444-kootenay-street-vancouver-bc-v5k-0h7
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p449020/apartments-at-55-water-st-vancouver-bc-v6b-1a1, retrying...
+Processing listing: https://www.padmapper.com/buildings/p449020/apartments-at-55-water-st-vancouver-bc-v6b-1a1
+Extracted 3 units in Vancouver
+Total units: 3
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p1102762/apartments-at-2550-garden-dr-vancouver-bc-v5n-4x6, retrying...
+Processing listing: https://www.padmapper.com/buildings/p1102762/apartments-at-2550-garden-dr-vancouver-bc-v5n-4x6
+Extracted 4 units in Vancouver
+Total units: 7
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p792305/blood-alley-apartments-at-23-cordova-st-w-vancouver-bc-v6b-1c8, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p792305/blood-alley-apartments-at-23-cordova-st-w-vancouver-bc-v6b-1c8, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p792305/blood-alley-apartments-at-23-cordova-st-w-vancouver-bc-v6b-1c8, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p431969/apartments-at-1770-pendrell-st-vancouver-bc-v6g-0c5, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p431969/apartments-at-1770-pendrell-st-vancouver-bc-v6g-0c5, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p431969/apartments-at-1770-pendrell-st-vancouver-bc-v6g-0c5, retrying...
+Processing listing: https://www.padmapper.com/buildings/p220470/zephyr-apartments-at-1661-davie-st-vancouver-bc-v6g-1w1
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p220470/zephyr-apartments-at-1661-davie-st-vancouver-bc-v6g-1w1, retrying...
+Extracted 3 units in Vancouver
+Total units: 10
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p220470/zephyr-apartments-at-1661-davie-st-vancouver-bc-v6g-1w1, retrying...
+Processing listing: https://www.padmapper.com/buildings/p220470/zephyr-apartments-at-1661-davie-st-vancouver-bc-v6g-1w1
+Extracted 3 units in Vancouver
+Total units: 13
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p220485/flamingo-apartments-at-2061-beach-ave-vancouver-bc-v6g-1z3, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p220485/flamingo-apartments-at-2061-beach-ave-vancouver-bc-v6g-1z3, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p220485/flamingo-apartments-at-2061-beach-ave-vancouver-bc-v6g-1z3, retrying...
+Processing listing: https://www.padmapper.com/buildings/p263578/barafield-apartments-at-1260-harwood-st-vancouver-bc-v6e-1s4
+Extracted 4 units in Vancouver
+Total units: 17
+Processing listing: https://www.padmapper.com/buildings/p225101/santana-apartments-at-1251-jervis-st-vancouver-bc-v6e-2e1
+Extracted 2 units in Vancouver
+Total units: 19
+Processing listing: https://www.padmapper.com/buildings/p604297/apartments-at-945-jervis-st-vancouver-bc-v6e-2b8
+Extracted 2 units in Vancouver
+Total units: 21
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p646416/apartments-at-1360-hornby-st-vancouver-bc-v6z-1w5, retrying...
+Processing listing: https://www.padmapper.com/buildings/p646416/apartments-at-1360-hornby-st-vancouver-bc-v6z-1w5
+Extracted 2 units in Vancouver
+Total units: 23
+Processing listing: https://www.padmapper.com/buildings/p674390/apartments-at-1255-pendrell-st-vancouver-bc-v6e-1l7
+Extracted 2 units in Vancouver
+Total units: 25
+Processing listing: https://www.padmapper.com/buildings/p1013244/richards-pender-apartments-at-510-richards-st-vancouver-bc-v6b-none
+Extracted 2 units in Vancouver
+Total units: 27
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p602868/apartments-at-1348-barclay-st-vancouver-bc-v6e-1h7, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p602868/apartments-at-1348-barclay-st-vancouver-bc-v6e-1h7, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p602868/apartments-at-1348-barclay-st-vancouver-bc-v6e-1h7, retrying...
+Processing listing: https://www.padmapper.com/buildings/p528695/apartments-at-2035-barclay-st-vancouver-bc-v6g-1l6
+Extracted 2 units in Vancouver
+Total units: 29
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p368034/wesley-place-apartments-at-1022-nelson-st-vancouver-bc-v6e-4s7, retrying...
+Processing listing: https://www.padmapper.com/buildings/p368034/wesley-place-apartments-at-1022-nelson-st-vancouver-bc-v6e-4s7
+Extracted 4 units in Vancouver
+Total units: 33
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p228884/apartments-at-5815-yew-st-vancouver-bc-v6m-3y6, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p228884/apartments-at-5815-yew-st-vancouver-bc-v6m-3y6, retrying...
+Processing listing: https://www.padmapper.com/buildings/p228884/apartments-at-5815-yew-st-vancouver-bc-v6m-3y6
+Extracted 2 units in Vancouver
+Total units: 35
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p780822/burrard-place-rental-apartments-at-1289-hornby-st-vancouver-bc-v6z-0g7, retrying...
+Processing listing: https://www.padmapper.com/buildings/p780822/burrard-place-rental-apartments-at-1289-hornby-st-vancouver-bc-v6z-0g7
+Extracted 3 units in Vancouver
+Total units: 38
+Processing listing: https://www.padmapper.com/buildings/p1017597/apartments-at-440-richards-st-vancouver-bc-v6b-2z3
+Extracted 2 units in Vancouver
+Total units: 40
+Processing listing: https://www.padmapper.com/buildings/p513254/modern-1009-harwood-street-apartments-at-1009-harwood-st-vancouver-bc-v6e-0c2
+Extracted 2 units in Vancouver
+Total units: 42
+Processing listing: https://www.padmapper.com/buildings/p436541/apartments-at-935-jervis-st-vancouver-bc-v6e-2b5
+Extracted 4 units in Vancouver
+Total units: 46
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p765919/suffolk-house-1540-haro-apartments-at-1540-haro-st-vancouver-bc-v6g-1g5, retrying...
+Processing listing: https://www.padmapper.com/buildings/p765919/suffolk-house-1540-haro-apartments-at-1540-haro-st-vancouver-bc-v6g-1g5
+Extracted 4 units in Vancouver
+Total units: 50
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p432509/apartments-at-33-water-st-vancouver-bc-v6b-1r4, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p432509/apartments-at-33-water-st-vancouver-bc-v6b-1r4, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p432509/apartments-at-33-water-st-vancouver-bc-v6b-1r4, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p498070/brixton-flats-apartments-at-303-pender-st-e-vancouver-bc-v6a-0j3, retrying...
+Processing listing: https://www.padmapper.com/buildings/p498070/brixton-flats-apartments-at-303-pender-st-e-vancouver-bc-v6a-0j3
+Extracted 2 units in Vancouver
+Total units: 52
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p428564/tate-1283-howe-apartments-at-1283-howe-st-vancouver-bc-v6z-0e3, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p428564/tate-1283-howe-apartments-at-1283-howe-st-vancouver-bc-v6z-0e3, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p428564/tate-1283-howe-apartments-at-1283-howe-st-vancouver-bc-v6z-0e3, retrying...
+Processing listing: https://www.padmapper.com/buildings/p558967/west-bay-court-apartments-at-1111-pacific-st-vancouver-bc-v6e-3x7
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p558967/west-bay-court-apartments-at-1111-pacific-st-vancouver-bc-v6e-3x7, retrying...
+Extracted 5 units in Vancouver
+Total units: 57
+Processing listing: https://www.padmapper.com/buildings/p558967/west-bay-court-apartments-at-1111-pacific-st-vancouver-bc-v6e-3x7
+Extracted 5 units in Vancouver
+Total units: 62
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p222084/apartments-at-8735-selkirk-st-vancouver-bc-v6p-4j5, retrying...
+Processing listing: https://www.padmapper.com/buildings/p222084/apartments-at-8735-selkirk-st-vancouver-bc-v6p-4j5
+Extracted 2 units in Vancouver
+Total units: 64
+Processing listing: https://www.padmapper.com/buildings/p221590/apartments-at-1501-haro-st-vancouver-bc-v6g-1g4
+Extracted 2 units in Vancouver
+Total units: 66
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p221376/apartments-at-1580-haro-st-vancouver-bc-v6g-1g6, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p221376/apartments-at-1580-haro-st-vancouver-bc-v6g-1g6, retrying...
+Processing listing: https://www.padmapper.com/buildings/p221376/apartments-at-1580-haro-st-vancouver-bc-v6g-1g6
+Extracted 2 units in Vancouver
+Total units: 68
+Processing listing: https://www.padmapper.com/buildings/p432510/apartments-at-1188-bidwell-st-vancouver-bc-v6g-0c6
+Extracted 2 units in Vancouver
+Total units: 70
+Processing listing: https://www.padmapper.com/buildings/p913818/the-mansion-apartments-at-1523-davie-st-vancouver-bc-v6g-3a2
+Extracted 2 units in Vancouver
+Total units: 72
+Processing listing: https://www.padmapper.com/buildings/p513898/landis-residences-at-1200-hornby-street-apartments-at-1200-hornby-st-vancouver-bc-v6z-1w2
+Extracted 2 units in Vancouver
+Total units: 74
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p287987/one-pacific-68-smithe-apartments-at-68-smithe-st-vancouver-bc-v6b-0p5, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p287987/one-pacific-68-smithe-apartments-at-68-smithe-st-vancouver-bc-v6b-0p5, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p287987/one-pacific-68-smithe-apartments-at-68-smithe-st-vancouver-bc-v6b-0p5, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p528696/the-florida-1170-barclay-apartments-at-1170-barclay-st-vancouver-bc-v6e-1h1, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p528696/the-florida-1170-barclay-apartments-at-1170-barclay-st-vancouver-bc-v6e-1h1, retrying...
+Processing listing: https://www.padmapper.com/buildings/p528696/the-florida-1170-barclay-apartments-at-1170-barclay-st-vancouver-bc-v6e-1h1
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p528696/the-florida-1170-barclay-apartments-at-1170-barclay-st-vancouver-bc-v6e-1h1, retrying...
+Extracted 5 units in Vancouver
+Total units: 79
+Processing listing: https://www.padmapper.com/buildings/p561030/apartments-at-1918-york-ave-vancouver-bc-v6j-1e3
+Extracted 2 units in Vancouver
+Total units: 81
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p213592/forte-apartments-at-1755-14th-ave-w-vancouver-bc-v6j-2j6, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p213592/forte-apartments-at-1755-14th-ave-w-vancouver-bc-v6j-2j6, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p213592/forte-apartments-at-1755-14th-ave-w-vancouver-bc-v6j-2j6, retrying...
+Processing listing: https://www.padmapper.com/buildings/p510456/viridian-apartments-at-1783-14th-ave-w-vancouver-bc-v6j-2j7
+Extracted 2 units in Vancouver
+Total units: 83
+Processing listing: https://www.padmapper.com/buildings/p224226/apartments-at-855-jervis-st-vancouver-bc-v6e-2b2
+Extracted 4 units in Vancouver
+Total units: 87
+Processing listing: https://www.padmapper.com/buildings/p928065/apartments-at-2291-1st-ave-w-vancouver-bc-v6k-1e9
+Extracted 2 units in Vancouver
+Total units: 89
+Processing listing: https://www.padmapper.com/buildings/p555371/eterno-1168-pendrell-apartments-at-1168-pendrell-st-vancouver-bc-v6e-1l4
+Extracted 5 units in Vancouver
+Total units: 94
+Error occurred on url: https://www.padmapper.com/buildings/p555371/eterno-1168-pendrell-apartments-at-1168-pendrell-st-vancouver-bc-v6e-1l4
+Processing listing: https://www.padmapper.com/buildings/p790092/muro-apartments-at-1770-davie-st-vancouver-bc-v6g-1w4
+Extracted 3 units in Vancouver
+Total units: 97
+Error occurred on url: https://www.padmapper.com/buildings/p790092/muro-apartments-at-1770-davie-st-vancouver-bc-v6g-1w4
+Processing listing: https://www.padmapper.com/buildings/p329044/beach-towers-apartments-at-1600l-beach-ave-vancouver-bc-v6g-1y6
+Extracted 5 units in Vancouver
+Total units: 102
+Error occurred on url: https://www.padmapper.com/buildings/p329044/beach-towers-apartments-at-1600l-beach-ave-vancouver-bc-v6g-1y6
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p1117150/arbutus-residences-apartments-at-2139-lahb-ave-vancouver-bc-v6l-0b9, retrying...
+Processing listing: https://www.padmapper.com/buildings/p1117150/arbutus-residences-apartments-at-2139-lahb-ave-vancouver-bc-v6l-0b9
+Extracted 5 units in Vancouver
+Total units: 107
+Error occurred on url: https://www.padmapper.com/buildings/p1117150/arbutus-residences-apartments-at-2139-lahb-ave-vancouver-bc-v6l-0b9
+Processing listing: https://www.padmapper.com/buildings/p615374/chronicle-apartments-at-825-nicola-st-vancouver-bc-v6g-2c4
+Extracted 5 units in Vancouver
+Total units: 112
+Error occurred on url: https://www.padmapper.com/buildings/p615374/chronicle-apartments-at-825-nicola-st-vancouver-bc-v6g-2c4
+Processing listing: https://www.padmapper.com/buildings/p446296/fraser-flats-apartments-at-3688-3618-3688-sawmill-crescent-vancouver-bc-v5s-0e6
+Extracted 2 units in Vancouver
+Total units: 114
+Error occurred on url: https://www.padmapper.com/buildings/p446296/fraser-flats-apartments-at-3688-3618-3688-sawmill-crescent-vancouver-bc-v5s-0e6
+Processing listing: https://www.padmapper.com/buildings/p288695/ocean-park-place-apartments-at-990-broughton-st-vancouver-bc-v6g-2a5
+Extracted 2 units in Vancouver
+Total units: 116
+Error occurred on url: https://www.padmapper.com/buildings/p288695/ocean-park-place-apartments-at-990-broughton-st-vancouver-bc-v6g-2a5
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p426759/the-standard-apartments-at-1142-granville-st-vancouver-bc-v6z-0b5, retrying...
+Processing listing: https://www.padmapper.com/buildings/p426759/the-standard-apartments-at-1142-granville-st-vancouver-bc-v6z-0b5
+Extracted 2 units in Vancouver
+Total units: 118
+Error occurred on url: https://www.padmapper.com/buildings/p426759/the-standard-apartments-at-1142-granville-st-vancouver-bc-v6z-0b5
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p428567/pendrell-apartments-at-1108-pendrell-st-vancouver-bc-v6e-0c7, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p428567/pendrell-apartments-at-1108-pendrell-st-vancouver-bc-v6e-0c7, retrying...
+Processing listing: https://www.padmapper.com/buildings/p428567/pendrell-apartments-at-1108-pendrell-st-vancouver-bc-v6e-0c7
+Extracted 2 units in Vancouver
+Total units: 120
+Error occurred on url: https://www.padmapper.com/buildings/p428567/pendrell-apartments-at-1108-pendrell-st-vancouver-bc-v6e-0c7
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p220490/skyline-apartments-at-1305-12th-ave-w-vancouver-bc-v6h-1m3, retrying...
+Processing listing: https://www.padmapper.com/buildings/p220490/skyline-apartments-at-1305-12th-ave-w-vancouver-bc-v6h-1m3
+Extracted 4 units in Vancouver
+Total units: 124
+Error occurred on url: https://www.padmapper.com/buildings/p220490/skyline-apartments-at-1305-12th-ave-w-vancouver-bc-v6h-1m3
+Processing listing: https://www.padmapper.com/buildings/p214592/yaletown-939-apartments-at-939-beatty-st-vancouver-bc-v6z-3c1
+Extracted 6 units in Vancouver
+Total units: 130
+Error occurred on url: https://www.padmapper.com/buildings/p214592/yaletown-939-apartments-at-939-beatty-st-vancouver-bc-v6z-3c1
+Processing listing: https://www.padmapper.com/buildings/p1013394/keel-apartments-at-8690-jack-uppal-st-vancouver-bc-v5s-0k1
+Extracted 3 units in Vancouver
+Total units: 133
+Error occurred on url: https://www.padmapper.com/buildings/p1013394/keel-apartments-at-8690-jack-uppal-st-vancouver-bc-v5s-0k1
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p469619/art-on-6th-apartments-at-1618-west-6th-ave-vancouver-bc-v6j-none, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p469619/art-on-6th-apartments-at-1618-west-6th-ave-vancouver-bc-v6j-none, retrying...
+Processing listing: https://www.padmapper.com/buildings/p469619/art-on-6th-apartments-at-1618-west-6th-ave-vancouver-bc-v6j-none
+Extracted 2 units in Vancouver
+Total units: 135
+Error occurred on url: https://www.padmapper.com/buildings/p469619/art-on-6th-apartments-at-1618-west-6th-ave-vancouver-bc-v6j-none
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p213237/bayview-at-coal-harbour-apartments-at-1529-pender-st-w-vancouver-bc-v6g-3j3, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p213237/bayview-at-coal-harbour-apartments-at-1529-pender-st-w-vancouver-bc-v6g-3j3, retrying...
+Processing listing: https://www.padmapper.com/buildings/p213237/bayview-at-coal-harbour-apartments-at-1529-pender-st-w-vancouver-bc-v6g-3j3
+Extracted 9 units in Vancouver
+Total units: 144
+Error occurred on url: https://www.padmapper.com/buildings/p213237/bayview-at-coal-harbour-apartments-at-1529-pender-st-w-vancouver-bc-v6g-3j3
+Processing listing: https://www.padmapper.com/buildings/p217942/metropolitan-towers-apartments-at-930-seymour-st-vancouver-bc-v6b-1b4
+Extracted 5 units in Vancouver
+Total units: 149
+Error occurred on url: https://www.padmapper.com/buildings/p217942/metropolitan-towers-apartments-at-930-seymour-st-vancouver-bc-v6b-1b4
+Processing listing: https://www.padmapper.com/buildings/p358944/english-bay-residences-apartments-at-1668-davie-st-vancouver-bc-v6g-1v9
+Extracted 3 units in Vancouver
+Total units: 152
+Error occurred on url: https://www.padmapper.com/buildings/p358944/english-bay-residences-apartments-at-1668-davie-st-vancouver-bc-v6g-1v9
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p489880/the-melbourne-apartments-at-3433-crowley-dr-vancouver-bc-v5r-6c5, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p489880/the-melbourne-apartments-at-3433-crowley-dr-vancouver-bc-v5r-6c5, retrying...
+Processing listing: https://www.padmapper.com/buildings/p489880/the-melbourne-apartments-at-3433-crowley-dr-vancouver-bc-v5r-6c5
+Extracted 2 units in Vancouver
+Total units: 154
+Error occurred on url: https://www.padmapper.com/buildings/p489880/the-melbourne-apartments-at-3433-crowley-dr-vancouver-bc-v5r-6c5
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p489879/the-remington-apartments-at-3528-vanness-ave-vancouver-bc-v5r-6g4, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p489879/the-remington-apartments-at-3528-vanness-ave-vancouver-bc-v5r-6g4, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p489879/the-remington-apartments-at-3528-vanness-ave-vancouver-bc-v5r-6g4, retrying...
+Error occurred on url: https://www.padmapper.com/buildings/p489879/the-remington-apartments-at-3528-vanness-ave-vancouver-bc-v5r-6g4
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p722266/fontainebleau-apartments-at-5455-balsam-st-vancouver-bc-v6m-4b3, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p722266/fontainebleau-apartments-at-5455-balsam-st-vancouver-bc-v6m-4b3, retrying...
+Processing listing: https://www.padmapper.com/buildings/p722266/fontainebleau-apartments-at-5455-balsam-st-vancouver-bc-v6m-4b3
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p722266/fontainebleau-apartments-at-5455-balsam-st-vancouver-bc-v6m-4b3, retrying...
+Error occurred on url: https://www.padmapper.com/buildings/p722266/fontainebleau-apartments-at-5455-balsam-st-vancouver-bc-v6m-4b3
+Extracted 5 units in Vancouver
+Total units: 159
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p318108/regency-park-residences-apartments-at-1225-cardero-st-vancouver-bc-v6g-2h8, retrying...
+Processing listing: https://www.padmapper.com/buildings/p318108/regency-park-residences-apartments-at-1225-cardero-st-vancouver-bc-v6g-2h8
+Extracted 2 units in Vancouver
+Total units: 161
+Error occurred on url: https://www.padmapper.com/buildings/p318108/regency-park-residences-apartments-at-1225-cardero-st-vancouver-bc-v6g-2h8
+Processing listing: https://www.padmapper.com/buildings/p427023/bluesky-chinatown-apartments-at-183-georgia-st-e-vancouver-bc-v6a-0e5
+Extracted 5 units in Vancouver
+Total units: 166
+Error occurred on url: https://www.padmapper.com/buildings/p427023/bluesky-chinatown-apartments-at-183-georgia-st-e-vancouver-bc-v6a-0e5
+Processing listing: https://www.padmapper.com/buildings/p808292/hub-place-apartments-at-1649-broadway-e-vancouver-bc-v5n-0j4
+Extracted 2 units in Vancouver
+Total units: 168
+Error occurred on url: https://www.padmapper.com/buildings/p808292/hub-place-apartments-at-1649-broadway-e-vancouver-bc-v5n-0j4
+Processing listing: https://www.padmapper.com/buildings/p469624/pacific-palisades-apartments-at-788-jervis-st-vancouver-bc-v6e-0b5
+Extracted 4 units in Vancouver
+Total units: 172
+Error occurred on url: https://www.padmapper.com/buildings/p469624/pacific-palisades-apartments-at-788-jervis-st-vancouver-bc-v6e-0b5
+Processing listing: https://www.padmapper.com/buildings/p469618/bayshore-outlook-apartments-at-699-cardero-st-vancouver-bc-v6g-3h7
+Extracted 2 units in Vancouver
+Total units: 174
+Error occurred on url: https://www.padmapper.com/buildings/p469618/bayshore-outlook-apartments-at-699-cardero-st-vancouver-bc-v6g-3h7
+Processing listing: https://www.padmapper.com/buildings/p469622/starlight-towers-apartments-at-5603-balsam-st-vancouver-bc-v6m-4b6
+Extracted 2 units in Vancouver
+Total units: 176
+Error occurred on url: https://www.padmapper.com/buildings/p469622/starlight-towers-apartments-at-5603-balsam-st-vancouver-bc-v6m-4b6
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p469623/chancellor-court-apartments-at-2233-allison-rd-vancouver-bc-v6t-1t7, retrying...
+Processing listing: https://www.padmapper.com/buildings/p469623/chancellor-court-apartments-at-2233-allison-rd-vancouver-bc-v6t-1t7
+Extracted 3 units in Vancouver
+Total units: 179
+Error occurred on url: https://www.padmapper.com/buildings/p469623/chancellor-court-apartments-at-2233-allison-rd-vancouver-bc-v6t-1t7
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p447788/victoria-mews-apartments-at-1933-41st-ave-e-vancouver-bc-v5p-4y4, retrying...
+Processing listing: https://www.padmapper.com/buildings/p447788/victoria-mews-apartments-at-1933-41st-ave-e-vancouver-bc-v5p-4y4
+Extracted 2 units in Vancouver
+Total units: 181
+Error occurred on url: https://www.padmapper.com/buildings/p447788/victoria-mews-apartments-at-1933-41st-ave-e-vancouver-bc-v5p-4y4
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p633202/apartments-at-8616-oak-st-vancouver-bc-v6p-4b3, retrying...
+Processing listing: https://www.padmapper.com/buildings/p633202/apartments-at-8616-oak-st-vancouver-bc-v6p-4b3
+Extracted 3 units in Vancouver
+Total units: 184
+Error occurred on url: https://www.padmapper.com/buildings/p633202/apartments-at-8616-oak-st-vancouver-bc-v6p-4b3
+Processing listing: https://www.padmapper.com/buildings/p993793/comma-fraser-apartments-at-695-east-19th-ave-vancouver-bc-v5v-none
+Extracted 3 units in Vancouver
+Total units: 187
+Error occurred on url: https://www.padmapper.com/buildings/p993793/comma-fraser-apartments-at-695-east-19th-ave-vancouver-bc-v5v-none
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p604641/apartments-at-3583-kingsway-vancouver-bc-v5r-5l9, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p604641/apartments-at-3583-kingsway-vancouver-bc-v5r-5l9, retrying...
+Processing listing: https://www.padmapper.com/buildings/p604641/apartments-at-3583-kingsway-vancouver-bc-v5r-5l9
+Extracted 4 units in Vancouver
+Total units: 191
+Error occurred on url: https://www.padmapper.com/buildings/p604641/apartments-at-3583-kingsway-vancouver-bc-v5r-5l9
+Processing listing: https://www.padmapper.com/buildings/p328414/strathmore-lodge-apartments-at-1086-bute-st-vancouver-bc-v6e-1z5
+Extracted 2 units in Vancouver
+Total units: 193
+Error occurred on url: https://www.padmapper.com/buildings/p328414/strathmore-lodge-apartments-at-1086-bute-st-vancouver-bc-v6e-1z5
+Processing listing: https://www.padmapper.com/buildings/p220487/bellevue-towers-apartments-at-4639-10th-ave-w-vancouver-bc-v6r-2j3
+Extracted 2 units in Vancouver
+Total units: 195
+Error occurred on url: https://www.padmapper.com/buildings/p220487/bellevue-towers-apartments-at-4639-10th-ave-w-vancouver-bc-v6r-2j3
+Processing listing: https://www.padmapper.com/buildings/p214411/false-creek-residences-apartments-at-75-1st-ave-w-vancouver-bc-v5y-0c4
+Extracted 3 units in Vancouver
+Total units: 198
+Error occurred on url: https://www.padmapper.com/buildings/p214411/false-creek-residences-apartments-at-75-1st-ave-w-vancouver-bc-v5y-0c4
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p515297/waldorf-studios-apartments-at-116-hastings-st-w-vancouver-bc-v6b-1g8, retrying...
+Processing listing: https://www.padmapper.com/buildings/p515297/waldorf-studios-apartments-at-116-hastings-st-w-vancouver-bc-v6b-1g8
+Extracted 2 units in Vancouver
+Total units: 200
+Error occurred on url: https://www.padmapper.com/buildings/p515297/waldorf-studios-apartments-at-116-hastings-st-w-vancouver-bc-v6b-1g8
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p451969/shoreline-west-end-apartments-at-1763-comox-st-vancouver-bc-v6g-1p5, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p451969/shoreline-west-end-apartments-at-1763-comox-st-vancouver-bc-v6g-1p5, retrying...
+Processing listing: https://www.padmapper.com/buildings/p451969/shoreline-west-end-apartments-at-1763-comox-st-vancouver-bc-v6g-1p5
+Extracted 2 units in Vancouver
+Total units: 202
+Error occurred on url: https://www.padmapper.com/buildings/p451969/shoreline-west-end-apartments-at-1763-comox-st-vancouver-bc-v6g-1p5
+Processing listing: https://www.padmapper.com/buildings/p589984/kitsilano-low-rise-building-apartments-at-1750-vine-st-vancouver-bc-v6k-3j5
+Extracted 4 units in Vancouver
+Total units: 206
+Error occurred on url: https://www.padmapper.com/buildings/p589984/kitsilano-low-rise-building-apartments-at-1750-vine-st-vancouver-bc-v6k-3j5
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p500584/quay-west-1-2-apartments-at-1033-marinaside-cres-vancouver-bc-v6z-3a3, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p500584/quay-west-1-2-apartments-at-1033-marinaside-cres-vancouver-bc-v6z-3a3, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p500584/quay-west-1-2-apartments-at-1033-marinaside-cres-vancouver-bc-v6z-3a3, retrying...
+Error occurred on url: https://www.padmapper.com/buildings/p500584/quay-west-1-2-apartments-at-1033-marinaside-cres-vancouver-bc-v6z-3a3
+Processing listing: https://www.padmapper.com/buildings/p529862/alma-455-abbott-street-apartments-at-455-abbott-st-vancouver-bc-v6b-2l2
+Extracted 5 units in Vancouver
+Total units: 211
+Error occurred on url: https://www.padmapper.com/buildings/p529862/alma-455-abbott-street-apartments-at-455-abbott-st-vancouver-bc-v6b-2l2
+Processing listing: https://www.padmapper.com/buildings/p369360/the-heights-apartments-at-388-skeena-st-vancouver-bc-v5k-0e5
+Extracted 3 units in Vancouver
+Total units: 214
+Error occurred on url: https://www.padmapper.com/buildings/p369360/the-heights-apartments-at-388-skeena-st-vancouver-bc-v5k-0e5
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p1006583/hendry-place-apartments-at-3588-hull-street-vancouver-bc-v5n-4r9, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p1006583/hendry-place-apartments-at-3588-hull-street-vancouver-bc-v5n-4r9, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p1006583/hendry-place-apartments-at-3588-hull-street-vancouver-bc-v5n-4r9, retrying...
+Error occurred on url: https://www.padmapper.com/buildings/p1006583/hendry-place-apartments-at-3588-hull-street-vancouver-bc-v5n-4r9
+Error encountered on page https://www.padmapper.com/buildings/p220524/apartments-at-1011-beach-ave-vancouver-bc-v6e-1t8: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=125.0.6422.142)
 Stacktrace:
-	GetHandleVerifier [0x00007FF7E5EA7062+63090]
-	(No symbol) [0x00007FF7E5E12CB2]
-	(No symbol) [0x00007FF7E5CAEC65]
-	(No symbol) [0x00007FF7E5CE54C2]
-	(No symbol) [0x00007FF7E5CE48CF]
-	(No symbol) [0x00007FF7E5CDE8C5]
-	(No symbol) [0x00007FF7E5CDB2F4]
-	(No symbol) [0x00007FF7E5D20BFB]
-	(No symbol) [0x00007FF7E5D20830]
-	(No symbol) [0x00007FF7E5D16D83]
-	(No symbol) [0x00007FF7E5CE83A8]
-	(No symbol) [0x00007FF7E5CE9441]
-	GetHandleVerifier [0x00007FF7E62A25CD+4238301]
-	GetHandleVerifier [0x00007FF7E62DF72D+4488509]
-	GetHandleVerifier [0x00007FF7E62D7A0F+4456479]
-	GetHandleVerifier [0x00007FF7E5F805A6+953270]
-	(No symbol) [0x00007FF7E5E1E57F]
-	(No symbol) [0x00007FF7E5E19254]
-	(No symbol) [0x00007FF7E5E1938B]
-	(No symbol) [0x00007FF7E5E09BC4]
-	BaseThreadInitThunk [0x00007FFA409C7344+20]
-	RtlUserThreadStart [0x00007FFA41CC26B1+33]
+	GetHandleVerifier [0x00007FF6EE881F52+60322]
+	(No symbol) [0x00007FF6EE7FCEC9]
+	(No symbol) [0x00007FF6EE6B7EBA]
+	(No symbol) [0x00007FF6EE69F1CC]
+	(No symbol) [0x00007FF6EE69F090]
+	(No symbol) [0x00007FF6EE6BA4E1]
+	(No symbol) [0x00007FF6EE74B359]
+	(No symbol) [0x00007FF6EE72BFC3]
+	(No symbol) [0x00007FF6EE6F9617]
+	(No symbol) [0x00007FF6EE6FA211]
+	GetHandleVerifier [0x00007FF6EEB994AD+3301629]
+	GetHandleVerifier [0x00007FF6EEBE36D3+3605283]
+	GetHandleVerifier [0x00007FF6EEBD9450+3563680]
+	GetHandleVerifier [0x00007FF6EE934326+790390]
+	(No symbol) [0x00007FF6EE80750F]
+	(No symbol) [0x00007FF6EE803404]
+	(No symbol) [0x00007FF6EE803592]
+	(No symbol) [0x00007FF6EE7F2F9F]
+	BaseThreadInitThunk [0x00007FFD386F7344+20]
+	RtlUserThreadStart [0x00007FFD388E26B1+33]
 
+Error occurred on url: https://www.padmapper.com/buildings/p220524/apartments-at-1011-beach-ave-vancouver-bc-v6e-1t8
+Error encountered on page https://www.padmapper.com/buildings/p1030084/aster-east-village-apartments-at-444-kootenay-street-vancouver-bc-v5k-0h7: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=125.0.6422.142)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EE881F52+60322]
+	(No symbol) [0x00007FF6EE7FCEC9]
+	(No symbol) [0x00007FF6EE6B7EBA]
+	(No symbol) [0x00007FF6EE69F1CC]
+	(No symbol) [0x00007FF6EE69F090]
+	(No symbol) [0x00007FF6EE6BA4E1]
+	(No symbol) [0x00007FF6EE74B359]
+	(No symbol) [0x00007FF6EE72BFC3]
+	(No symbol) [0x00007FF6EE6F9617]
+	(No symbol) [0x00007FF6EE6FA211]
+	GetHandleVerifier [0x00007FF6EEB994AD+3301629]
+	GetHandleVerifier [0x00007FF6EEBE36D3+3605283]
+	GetHandleVerifier [0x00007FF6EEBD9450+3563680]
+	GetHandleVerifier [0x00007FF6EE934326+790390]
+	(No symbol) [0x00007FF6EE80750F]
+	(No symbol) [0x00007FF6EE803404]
+	(No symbol) [0x00007FF6EE803592]
+	(No symbol) [0x00007FF6EE7F2F9F]
+	BaseThreadInitThunk [0x00007FFD386F7344+20]
+	RtlUserThreadStart [0x00007FFD388E26B1+33]
+
+Error occurred on url: https://www.padmapper.com/buildings/p1030084/aster-east-village-apartments-at-444-kootenay-street-vancouver-bc-v5k-0h7
+An error occurred while extracting data: cannot access local variable 'all_listings_data' where it is not associated with a value
