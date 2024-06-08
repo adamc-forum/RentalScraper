@@ -38,7 +38,7 @@ def extract_raw_data(filepath: str, landing_page_urls: list[str]) -> pd.DataFram
         
     for landing_page_url in landing_page_urls:
 
-        print(F"*********** Total Listings Extracted: {len(extracted_listing_data)} ***********")
+        print(F"********** Total Listings Extracted: {len(extracted_listing_data)} **********")
 
         # Initialize web driver for retrieving rental listings from regional landing page
         fetch_rental_listings_driver: WebDriver = create_chrome_driver(debugging_port=9221) 
