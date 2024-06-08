@@ -26,7 +26,7 @@ def create_chrome_driver(*, debugging_port):
     chrome_options.add_argument(f"user-agent={user_agent}")
     chrome_options.add_argument(f"--remote-debugging-port={debugging_port}")
     chrome_options.add_argument('--window-size=1920x1080')
-    # chrome_options.add_argument("--headless")  # Enable headless mode (does not open browser GUI)
+    chrome_options.add_argument("--headless")  # Enable headless mode (does not open browser GUI)
     chrome_options.add_argument("--log-level=3") 
 
     chrome_service = ChromeService(executable_path=chrome_driver_path)

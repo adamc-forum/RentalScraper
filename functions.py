@@ -38,14 +38,14 @@ def extract_raw_data(filepath: str, landing_page_urls: list[str]) -> pd.DataFram
     for landing_page_url in landing_page_urls:
         
         # Initialize web driver for retrieving rental listings from regional landing page
-        fetch_rental_listings_driver: WebDriver = create_chrome_driver(debugging_port=9222) 
+        fetch_rental_listings_driver: WebDriver = create_chrome_driver(debugging_port=9221) 
         padmapper_scraper = PadmapperScraper(PADMAPPER_BASE_URL)
         padmapper_scraper.fetch_rental_listing_urls(web_driver=fetch_rental_listings_driver, landing_page_url=landing_page_url)
 
         fetch_rental_listings_driver.quit()
 
         # Initialize web driver for extracting data from every extracted rental listing
-        get_rental_data_driver: WebDriver = create_chrome_driver(debugging_port=9223)
+        get_rental_data_driver: WebDriver = create_chrome_driver(debugging_port=9222)
 
         current_100_units = []
         all_listings_data = []
@@ -77,7 +77,7 @@ def extract_raw_data(filepath: str, landing_page_urls: list[str]) -> pd.DataFram
                     finally:
                         try_count += 1
                         get_rental_data_driver.quit()
-                        get_rental_data_driver = create_chrome_driver(debugging_port=9223)
+                        get_rental_data_driver = create_chrome_driver(debugging_port=9222)
                         get_rental_data_driver.refresh()
 
                 # Every 100 listings, write to the Excel sheet (in case web driver crashes)
