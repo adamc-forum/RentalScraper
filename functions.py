@@ -33,10 +33,13 @@ def extract_raw_data(filepath: str, landing_page_urls: list[str]) -> pd.DataFram
     Returns:
         pd.DataFrame: A DataFrame containing the extracted rental listing data.
     """
-    extracted_listing_data = []
 
-    for landing_page_url in landing_page_urls:
+    extracted_listing_data = []
         
+    for landing_page_url in landing_page_urls:
+
+        print(F"*********** Total Listings Extracted: {len(extracted_listing_data)} ***********")
+
         # Initialize web driver for retrieving rental listings from regional landing page
         fetch_rental_listings_driver: WebDriver = create_chrome_driver(debugging_port=9221) 
         padmapper_scraper = PadmapperScraper(PADMAPPER_BASE_URL)
@@ -48,7 +51,6 @@ def extract_raw_data(filepath: str, landing_page_urls: list[str]) -> pd.DataFram
         get_rental_data_driver: WebDriver = create_chrome_driver(debugging_port=9222)
 
         current_100_units = []
-        all_listings_data = []
         
         print(f"***** Extracted {len(padmapper_scraper.urls)} listings for {landing_page_url.split('/')[-1]} *****")
         print(f"{'\n'.join(padmapper_scraper.urls)}")
@@ -82,9 +84,9 @@ def extract_raw_data(filepath: str, landing_page_urls: list[str]) -> pd.DataFram
 
                 # Every 100 listings, write to the Excel sheet (in case web driver crashes)
                 if len(current_100_units) >= 100:
-                    all_listings_data += current_100_units
-                    all_listings_data_df = pd.DataFrame(all_listings_data, columns=table_columns)
-                    all_listings_data_df.to_excel(filepath, index=False)
+                    extracted_listing_data += current_100_units
+                    extracted_listing_data_df = pd.DataFrame(extracted_listing_data, columns=table_columns)
+                    extracted_listing_data_df.to_excel(filepath, index=False)
                     current_100_units.clear()
 
                 if listing_data:
@@ -95,21 +97,21 @@ def extract_raw_data(filepath: str, landing_page_urls: list[str]) -> pd.DataFram
                 continue
 
         # Append remaining padmapper listings to all listings
-        all_listings_data += current_100_units
+        extracted_listing_data += current_100_units
 
-        all_listings_data_df = pd.DataFrame(all_listings_data, columns=table_columns)
+        extracted_listing_data_df = pd.DataFrame(extracted_listing_data, columns=table_columns)
 
-        all_listings_data_df.to_excel(filepath, index=False)
+        extracted_listing_data_df.to_excel(filepath, index=False)
 
         # Close the get_rental_data_driver
         get_rental_data_driver.quit()
 
-    all_listings_data_df[TableHeaders.DATE.value] = pd.to_datetime(all_listings_data_df[TableHeaders.DATE.value], errors='coerce')
-    all_listings_data_df[TableHeaders.DATE.value] = all_listings_data_df[TableHeaders.DATE.value].fillna(datetime.now())    
+    extracted_listing_data_df[TableHeaders.DATE.value] = pd.to_datetime(extracted_listing_data_df[TableHeaders.DATE.value], errors='coerce')
+    extracted_listing_data_df[TableHeaders.DATE.value] = extracted_listing_data_df[TableHeaders.DATE.value].fillna(datetime.now())    
     
-    all_listings_data_df.to_excel(filepath, index=False)
+    extracted_listing_data_df.to_excel(filepath, index=False)
 
-    return all_listings_data_df
+    return extracted_listing_data_df
 
 ################## Parsing and validation functions #################
 
