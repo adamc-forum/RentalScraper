@@ -48,6 +48,7 @@ def extract_raw_data(filepath: str, landing_page_urls: list[str]) -> pd.DataFram
         get_rental_data_driver: WebDriver = create_chrome_driver(debugging_port=9223)
 
         current_100_units = []
+        all_listings_data = []
         
         print(f"***** Extracted {len(padmapper_scraper.urls)} listings for {landing_page_url.split('/')[-1]} *****")
         print(f"{'\n'.join(padmapper_scraper.urls)}")
