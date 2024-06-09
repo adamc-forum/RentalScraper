@@ -1,3 +1,4 @@
+********** Total Listings Extracted: 0 **********
 ********** Accessing https://www.padmapper.com/apartments/vancouver-bc **********
 Reached the end of the page or no new content loaded.
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p449020/apartments-at-55-water-st-vancouver-bc-v6b-1a1
@@ -25,7 +26,6 @@ Extracted 2 Floorplans for https://www.padmapper.com/buildings/p432509/apartment
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p498070/brixton-flats-apartments-at-303-pender-st-e-vancouver-bc-v6a-0j3
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p428564/tate-1283-howe-apartments-at-1283-howe-st-vancouver-bc-v6z-0e3
 Extracted 5 Floorplans for https://www.padmapper.com/buildings/p558967/west-bay-court-apartments-at-1111-pacific-st-vancouver-bc-v6e-3x7
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p222084/apartments-at-8735-selkirk-st-vancouver-bc-v6p-4j5
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p221590/apartments-at-1501-haro-st-vancouver-bc-v6g-1g4
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p221376/apartments-at-1580-haro-st-vancouver-bc-v6g-1g6
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p913818/the-mansion-apartments-at-1523-davie-st-vancouver-bc-v6g-3a2
@@ -38,6 +38,7 @@ Extracted 3 Floorplans for https://www.padmapper.com/buildings/p790092/muro-apar
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p510456/viridian-apartments-at-1783-14th-ave-w-vancouver-bc-v6j-2j7
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p213592/forte-apartments-at-1755-14th-ave-w-vancouver-bc-v6j-2j6
 Extracted 4 Floorplans for https://www.padmapper.com/buildings/p436541/apartments-at-935-jervis-st-vancouver-bc-v6e-2b5
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p222084/apartments-at-8735-selkirk-st-vancouver-bc-v6p-4j5
 Extracted 4 Floorplans for https://www.padmapper.com/buildings/p224226/apartments-at-855-jervis-st-vancouver-bc-v6e-2b2
 Extracted 5 Floorplans for https://www.padmapper.com/buildings/p555371/eterno-1168-pendrell-apartments-at-1168-pendrell-st-vancouver-bc-v6e-1l4
 Extracted 5 Floorplans for https://www.padmapper.com/buildings/p615374/chronicle-apartments-at-825-nicola-st-vancouver-bc-v6g-2c4
@@ -77,9 +78,9 @@ Extracted 2 Floorplans for https://www.padmapper.com/buildings/p515297/waldorf-s
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p451969/shoreline-west-end-apartments-at-1763-comox-st-vancouver-bc-v6g-1p5
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p928065/apartments-at-2291-1st-ave-w-vancouver-bc-v6k-1e9
 Extracted 5 Floorplans for https://www.padmapper.com/buildings/p529862/alma-455-abbott-street-apartments-at-455-abbott-st-vancouver-bc-v6b-2l2
-Extracted 18 Floorplans for https://www.padmapper.com/buildings/p1030084/aster-east-village-apartments-at-444-kootenay-street-vancouver-bc-v5k-0h7
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p1006583/hendry-place-apartments-at-3588-hull-street-vancouver-bc-v5n-4r9
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p220524/apartments-at-1011-beach-ave-vancouver-bc-v6e-1t8
+Extracted 18 Floorplans for https://www.padmapper.com/buildings/p1030084/aster-east-village-apartments-at-444-kootenay-street-vancouver-bc-v5k-0h7
 ***** Extracted 80 listings for vancouver-bc *****
 https://www.padmapper.com/buildings/p449020/apartments-at-55-water-st-vancouver-bc-v6b-1a1
 https://www.padmapper.com/buildings/p431969/apartments-at-1770-pendrell-st-vancouver-bc-v6g-0c5
@@ -106,7 +107,6 @@ https://www.padmapper.com/buildings/p432509/apartments-at-33-water-st-vancouver-
 https://www.padmapper.com/buildings/p498070/brixton-flats-apartments-at-303-pender-st-e-vancouver-bc-v6a-0j3
 https://www.padmapper.com/buildings/p428564/tate-1283-howe-apartments-at-1283-howe-st-vancouver-bc-v6z-0e3
 https://www.padmapper.com/buildings/p558967/west-bay-court-apartments-at-1111-pacific-st-vancouver-bc-v6e-3x7
-https://www.padmapper.com/buildings/p222084/apartments-at-8735-selkirk-st-vancouver-bc-v6p-4j5
 https://www.padmapper.com/buildings/p221590/apartments-at-1501-haro-st-vancouver-bc-v6g-1g4
 https://www.padmapper.com/buildings/p221376/apartments-at-1580-haro-st-vancouver-bc-v6g-1g6
 https://www.padmapper.com/buildings/p913818/the-mansion-apartments-at-1523-davie-st-vancouver-bc-v6g-3a2
@@ -119,6 +119,7 @@ https://www.padmapper.com/buildings/p790092/muro-apartments-at-1770-davie-st-van
 https://www.padmapper.com/buildings/p510456/viridian-apartments-at-1783-14th-ave-w-vancouver-bc-v6j-2j7
 https://www.padmapper.com/buildings/p213592/forte-apartments-at-1755-14th-ave-w-vancouver-bc-v6j-2j6
 https://www.padmapper.com/buildings/p436541/apartments-at-935-jervis-st-vancouver-bc-v6e-2b5
+https://www.padmapper.com/buildings/p222084/apartments-at-8735-selkirk-st-vancouver-bc-v6p-4j5
 https://www.padmapper.com/buildings/p224226/apartments-at-855-jervis-st-vancouver-bc-v6e-2b2
 https://www.padmapper.com/buildings/p555371/eterno-1168-pendrell-apartments-at-1168-pendrell-st-vancouver-bc-v6e-1l4
 https://www.padmapper.com/buildings/p615374/chronicle-apartments-at-825-nicola-st-vancouver-bc-v6g-2c4
@@ -158,13 +159,12 @@ https://www.padmapper.com/buildings/p515297/waldorf-studios-apartments-at-116-ha
 https://www.padmapper.com/buildings/p451969/shoreline-west-end-apartments-at-1763-comox-st-vancouver-bc-v6g-1p5
 https://www.padmapper.com/buildings/p928065/apartments-at-2291-1st-ave-w-vancouver-bc-v6k-1e9
 https://www.padmapper.com/buildings/p529862/alma-455-abbott-street-apartments-at-455-abbott-st-vancouver-bc-v6b-2l2
-https://www.padmapper.com/buildings/p1030084/aster-east-village-apartments-at-444-kootenay-street-vancouver-bc-v5k-0h7
 https://www.padmapper.com/buildings/p1006583/hendry-place-apartments-at-3588-hull-street-vancouver-bc-v5n-4r9
 https://www.padmapper.com/buildings/p220524/apartments-at-1011-beach-ave-vancouver-bc-v6e-1t8
+https://www.padmapper.com/buildings/p1030084/aster-east-village-apartments-at-444-kootenay-street-vancouver-bc-v5k-0h7
 Processing listing: https://www.padmapper.com/buildings/p449020/apartments-at-55-water-st-vancouver-bc-v6b-1a1
 Extracted 3 units in Vancouver
 Total units: 3
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p431969/apartments-at-1770-pendrell-st-vancouver-bc-v6g-0c5, retrying...
 Processing listing: https://www.padmapper.com/buildings/p431969/apartments-at-1770-pendrell-st-vancouver-bc-v6g-0c5
 Extracted 4 units in Vancouver
 Total units: 7
@@ -237,44 +237,44 @@ Total units: 64
 Processing listing: https://www.padmapper.com/buildings/p558967/west-bay-court-apartments-at-1111-pacific-st-vancouver-bc-v6e-3x7
 Extracted 5 units in Vancouver
 Total units: 69
-Processing listing: https://www.padmapper.com/buildings/p222084/apartments-at-8735-selkirk-st-vancouver-bc-v6p-4j5
-Extracted 2 units in Vancouver
-Total units: 71
 Processing listing: https://www.padmapper.com/buildings/p221590/apartments-at-1501-haro-st-vancouver-bc-v6g-1g4
 Extracted 2 units in Vancouver
-Total units: 73
+Total units: 71
 Processing listing: https://www.padmapper.com/buildings/p221376/apartments-at-1580-haro-st-vancouver-bc-v6g-1g6
 Extracted 2 units in Vancouver
-Total units: 75
+Total units: 73
 Processing listing: https://www.padmapper.com/buildings/p913818/the-mansion-apartments-at-1523-davie-st-vancouver-bc-v6g-3a2
 Extracted 2 units in Vancouver
-Total units: 77
+Total units: 75
 Processing listing: https://www.padmapper.com/buildings/p513898/landis-residences-at-1200-hornby-street-apartments-at-1200-hornby-st-vancouver-bc-v6z-1w2
 Extracted 2 units in Vancouver
-Total units: 79
+Total units: 77
 Processing listing: https://www.padmapper.com/buildings/p287987/one-pacific-68-smithe-apartments-at-68-smithe-st-vancouver-bc-v6b-0p5
 Extracted 2 units in Vancouver
-Total units: 81
+Total units: 79
 Processing listing: https://www.padmapper.com/buildings/p528696/the-florida-1170-barclay-apartments-at-1170-barclay-st-vancouver-bc-v6e-1h1
 Extracted 5 units in Vancouver
-Total units: 86
+Total units: 84
 Processing listing: https://www.padmapper.com/buildings/p561030/apartments-at-1918-york-ave-vancouver-bc-v6j-1e3
 Extracted 2 units in Vancouver
-Total units: 88
+Total units: 86
 Processing listing: https://www.padmapper.com/buildings/p307387/the-duke-apartments-at-333-11th-ave-e-vancouver-bc-v5t-0h1
 Extracted 2 units in Vancouver
-Total units: 90
+Total units: 88
 Processing listing: https://www.padmapper.com/buildings/p790092/muro-apartments-at-1770-davie-st-vancouver-bc-v6g-1w4
 Extracted 3 units in Vancouver
-Total units: 93
+Total units: 91
 Processing listing: https://www.padmapper.com/buildings/p510456/viridian-apartments-at-1783-14th-ave-w-vancouver-bc-v6j-2j7
 Extracted 2 units in Vancouver
-Total units: 95
+Total units: 93
 Processing listing: https://www.padmapper.com/buildings/p213592/forte-apartments-at-1755-14th-ave-w-vancouver-bc-v6j-2j6
 Extracted 2 units in Vancouver
-Total units: 97
+Total units: 95
 Processing listing: https://www.padmapper.com/buildings/p436541/apartments-at-935-jervis-st-vancouver-bc-v6e-2b5
 Extracted 4 units in Vancouver
+Total units: 99
+Processing listing: https://www.padmapper.com/buildings/p222084/apartments-at-8735-selkirk-st-vancouver-bc-v6p-4j5
+Extracted 2 units in Vancouver
 Total units: 101
 ERROR: Function timed out on url https://www.padmapper.com/buildings/p224226/apartments-at-855-jervis-st-vancouver-bc-v6e-2b2, retrying...
 Processing listing: https://www.padmapper.com/buildings/p224226/apartments-at-855-jervis-st-vancouver-bc-v6e-2b2
@@ -286,7 +286,6 @@ Total units: 110
 Processing listing: https://www.padmapper.com/buildings/p615374/chronicle-apartments-at-825-nicola-st-vancouver-bc-v6g-2c4
 Extracted 5 units in Vancouver
 Total units: 115
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p808292/hub-place-apartments-at-1649-broadway-e-vancouver-bc-v5n-0j4, retrying...
 Processing listing: https://www.padmapper.com/buildings/p808292/hub-place-apartments-at-1649-broadway-e-vancouver-bc-v5n-0j4
 Extracted 2 units in Vancouver
 Total units: 117
@@ -338,6 +337,7 @@ Total units: 174
 Processing listing: https://www.padmapper.com/buildings/p489880/the-melbourne-apartments-at-3433-crowley-dr-vancouver-bc-v5r-6c5
 Extracted 2 units in Vancouver
 Total units: 176
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p489879/the-remington-apartments-at-3528-vanness-ave-vancouver-bc-v5r-6g4, retrying...
 Processing listing: https://www.padmapper.com/buildings/p489879/the-remington-apartments-at-3528-vanness-ave-vancouver-bc-v5r-6g4
 Extracted 3 units in Vancouver
 Total units: 179
@@ -353,6 +353,7 @@ Total units: 191
 Processing listing: https://www.padmapper.com/buildings/p469622/starlight-towers-apartments-at-5603-balsam-st-vancouver-bc-v6m-4b6
 Extracted 2 units in Vancouver
 Total units: 193
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p469623/chancellor-court-apartments-at-2233-allison-rd-vancouver-bc-v6t-1t7, retrying...
 Processing listing: https://www.padmapper.com/buildings/p469623/chancellor-court-apartments-at-2233-allison-rd-vancouver-bc-v6t-1t7
 Extracted 3 units in Vancouver
 Total units: 196
@@ -377,7 +378,6 @@ Total units: 213
 Processing listing: https://www.padmapper.com/buildings/p993793/comma-fraser-apartments-at-695-east-19th-ave-vancouver-bc-v5v-none
 Extracted 3 units in Vancouver
 Total units: 216
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p604641/apartments-at-3583-kingsway-vancouver-bc-v5r-5l9, retrying...
 Processing listing: https://www.padmapper.com/buildings/p604641/apartments-at-3583-kingsway-vancouver-bc-v5r-5l9
 Extracted 4 units in Vancouver
 Total units: 220
@@ -396,21 +396,22 @@ Total units: 228
 Processing listing: https://www.padmapper.com/buildings/p529862/alma-455-abbott-street-apartments-at-455-abbott-st-vancouver-bc-v6b-2l2
 Extracted 5 units in Vancouver
 Total units: 233
-Processing listing: https://www.padmapper.com/buildings/p1030084/aster-east-village-apartments-at-444-kootenay-street-vancouver-bc-v5k-0h7
-Extracted 18 units in Vancouver
-Total units: 251
 Processing listing: https://www.padmapper.com/buildings/p1006583/hendry-place-apartments-at-3588-hull-street-vancouver-bc-v5n-4r9
 Extracted 3 units in Vancouver
-Total units: 254
+Total units: 236
 Processing listing: https://www.padmapper.com/buildings/p220524/apartments-at-1011-beach-ave-vancouver-bc-v6e-1t8
 Extracted 2 units in Vancouver
+Total units: 238
+Processing listing: https://www.padmapper.com/buildings/p1030084/aster-east-village-apartments-at-444-kootenay-street-vancouver-bc-v5k-0h7
+Extracted 18 units in Vancouver
 Total units: 256
+********** Total Listings Extracted: 256 **********
 ********** Accessing https://www.padmapper.com/apartments/winnipeg-mb **********
 Reached the end of the page or no new content loaded.
 Extracted 16 Floorplans for https://www.padmapper.com/buildings/p1026509/the-edge-apartments-at-76-festival-dr-winnipeg-mb-r3k-2j3
-Extracted 10 Floorplans for https://www.padmapper.com/buildings/p998228/apartments-at-50-centre-st-winnipeg-mb-r3y-0v7
-Extracted 107 Floorplans for https://www.padmapper.com/buildings/p877774/the-boardwalk-apartments-at-595-ballantrae-dr-winnipeg-mb-r3t-6h4
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p623321/apartments-at-300-main-st-winnipeg-mb-r3c-1e1
+Extracted 107 Floorplans for https://www.padmapper.com/buildings/p877774/the-boardwalk-apartments-at-595-ballantrae-dr-winnipeg-mb-r3t-6h4
+Extracted 10 Floorplans for https://www.padmapper.com/buildings/p998228/apartments-at-50-centre-st-winnipeg-mb-r3y-0v7
 Extracted 5 Floorplans for https://www.padmapper.com/buildings/p746129/smith-street-lofts-apartments-at-185-smith-st-winnipeg-mb-r3c-3g4
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p878555/crossings-at-the-refinery-district-apartments-at-425-ballantrae-dr-winnipeg-mb-r3t-6h6
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p401283/the-onyx-apartments-at-1792-pembina-hwy-winnipeg-mb-r3t-6g8
@@ -424,7 +425,6 @@ Extracted 86 Floorplans for https://www.padmapper.com/buildings/p1046751/the-bri
 Extracted 4 Floorplans for https://www.padmapper.com/buildings/p1029420/the-citation-at-westport-apartments-at-4067-portage-ave-winnipeg-mb-r3k-none
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p456891/the-spot-at-tuxedo-point-apartments-at-825-785-825-sterling-lyon-parkway-winnipeg-mb-r3p-2t2
 Extracted 6 Floorplans for https://www.padmapper.com/buildings/p456834/the-summit-at-seasons-apartments-at-703-sterling-lyon-pky-winnipeg-mb-r3p-2t7
-Extracted 7 Floorplans for https://www.padmapper.com/buildings/p508632/latitude-49-at-sage-creek-apartments-at-40-des-hivernants-blvd-n-winnipeg-mb-r3x-0r7
 Extracted 5 Floorplans for https://www.padmapper.com/buildings/p528125/the-tradition-at-bridgwater-apartments-at-186-appleford-gate-winnipeg-mb-r3y-2e1
 Extracted 6 Floorplans for https://www.padmapper.com/buildings/p1070525/the-edison-apartments-at-465-edison-ave-winnipeg-mb-r2g-0m2
 Extracted 5 Floorplans for https://www.padmapper.com/buildings/p504232/apartments-at-399-stan-bailie-dr-winnipeg-mb-r3y-2c6
@@ -442,6 +442,7 @@ Extracted 2 Floorplans for https://www.padmapper.com/buildings/p250169/river-mea
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p609993/bonavista-on-the-lake-apartments-at-1590-warde-ave-winnipeg-mb-r3x-0t6
 Extracted 8 Floorplans for https://www.padmapper.com/buildings/p863883/bella-vista-apartments-at-1515-1515-warde-ave-winnipeg-mb-r3x-0r4
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p937860/the-bend-apartments-at-90-alexander-ave-winnipeg-mb-r3b-0z6
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p239442/bridgwater-heights-apartments-at-225-north-town-rd-winnipeg-mb-r3y-0p5
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p310274/southview-plaza-apartments-at-2080-pembina-hwy-winnipeg-mb-r3t-2g9
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p236762/kelly-house-apartments-at-15-carlton-st-winnipeg-mb-r3c-1n8
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p214768/apartments-at-160-smith-st-winnipeg-mb-r3c-0k8
@@ -470,7 +471,6 @@ Extracted 2 Floorplans for https://www.padmapper.com/buildings/p399540/kenwood-c
 Extracted 4 Floorplans for https://www.padmapper.com/buildings/p456851/bishop-heights-apartments-at-745-ballantrae-dr-winnipeg-mb-r3t-6g5
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p480691/heritage-park-apartments-at-3057-ness-ave-winnipeg-mb-r2y-1j7
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p456793/seasons-apartments-at-590-sterling-lyon-pky-winnipeg-mb-r3p-1e9
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p239442/bridgwater-heights-apartments-at-225-north-town-rd-winnipeg-mb-r3y-0p5
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p236773/pinewood-place-apartments-at-2510-portage-ave-winnipeg-mb-r3j-0n9
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p863885/lot-6-apartments-at-15-berwick-crt-winnipeg-mb-r3l-2j1
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p689388/stradbrook-apartments-at-606-stradbrook-ave-winnipeg-mb-r3l-0k4
@@ -478,6 +478,7 @@ Extracted 4 Floorplans for https://www.padmapper.com/buildings/p456899/courts-of
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p213595/riverview-towers-apartments-at-240-stradbrook-ave-winnipeg-mb-r3l-2p7
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p213597/parkwood-square-apartments-at-170-watt-st-winnipeg-mb-r2l-2b5
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p406663/waterford-village-apartments-at-90-waterford-bay-winnipeg-mb-r3t-none
+Extracted 7 Floorplans for https://www.padmapper.com/buildings/p508632/latitude-49-at-sage-creek-apartments-at-40-des-hivernants-blvd-n-winnipeg-mb-r3x-0r7
 Extracted 4 Floorplans for https://www.padmapper.com/buildings/p549528/the-arts-res-apartments-at-233-kennedy-st-winnipeg-mb-r3c-3j5
 Extracted 4 Floorplans for https://www.padmapper.com/buildings/p279085/apartments-at-50-whellams-lane-winnipeg-mb-r2g-4l2
 Extracted 4 Floorplans for https://www.padmapper.com/buildings/p220465/apartments-at-60-whellams-lane-winnipeg-mb-r2g-2g7
@@ -523,9 +524,9 @@ Extracted 2 Floorplans for https://www.padmapper.com/buildings/p921306/apartment
 Extracted 74 Floorplans for https://www.padmapper.com/buildings/p1134686/the-parkbridge-apartments-at-2140-portage-ave-winnipeg-mb-r3j-none
 ***** Extracted 114 listings for winnipeg-mb *****
 https://www.padmapper.com/buildings/p1026509/the-edge-apartments-at-76-festival-dr-winnipeg-mb-r3k-2j3
-https://www.padmapper.com/buildings/p998228/apartments-at-50-centre-st-winnipeg-mb-r3y-0v7
-https://www.padmapper.com/buildings/p877774/the-boardwalk-apartments-at-595-ballantrae-dr-winnipeg-mb-r3t-6h4
 https://www.padmapper.com/buildings/p623321/apartments-at-300-main-st-winnipeg-mb-r3c-1e1
+https://www.padmapper.com/buildings/p877774/the-boardwalk-apartments-at-595-ballantrae-dr-winnipeg-mb-r3t-6h4
+https://www.padmapper.com/buildings/p998228/apartments-at-50-centre-st-winnipeg-mb-r3y-0v7
 https://www.padmapper.com/buildings/p746129/smith-street-lofts-apartments-at-185-smith-st-winnipeg-mb-r3c-3g4
 https://www.padmapper.com/buildings/p878555/crossings-at-the-refinery-district-apartments-at-425-ballantrae-dr-winnipeg-mb-r3t-6h6
 https://www.padmapper.com/buildings/p401283/the-onyx-apartments-at-1792-pembina-hwy-winnipeg-mb-r3t-6g8
@@ -539,7 +540,6 @@ https://www.padmapper.com/buildings/p1046751/the-bridgwater-apartments-at-250-ce
 https://www.padmapper.com/buildings/p1029420/the-citation-at-westport-apartments-at-4067-portage-ave-winnipeg-mb-r3k-none
 https://www.padmapper.com/buildings/p456891/the-spot-at-tuxedo-point-apartments-at-825-785-825-sterling-lyon-parkway-winnipeg-mb-r3p-2t2
 https://www.padmapper.com/buildings/p456834/the-summit-at-seasons-apartments-at-703-sterling-lyon-pky-winnipeg-mb-r3p-2t7
-https://www.padmapper.com/buildings/p508632/latitude-49-at-sage-creek-apartments-at-40-des-hivernants-blvd-n-winnipeg-mb-r3x-0r7
 https://www.padmapper.com/buildings/p528125/the-tradition-at-bridgwater-apartments-at-186-appleford-gate-winnipeg-mb-r3y-2e1
 https://www.padmapper.com/buildings/p1070525/the-edison-apartments-at-465-edison-ave-winnipeg-mb-r2g-0m2
 https://www.padmapper.com/buildings/p504232/apartments-at-399-stan-bailie-dr-winnipeg-mb-r3y-2c6
@@ -557,6 +557,7 @@ https://www.padmapper.com/buildings/p250169/river-meadow-estates-apartments-at-1
 https://www.padmapper.com/buildings/p609993/bonavista-on-the-lake-apartments-at-1590-warde-ave-winnipeg-mb-r3x-0t6
 https://www.padmapper.com/buildings/p863883/bella-vista-apartments-at-1515-1515-warde-ave-winnipeg-mb-r3x-0r4
 https://www.padmapper.com/buildings/p937860/the-bend-apartments-at-90-alexander-ave-winnipeg-mb-r3b-0z6
+https://www.padmapper.com/buildings/p239442/bridgwater-heights-apartments-at-225-north-town-rd-winnipeg-mb-r3y-0p5
 https://www.padmapper.com/buildings/p310274/southview-plaza-apartments-at-2080-pembina-hwy-winnipeg-mb-r3t-2g9
 https://www.padmapper.com/buildings/p236762/kelly-house-apartments-at-15-carlton-st-winnipeg-mb-r3c-1n8
 https://www.padmapper.com/buildings/p214768/apartments-at-160-smith-st-winnipeg-mb-r3c-0k8
@@ -585,7 +586,6 @@ https://www.padmapper.com/buildings/p399540/kenwood-court-apartments-at-337-kenw
 https://www.padmapper.com/buildings/p456851/bishop-heights-apartments-at-745-ballantrae-dr-winnipeg-mb-r3t-6g5
 https://www.padmapper.com/buildings/p480691/heritage-park-apartments-at-3057-ness-ave-winnipeg-mb-r2y-1j7
 https://www.padmapper.com/buildings/p456793/seasons-apartments-at-590-sterling-lyon-pky-winnipeg-mb-r3p-1e9
-https://www.padmapper.com/buildings/p239442/bridgwater-heights-apartments-at-225-north-town-rd-winnipeg-mb-r3y-0p5
 https://www.padmapper.com/buildings/p236773/pinewood-place-apartments-at-2510-portage-ave-winnipeg-mb-r3j-0n9
 https://www.padmapper.com/buildings/p863885/lot-6-apartments-at-15-berwick-crt-winnipeg-mb-r3l-2j1
 https://www.padmapper.com/buildings/p689388/stradbrook-apartments-at-606-stradbrook-ave-winnipeg-mb-r3l-0k4
@@ -593,6 +593,7 @@ https://www.padmapper.com/buildings/p456899/courts-of-st-james-apartments-at-200
 https://www.padmapper.com/buildings/p213595/riverview-towers-apartments-at-240-stradbrook-ave-winnipeg-mb-r3l-2p7
 https://www.padmapper.com/buildings/p213597/parkwood-square-apartments-at-170-watt-st-winnipeg-mb-r2l-2b5
 https://www.padmapper.com/buildings/p406663/waterford-village-apartments-at-90-waterford-bay-winnipeg-mb-r3t-none
+https://www.padmapper.com/buildings/p508632/latitude-49-at-sage-creek-apartments-at-40-des-hivernants-blvd-n-winnipeg-mb-r3x-0r7
 https://www.padmapper.com/buildings/p549528/the-arts-res-apartments-at-233-kennedy-st-winnipeg-mb-r3c-3j5
 https://www.padmapper.com/buildings/p279085/apartments-at-50-whellams-lane-winnipeg-mb-r2g-4l2
 https://www.padmapper.com/buildings/p220465/apartments-at-60-whellams-lane-winnipeg-mb-r2g-2g7
@@ -639,14 +640,14 @@ https://www.padmapper.com/buildings/p1134686/the-parkbridge-apartments-at-2140-p
 Processing listing: https://www.padmapper.com/buildings/p1026509/the-edge-apartments-at-76-festival-dr-winnipeg-mb-r3k-2j3
 Extracted 16 units in Winnipeg
 Total units: 16
-Processing listing: https://www.padmapper.com/buildings/p998228/apartments-at-50-centre-st-winnipeg-mb-r3y-0v7
-Extracted 10 units in Winnipeg
-Total units: 26
+Processing listing: https://www.padmapper.com/buildings/p623321/apartments-at-300-main-st-winnipeg-mb-r3c-1e1
+Extracted 3 units in Winnipeg
+Total units: 19
 Processing listing: https://www.padmapper.com/buildings/p877774/the-boardwalk-apartments-at-595-ballantrae-dr-winnipeg-mb-r3t-6h4
 Error encountered on page https://www.padmapper.com/buildings/p877774/the-boardwalk-apartments-at-595-ballantrae-dr-winnipeg-mb-r3t-6h4: 'NoneType' object has no attribute 'find_next_sibling'
 Error occurred on url: https://www.padmapper.com/buildings/p877774/the-boardwalk-apartments-at-595-ballantrae-dr-winnipeg-mb-r3t-6h4
-Processing listing: https://www.padmapper.com/buildings/p623321/apartments-at-300-main-st-winnipeg-mb-r3c-1e1
-Extracted 3 units in Winnipeg
+Processing listing: https://www.padmapper.com/buildings/p998228/apartments-at-50-centre-st-winnipeg-mb-r3y-0v7
+Extracted 10 units in Winnipeg
 Total units: 29
 Processing listing: https://www.padmapper.com/buildings/p746129/smith-street-lofts-apartments-at-185-smith-st-winnipeg-mb-r3c-3g4
 Extracted 5 units in Winnipeg
@@ -657,7 +658,6 @@ Error occurred on url: https://www.padmapper.com/buildings/p878555/crossings-at-
 Processing listing: https://www.padmapper.com/buildings/p401283/the-onyx-apartments-at-1792-pembina-hwy-winnipeg-mb-r3t-6g8
 Extracted 3 units in Winnipeg
 Total units: 37
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p549530/the-bravado-apartments-at-15-cooper's-town-rd-winnipeg-mb-r3y-2e3, retrying...
 Processing listing: https://www.padmapper.com/buildings/p549530/the-bravado-apartments-at-15-cooper's-town-rd-winnipeg-mb-r3y-2e3
 Extracted 3 units in Winnipeg
 Total units: 40
@@ -685,117 +685,116 @@ Total units: 156
 Processing listing: https://www.padmapper.com/buildings/p456891/the-spot-at-tuxedo-point-apartments-at-825-785-825-sterling-lyon-parkway-winnipeg-mb-r3p-2t2
 Error encountered on page https://www.padmapper.com/buildings/p456891/the-spot-at-tuxedo-point-apartments-at-825-785-825-sterling-lyon-parkway-winnipeg-mb-r3p-2t2: 'NoneType' object has no attribute 'find_next_sibling'
 Error occurred on url: https://www.padmapper.com/buildings/p456891/the-spot-at-tuxedo-point-apartments-at-825-785-825-sterling-lyon-parkway-winnipeg-mb-r3p-2t2
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p456834/the-summit-at-seasons-apartments-at-703-sterling-lyon-pky-winnipeg-mb-r3p-2t7, retrying...
 Processing listing: https://www.padmapper.com/buildings/p456834/the-summit-at-seasons-apartments-at-703-sterling-lyon-pky-winnipeg-mb-r3p-2t7
 Error encountered on page https://www.padmapper.com/buildings/p456834/the-summit-at-seasons-apartments-at-703-sterling-lyon-pky-winnipeg-mb-r3p-2t7: 'NoneType' object has no attribute 'find_next_sibling'
 Error occurred on url: https://www.padmapper.com/buildings/p456834/the-summit-at-seasons-apartments-at-703-sterling-lyon-pky-winnipeg-mb-r3p-2t7
-Processing listing: https://www.padmapper.com/buildings/p508632/latitude-49-at-sage-creek-apartments-at-40-des-hivernants-blvd-n-winnipeg-mb-r3x-0r7
-Extracted 7 units in Winnipeg
-Total units: 163
 Processing listing: https://www.padmapper.com/buildings/p528125/the-tradition-at-bridgwater-apartments-at-186-appleford-gate-winnipeg-mb-r3y-2e1
 Extracted 5 units in Winnipeg
-Total units: 168
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p1070525/the-edison-apartments-at-465-edison-ave-winnipeg-mb-r2g-0m2, retrying...
+Total units: 161
 Processing listing: https://www.padmapper.com/buildings/p1070525/the-edison-apartments-at-465-edison-ave-winnipeg-mb-r2g-0m2
 Extracted 6 units in Winnipeg
-Total units: 174
+Total units: 167
 Processing listing: https://www.padmapper.com/buildings/p504232/apartments-at-399-stan-bailie-dr-winnipeg-mb-r3y-2c6
 Extracted 5 units in Winnipeg
-Total units: 179
+Total units: 172
 Processing listing: https://www.padmapper.com/buildings/p810507/the-pinnacle-at-bridgwater-apartments-at-355-bridge-lake-dr-winnipeg-mb-r3y-1z3
 Extracted 2 units in Winnipeg
-Total units: 181
+Total units: 174
 Processing listing: https://www.padmapper.com/buildings/p454661/legacy-towers-apartments-at-2106-2106-de-vries-avenue-winnipeg-mb-r2g-4k7
 Error encountered on page https://www.padmapper.com/buildings/p454661/legacy-towers-apartments-at-2106-2106-de-vries-avenue-winnipeg-mb-r2g-4k7: 'NoneType' object has no attribute 'find_next_sibling'
 Error occurred on url: https://www.padmapper.com/buildings/p454661/legacy-towers-apartments-at-2106-2106-de-vries-avenue-winnipeg-mb-r2g-4k7
 Processing listing: https://www.padmapper.com/buildings/p984451/the-point-at-pembina-apartments-at-1125-pembina-highway-winnipeg-mb-r3t-none
 Extracted 11 units in Winnipeg
-Total units: 192
+Total units: 185
 Processing listing: https://www.padmapper.com/buildings/p454812/bison-pointe-ii-apartments-at-50-bison-dr-winnipeg-mb-r3t-6e5
 Extracted 6 units in Winnipeg
-Total units: 198
+Total units: 191
 Processing listing: https://www.padmapper.com/buildings/p406661/addison-square-apartments-at-20-10-11-20-el-tassi-drive-winnipeg-mb-r3w-0l3
 Error encountered on page https://www.padmapper.com/buildings/p406661/addison-square-apartments-at-20-10-11-20-el-tassi-drive-winnipeg-mb-r3w-0l3: 'NoneType' object has no attribute 'find_next_sibling'
 Error occurred on url: https://www.padmapper.com/buildings/p406661/addison-square-apartments-at-20-10-11-20-el-tassi-drive-winnipeg-mb-r3w-0l3
 Processing listing: https://www.padmapper.com/buildings/p474274/lady-joyce-apartments-at-2390-mcphillips-st-winnipeg-mb-r2v-5a3
 Extracted 2 units in Winnipeg
-Total units: 200
+Total units: 193
 Processing listing: https://www.padmapper.com/buildings/p1116229/element-townhomes-in-prairie-pointe-apartments-at-20-ken-oblik-dr-winnipeg-mb-r3y-none
 Extracted 12 units in Winnipeg
-Total units: 212
+Total units: 205
 Processing listing: https://www.padmapper.com/buildings/1481955/the-refinery-district-townhomes-apartments-at-315-335-355-375-395-ballantrae-drive-winnipeg-mb-r3t-6j9
 Error encountered on page https://www.padmapper.com/buildings/1481955/the-refinery-district-townhomes-apartments-at-315-335-355-375-395-ballantrae-drive-winnipeg-mb-r3t-6j9: 'NoneType' object has no attribute 'find_next_sibling'
 Error occurred on url: https://www.padmapper.com/buildings/1481955/the-refinery-district-townhomes-apartments-at-315-335-355-375-395-ballantrae-drive-winnipeg-mb-r3t-6j9
 Processing listing: https://www.padmapper.com/buildings/p399220/apartments-at-225-carlton-st-winnipeg-mb-r3c-0v3
 Extracted 4 units in Winnipeg
-Total units: 216
+Total units: 209
 Processing listing: https://www.padmapper.com/buildings/p331539/apartments-at-180-roslyn-rd-winnipeg-mb-r3l-0s7
 Extracted 3 units in Winnipeg
-Total units: 219
+Total units: 212
 Processing listing: https://www.padmapper.com/buildings/p250169/river-meadow-estates-apartments-at-1153-st-anne's-rd-winnipeg-mb-r2n-0c2
 Extracted 2 units in Winnipeg
-Total units: 221
+Total units: 214
 Processing listing: https://www.padmapper.com/buildings/p609993/bonavista-on-the-lake-apartments-at-1590-warde-ave-winnipeg-mb-r3x-0t6
 Extracted 3 units in Winnipeg
-Total units: 224
+Total units: 217
 Processing listing: https://www.padmapper.com/buildings/p863883/bella-vista-apartments-at-1515-1515-warde-ave-winnipeg-mb-r3x-0r4
 Extracted 8 units in Winnipeg
-Total units: 232
+Total units: 225
 Processing listing: https://www.padmapper.com/buildings/p937860/the-bend-apartments-at-90-alexander-ave-winnipeg-mb-r3b-0z6
 Extracted 2 units in Winnipeg
-Total units: 234
+Total units: 227
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p239442/bridgwater-heights-apartments-at-225-north-town-rd-winnipeg-mb-r3y-0p5, retrying...
+Processing listing: https://www.padmapper.com/buildings/p239442/bridgwater-heights-apartments-at-225-north-town-rd-winnipeg-mb-r3y-0p5
+Extracted 2 units in Winnipeg
+Total units: 229
 Processing listing: https://www.padmapper.com/buildings/p310274/southview-plaza-apartments-at-2080-pembina-hwy-winnipeg-mb-r3t-2g9
 Extracted 3 units in Winnipeg
-Total units: 237
+Total units: 232
 Processing listing: https://www.padmapper.com/buildings/p236762/kelly-house-apartments-at-15-carlton-st-winnipeg-mb-r3c-1n8
 Extracted 2 units in Winnipeg
-Total units: 239
+Total units: 234
 Processing listing: https://www.padmapper.com/buildings/p214768/apartments-at-160-smith-st-winnipeg-mb-r3c-0k8
 Extracted 2 units in Winnipeg
-Total units: 241
+Total units: 236
 Processing listing: https://www.padmapper.com/buildings/p236753/canterbury-house-apartments-at-270-roslyn-rd-winnipeg-mb-r3l-0h3
 Extracted 4 units in Winnipeg
-Total units: 245
+Total units: 240
 Processing listing: https://www.padmapper.com/buildings/p236781/victoria-arms-apartments-at-700-setter-st-winnipeg-mb-r2y-0l5
 Extracted 2 units in Winnipeg
-Total units: 247
+Total units: 242
 Processing listing: https://www.padmapper.com/buildings/p279572/the-penthouse-apartments-at-100-princess-st-winnipeg-mb-r3b-1k4
 Extracted 2 units in Winnipeg
-Total units: 249
+Total units: 244
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p1132633/the-bolt-apartments-at-2735-pembina-hwy-winnipeg-mb-r3t-2h5, retrying...
 Processing listing: https://www.padmapper.com/buildings/p1132633/the-bolt-apartments-at-2735-pembina-hwy-winnipeg-mb-r3t-2h5
 Extracted 11 units in Winnipeg
-Total units: 260
+Total units: 255
 Processing listing: https://www.padmapper.com/buildings/p580817/prairie-view-pointe-apartments-at-2766-main-st-winnipeg-mb-r2v-5e8
 Error encountered on page https://www.padmapper.com/buildings/p580817/prairie-view-pointe-apartments-at-2766-main-st-winnipeg-mb-r2v-5e8: 'NoneType' object has no attribute 'find_next_sibling'
 Error occurred on url: https://www.padmapper.com/buildings/p580817/prairie-view-pointe-apartments-at-2766-main-st-winnipeg-mb-r2v-5e8
 Processing listing: https://www.padmapper.com/buildings/p318926/the-sterling-window-lofts-apartments-at-283-portage-ave-winnipeg-mb-r3b-2b5
 Extracted 2 units in Winnipeg
-Total units: 262
+Total units: 257
 Processing listing: https://www.padmapper.com/buildings/p450987/50-hargrave-apartments-at-50-hargrave-st-winnipeg-mb-r3c-1b4
 Extracted 2 units in Winnipeg
-Total units: 264
+Total units: 259
 Processing listing: https://www.padmapper.com/buildings/p599749/courtview-landing-apartments-at-1085-court-ave-winnipeg-mb-r2p-2h8
 Extracted 2 units in Winnipeg
-Total units: 266
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p477587/heritage-landing-apartments-at-300-assiniboine-ave-winnipeg-mb-r3c-0t1, retrying...
+Total units: 261
 Processing listing: https://www.padmapper.com/buildings/p477587/heritage-landing-apartments-at-300-assiniboine-ave-winnipeg-mb-r3c-0t1
 Extracted 5 units in Winnipeg
-Total units: 271
+Total units: 266
 Processing listing: https://www.padmapper.com/buildings/p265503/east-concordia-landing-apartments-at-525-peguis-st-winnipeg-mb-r3w-0g7
 Extracted 2 units in Winnipeg
-Total units: 273
+Total units: 268
 Processing listing: https://www.padmapper.com/buildings/p310278/westminster-court-apartments-at-2945-pembina-hwy-winnipeg-mb-r3t-3r1
 Extracted 2 units in Winnipeg
-Total units: 275
+Total units: 270
 Processing listing: https://www.padmapper.com/buildings/p236775/river-crescent-gardens-apartments-at-595-river-ave-winnipeg-mb-r3l-0e6
 Extracted 2 units in Winnipeg
-Total units: 277
+Total units: 272
 Processing listing: https://www.padmapper.com/buildings/p239870/south-pointe-terrace-apartments-at-2475-waverley-st-winnipeg-mb-r3y-0x9
 Extracted 4 units in Winnipeg
-Total units: 281
+Total units: 276
 Processing listing: https://www.padmapper.com/buildings/p477577/castle-gardens-apartments-at-90-paget-st-winnipeg-mb-r3p-2t6
 Extracted 2 units in Winnipeg
-Total units: 283
+Total units: 278
 Processing listing: https://www.padmapper.com/buildings/p418563/kildonan-heights-apartments-at-865-panet-rd-winnipeg-mb-r2k-4m6
 Error encountered on page https://www.padmapper.com/buildings/p418563/kildonan-heights-apartments-at-865-panet-rd-winnipeg-mb-r2k-4m6: 'NoneType' object has no attribute 'find_next_sibling'
 Error occurred on url: https://www.padmapper.com/buildings/p418563/kildonan-heights-apartments-at-865-panet-rd-winnipeg-mb-r2k-4m6
@@ -804,55 +803,55 @@ Error encountered on page https://www.padmapper.com/buildings/p284928/aurora-hei
 Error occurred on url: https://www.padmapper.com/buildings/p284928/aurora-heights-apartments-at-115-north-point-blvd-winnipeg-mb-r2v-5b5
 Processing listing: https://www.padmapper.com/buildings/p213475/apartments-at-66-morrow-ave-winnipeg-mb-r2m-1a4
 Extracted 2 units in Winnipeg
-Total units: 285
+Total units: 280
 Processing listing: https://www.padmapper.com/buildings/p251727/polo-club-townhomes-apartments-at-812-allegheny-dr-winnipeg-mb-r3t-5l2
 Extracted 3 units in Winnipeg
-Total units: 288
+Total units: 283
 Processing listing: https://www.padmapper.com/buildings/p601517/h20-apartments-at-480-500-waterfront-dr-winnipeg-mb-r3b-none
 Extracted 3 units in Winnipeg
-Total units: 291
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p477581/meadowood-gardens-apartments-at-576-meadowood-gardens-winnipeg-mb-r2m-5s8, retrying...
+Total units: 286
 Processing listing: https://www.padmapper.com/buildings/p477581/meadowood-gardens-apartments-at-576-meadowood-gardens-winnipeg-mb-r2m-5s8
 Extracted 2 units in Winnipeg
-Total units: 293
+Total units: 288
 Processing listing: https://www.padmapper.com/buildings/p1119635/apartments-at-260-wellington-cres-winnipeg-mb-r3m-0b4
 Extracted 3 units in Winnipeg
-Total units: 296
+Total units: 291
 Processing listing: https://www.padmapper.com/buildings/p399540/kenwood-court-apartments-at-337-kenwood-court-winnipeg-mb-r2n-0a7
 Extracted 2 units in Winnipeg
-Total units: 298
+Total units: 293
 Processing listing: https://www.padmapper.com/buildings/p456851/bishop-heights-apartments-at-745-ballantrae-dr-winnipeg-mb-r3t-6g5
 Error encountered on page https://www.padmapper.com/buildings/p456851/bishop-heights-apartments-at-745-ballantrae-dr-winnipeg-mb-r3t-6g5: 'NoneType' object has no attribute 'find_next_sibling'
 Error occurred on url: https://www.padmapper.com/buildings/p456851/bishop-heights-apartments-at-745-ballantrae-dr-winnipeg-mb-r3t-6g5
 Processing listing: https://www.padmapper.com/buildings/p480691/heritage-park-apartments-at-3057-ness-ave-winnipeg-mb-r2y-1j7
 Extracted 3 units in Winnipeg
-Total units: 301
+Total units: 296
 Processing listing: https://www.padmapper.com/buildings/p456793/seasons-apartments-at-590-sterling-lyon-pky-winnipeg-mb-r3p-1e9
 Error encountered on page https://www.padmapper.com/buildings/p456793/seasons-apartments-at-590-sterling-lyon-pky-winnipeg-mb-r3p-1e9: 'NoneType' object has no attribute 'find_next_sibling'
 Error occurred on url: https://www.padmapper.com/buildings/p456793/seasons-apartments-at-590-sterling-lyon-pky-winnipeg-mb-r3p-1e9
-Processing listing: https://www.padmapper.com/buildings/p239442/bridgwater-heights-apartments-at-225-north-town-rd-winnipeg-mb-r3y-0p5
-Extracted 2 units in Winnipeg
-Total units: 303
 Processing listing: https://www.padmapper.com/buildings/p236773/pinewood-place-apartments-at-2510-portage-ave-winnipeg-mb-r3j-0n9
 Extracted 2 units in Winnipeg
-Total units: 305
+Total units: 298
 Processing listing: https://www.padmapper.com/buildings/p863885/lot-6-apartments-at-15-berwick-crt-winnipeg-mb-r3l-2j1
 Extracted 3 units in Winnipeg
-Total units: 308
+Total units: 301
 Processing listing: https://www.padmapper.com/buildings/p689388/stradbrook-apartments-at-606-stradbrook-ave-winnipeg-mb-r3l-0k4
 Extracted 2 units in Winnipeg
-Total units: 310
+Total units: 303
 Processing listing: https://www.padmapper.com/buildings/p456899/courts-of-st-james-apartments-at-200-234-ronald-st-winnipeg-mb-r3j-none
 Extracted 4 units in Winnipeg
-Total units: 314
+Total units: 307
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p213595/riverview-towers-apartments-at-240-stradbrook-ave-winnipeg-mb-r3l-2p7, retrying...
 Processing listing: https://www.padmapper.com/buildings/p213595/riverview-towers-apartments-at-240-stradbrook-ave-winnipeg-mb-r3l-2p7
 Extracted 2 units in Winnipeg
-Total units: 316
+Total units: 309
 Processing listing: https://www.padmapper.com/buildings/p213597/parkwood-square-apartments-at-170-watt-st-winnipeg-mb-r2l-2b5
 Extracted 3 units in Winnipeg
-Total units: 319
+Total units: 312
 Processing listing: https://www.padmapper.com/buildings/p406663/waterford-village-apartments-at-90-waterford-bay-winnipeg-mb-r3t-none
 Extracted 3 units in Winnipeg
+Total units: 315
+Processing listing: https://www.padmapper.com/buildings/p508632/latitude-49-at-sage-creek-apartments-at-40-des-hivernants-blvd-n-winnipeg-mb-r3x-0r7
+Extracted 7 units in Winnipeg
 Total units: 322
 Processing listing: https://www.padmapper.com/buildings/p549528/the-arts-res-apartments-at-233-kennedy-st-winnipeg-mb-r3c-3j5
 Extracted 4 units in Winnipeg
@@ -869,11 +868,9 @@ Total units: 337
 Processing listing: https://www.padmapper.com/buildings/p252708/albina-shoreline-apartments-at-10-albina-way-winnipeg-mb-r2r-1g8
 Extracted 2 units in Winnipeg
 Total units: 339
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p251731/moray-village-phase-iii-the-coach-homes-apartments-at-525-thompson-dr-winnipeg-mb-r3j-3w5, retrying...
 Processing listing: https://www.padmapper.com/buildings/p251731/moray-village-phase-iii-the-coach-homes-apartments-at-525-thompson-dr-winnipeg-mb-r3j-3w5
 Extracted 3 units in Winnipeg
 Total units: 342
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p356001/chancellor-estates-apartments-at-940-chancellor-dr-winnipeg-mb-r3t-2k1, retrying...
 Processing listing: https://www.padmapper.com/buildings/p356001/chancellor-estates-apartments-at-940-chancellor-dr-winnipeg-mb-r3t-2k1
 Extracted 2 units in Winnipeg
 Total units: 344
@@ -958,7 +955,6 @@ Total units: 434
 Processing listing: https://www.padmapper.com/buildings/p545145/2-75-oak-park-walk-kimberly-village-apartments-at-2-oak-park-walk-winnipeg-mb-r2k-none
 Extracted 3 units in Winnipeg
 Total units: 437
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p213593/chateau-100-apartments-at-72-donald-st-winnipeg-mb-r3c-1l7, retrying...
 Processing listing: https://www.padmapper.com/buildings/p213593/chateau-100-apartments-at-72-donald-st-winnipeg-mb-r3c-1l7
 Extracted 2 units in Winnipeg
 Total units: 439
@@ -968,7 +964,6 @@ Total units: 441
 Processing listing: https://www.padmapper.com/buildings/p221548/fort-garry-tower-apartments-at-70-garry-st-winnipeg-mb-r3c-3j9
 Extracted 2 units in Winnipeg
 Total units: 443
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p214779/hargrave-place-apartments-at-26-hargrave-st-winnipeg-mb-r3c-1n1, retrying...
 Processing listing: https://www.padmapper.com/buildings/p214779/hargrave-place-apartments-at-26-hargrave-st-winnipeg-mb-r3c-1n1
 Extracted 2 units in Winnipeg
 Total units: 445
@@ -987,16 +982,19 @@ Total units: 453
 Processing listing: https://www.padmapper.com/buildings/p1134686/the-parkbridge-apartments-at-2140-portage-ave-winnipeg-mb-r3j-none
 Extracted 74 units in Winnipeg
 Total units: 527
+********** Total Listings Extracted: 783 **********
 ********** Accessing https://www.padmapper.com/apartments/toronto-on **********
 Reached the end of the page or no new content loaded.
-Extracted 155 Floorplans for https://www.padmapper.com/buildings/p955742/maple-house-at-canary-landing-apartments-at-131-mill-st-toronto-on-m5a-2z8
-Extracted 31 Floorplans for https://www.padmapper.com/buildings/p977714/immix-apartments-at-7-grosvenor-st-toronto-on-m4y-0e2
-Extracted 6 Floorplans for https://www.padmapper.com/buildings/p368402/apartments-at-39-niagara-st-toronto-on-m5v-0t6
-Extracted 21 Floorplans for https://www.padmapper.com/buildings/p354975/the-selby-apartments-at-25-selby-st-toronto-on-m4y-0e6
+Extracted 3 Floorplans for https://www.padmapper.com/buildings/p217317/apartments-at-2525-bathurst-st-toronto-on-m6b-2y9
+Extracted 14 Floorplans for https://www.padmapper.com/buildings/p600303/the-whitney-on-redpath-apartments-at-71-redpath-ave-toronto-on-m4s-0e1
 Extracted 23 Floorplans for https://www.padmapper.com/buildings/p806219/the-taylor-apartments-at-57-spadina-ave-toronto-on-m5v-0t9
+Extracted 155 Floorplans for https://www.padmapper.com/buildings/p955742/maple-house-at-canary-landing-apartments-at-131-mill-st-toronto-on-m5a-2z8
+Extracted 21 Floorplans for https://www.padmapper.com/buildings/p354975/the-selby-apartments-at-25-selby-st-toronto-on-m4y-0e6
 Extracted 74 Floorplans for https://www.padmapper.com/buildings/p997166/the-ivy-apartments-at-8-gloucester-st-toronto-on-m4y-0h8
 Extracted 32 Floorplans for https://www.padmapper.com/buildings/p799004/aberdeen-on-the-kingsway-apartments-at-299-the-kingsway-toronto-on-m9a-0e7
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p906075/apartments-at-20-samuel-wood-way-toronto-on-m9b-0c8
+Extracted 6 Floorplans for https://www.padmapper.com/buildings/p217258/apartments-at-40-alexander-st-toronto-on-m4y-1b5
+Extracted 6 Floorplans for https://www.padmapper.com/buildings/p368402/apartments-at-39-niagara-st-toronto-on-m5v-0t6
 Extracted 32 Floorplans for https://www.padmapper.com/buildings/p751811/the-residences-at-the-well-apartments-at-425-wellington-st-w-toronto-on-m5v-0v3
 Extracted 38 Floorplans for https://www.padmapper.com/buildings/p399412/parkside-square-apartments-at-55-smooth-rose-crt-toronto-on-m2j-0g7
 Extracted 38 Floorplans for https://www.padmapper.com/buildings/p876828/fourfifty-the-well-apartments-at-450-front-st-w-toronto-on-m5v-0v7
@@ -1005,18 +1003,16 @@ Extracted 5 Floorplans for https://www.padmapper.com/buildings/p213527/the-roe-a
 Extracted 50 Floorplans for https://www.padmapper.com/buildings/p456727/lillian-park-apartments-at-44-lillian-st-toronto-on-m4s-0b7
 Extracted 4 Floorplans for https://www.padmapper.com/buildings/p675015/apartments-at-2-clarendon-ave-toronto-on-m4v-1h9
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p1113252/toronto-house-apartments-at-225-adelaide-st-w-toronto-on-m5h-0a7
+Extracted 31 Floorplans for https://www.padmapper.com/buildings/p977714/immix-apartments-at-7-grosvenor-st-toronto-on-m4y-0e2
 Extracted 22 Floorplans for https://www.padmapper.com/buildings/p931189/balliol-park-apartments-at-118-balliol-st-toronto-on-m4s-0a9
 Extracted 31 Floorplans for https://www.padmapper.com/buildings/p562197/novus-apartments-at-25-ordnance-st-toronto-on-m6k-0e9
 Extracted 8 Floorplans for https://www.padmapper.com/buildings/p784660/apartments-at-44-charles-st-w-toronto-on-m4y-1r8
 Extracted 61 Floorplans for https://www.padmapper.com/buildings/p847933/lnx-apartments-at-2376-dundas-st-w-toronto-on-m6p-0c1
-Extracted 14 Floorplans for https://www.padmapper.com/buildings/p600303/the-whitney-on-redpath-apartments-at-71-redpath-ave-toronto-on-m4s-0e1
 Extracted 26 Floorplans for https://www.padmapper.com/buildings/p402095/the-torontonian-apartments-at-45-dunfield-ave-toronto-on-m4s-2h4
 Extracted 6 Floorplans for https://www.padmapper.com/buildings/p217257/apartments-at-225-davisville-ave-toronto-on-m4s-1g9
-Extracted 6 Floorplans for https://www.padmapper.com/buildings/p217258/apartments-at-40-alexander-st-toronto-on-m4y-1b5
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p512179/apartments-at-40-pleasant-blvd-toronto-on-m4t-1j9
 Extracted 5 Floorplans for https://www.padmapper.com/buildings/p213524/high-park-village-apartments-at-111-pacific-ave-toronto-on-m6p-2p2
 Extracted 74 Floorplans for https://www.padmapper.com/buildings/p601904/parker-apartments-at-200-redpath-ave-toronto-on-m4p-0e6
-Extracted 3 Floorplans for https://www.padmapper.com/buildings/p217317/apartments-at-2525-bathurst-st-toronto-on-m6b-2y9
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p217760/apartments-at-33-isabella-st-toronto-on-m4y-2p7
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p217750/apartments-at-11-walmer-rd-toronto-on-m5r-2w9
 Extracted 5 Floorplans for https://www.padmapper.com/buildings/p741015/tippett-park-apartments-at-18-tretti-way-toronto-on-m3h-0e4
@@ -1132,7 +1128,6 @@ Extracted 3 Floorplans for https://www.padmapper.com/buildings/p288770/yonge-egl
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/1558779/roanoke-apartments-at-7-toronto-on-m8v-none
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p288791/mimico-estates-apartments-at-2527-lake-shore-blvd-w-toronto-on-m8v-1e5
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p288788/bentley-apartments-at-15-tangreen-crt-toronto-on-m2m-3z2
-Extracted 3 Floorplans for https://www.padmapper.com/buildings/p446289/chatsworth-apartments-at-2928-yonge-st-toronto-on-m4n-2k1
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p450332/livonia-apartments-at-30-livonia-pl-toronto-on-m1e-4w7
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p224803/apartments-at-99-tyndall-ave-toronto-on-m6k-2g2
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p224808/apartments-at-95-jameson-ave-toronto-on-m6k-2x1
@@ -1173,7 +1168,6 @@ Extracted 2 Floorplans for https://www.padmapper.com/buildings/p1039619/apartmen
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p420403/apartments-at-3967-lawrence-ave-e-toronto-on-m1g-1s2
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/1558767/park-vista-apartments-at-2-toronto-on-m8v-none
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p219384/apartments-at-9-kingsbridge-crt-toronto-on-m2r-1l6
-Extracted 4 Floorplans for https://www.padmapper.com/buildings/p219418/graydon-hall-apartments-at-20-graydon-hall-dr-toronto-on-m3a-2z9
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p214743/parkway-forest-towers-apartments-at-100-parkway-forest-dr-toronto-on-m2j-1l6
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p325412/apartments-at-746-midland-ave-toronto-on-m1k-4e2
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p417530/apartments-at-85-wellesley-st-e-toronto-on-m4y-1h8
@@ -1532,8 +1526,10 @@ Extracted 4 Floorplans for https://www.padmapper.com/buildings/p213111/upper-can
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p217045/fred-j-beavis-apartments-at-110-unity-rd-toronto-on-m4j-5a9
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p252736/1-3-21-eccleston-drive-apartments-at-1-eccleston-dr-toronto-on-m4a-1k1
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p252732/apartments-at-3000-dufferin-st-toronto-on-m6b-3t6
+Extracted 3 Floorplans for https://www.padmapper.com/buildings/p446289/chatsworth-apartments-at-2928-yonge-st-toronto-on-m4n-2k1
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p409781/apartments-at-190-jameson-ave-toronto-on-m6k-2z5
 Extracted 4 Floorplans for https://www.padmapper.com/buildings/p400683/apartments-at-54-maitland-st-toronto-on-m4y-1c5
+Extracted 4 Floorplans for https://www.padmapper.com/buildings/p219418/graydon-hall-apartments-at-20-graydon-hall-dr-toronto-on-m3a-2z9
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p371592/apartments-at-1001-o'connor-dr-toronto-on-m4b-2t2
 Extracted 16 Floorplans for https://www.padmapper.com/buildings/p252619/campusone-apartments-at-253-college-st-toronto-on-m5t-1r5
 Extracted 5 Floorplans for https://www.padmapper.com/buildings/p235103/parkside-student-residence-apartments-at-111-carlton-st-toronto-on-m5b-2g3
@@ -1555,19 +1551,21 @@ Extracted 4 Floorplans for https://www.padmapper.com/buildings/p217938/apartment
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p1037508/apartments-at-2255-jane-st-toronto-on-m3m-1a6
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/1367031/seeley-estates-apartments-at-18-24-25-27-seeley-drive-toronto-on-m3m-2v7
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p499971/apartments-at-75-windermere-manor-toronto-on-m6s-3j5
+Extracted 2 Floorplans for https://www.padmapper.com/buildings/p622568/the-bee-shop-apartments-at-1340-bloor-street-west-toronto-on-m6h-1p2
 Extracted 3 Floorplans for https://www.padmapper.com/buildings/p949867/tailor-condos-apartments-at-1195-the-queensway-toronto-on-m8z-1r6
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p939566/guildwood-gardens-apartments-at-3969-kingston-road-toronto-on-m1j-3h8
-Extracted 2 Floorplans for https://www.padmapper.com/buildings/p622568/the-bee-shop-apartments-at-1340-bloor-street-west-toronto-on-m6h-1p2
 Extracted 2 Floorplans for https://www.padmapper.com/buildings/p651778/downsview-park-apartments-at-3444-keele-st-toronto-on-m3j-1l8
 ***** Extracted 570 listings for toronto-on *****
-https://www.padmapper.com/buildings/p955742/maple-house-at-canary-landing-apartments-at-131-mill-st-toronto-on-m5a-2z8
-https://www.padmapper.com/buildings/p977714/immix-apartments-at-7-grosvenor-st-toronto-on-m4y-0e2
-https://www.padmapper.com/buildings/p368402/apartments-at-39-niagara-st-toronto-on-m5v-0t6
-https://www.padmapper.com/buildings/p354975/the-selby-apartments-at-25-selby-st-toronto-on-m4y-0e6
+https://www.padmapper.com/buildings/p217317/apartments-at-2525-bathurst-st-toronto-on-m6b-2y9
+https://www.padmapper.com/buildings/p600303/the-whitney-on-redpath-apartments-at-71-redpath-ave-toronto-on-m4s-0e1
 https://www.padmapper.com/buildings/p806219/the-taylor-apartments-at-57-spadina-ave-toronto-on-m5v-0t9
+https://www.padmapper.com/buildings/p955742/maple-house-at-canary-landing-apartments-at-131-mill-st-toronto-on-m5a-2z8
+https://www.padmapper.com/buildings/p354975/the-selby-apartments-at-25-selby-st-toronto-on-m4y-0e6
 https://www.padmapper.com/buildings/p997166/the-ivy-apartments-at-8-gloucester-st-toronto-on-m4y-0h8
 https://www.padmapper.com/buildings/p799004/aberdeen-on-the-kingsway-apartments-at-299-the-kingsway-toronto-on-m9a-0e7
 https://www.padmapper.com/buildings/p906075/apartments-at-20-samuel-wood-way-toronto-on-m9b-0c8
+https://www.padmapper.com/buildings/p217258/apartments-at-40-alexander-st-toronto-on-m4y-1b5
+https://www.padmapper.com/buildings/p368402/apartments-at-39-niagara-st-toronto-on-m5v-0t6
 https://www.padmapper.com/buildings/p751811/the-residences-at-the-well-apartments-at-425-wellington-st-w-toronto-on-m5v-0v3
 https://www.padmapper.com/buildings/p399412/parkside-square-apartments-at-55-smooth-rose-crt-toronto-on-m2j-0g7
 https://www.padmapper.com/buildings/p876828/fourfifty-the-well-apartments-at-450-front-st-w-toronto-on-m5v-0v7
@@ -1576,18 +1574,16 @@ https://www.padmapper.com/buildings/p213527/the-roe-apartments-at-150-roehampton
 https://www.padmapper.com/buildings/p456727/lillian-park-apartments-at-44-lillian-st-toronto-on-m4s-0b7
 https://www.padmapper.com/buildings/p675015/apartments-at-2-clarendon-ave-toronto-on-m4v-1h9
 https://www.padmapper.com/buildings/p1113252/toronto-house-apartments-at-225-adelaide-st-w-toronto-on-m5h-0a7
+https://www.padmapper.com/buildings/p977714/immix-apartments-at-7-grosvenor-st-toronto-on-m4y-0e2
 https://www.padmapper.com/buildings/p931189/balliol-park-apartments-at-118-balliol-st-toronto-on-m4s-0a9
 https://www.padmapper.com/buildings/p562197/novus-apartments-at-25-ordnance-st-toronto-on-m6k-0e9
 https://www.padmapper.com/buildings/p784660/apartments-at-44-charles-st-w-toronto-on-m4y-1r8
 https://www.padmapper.com/buildings/p847933/lnx-apartments-at-2376-dundas-st-w-toronto-on-m6p-0c1
-https://www.padmapper.com/buildings/p600303/the-whitney-on-redpath-apartments-at-71-redpath-ave-toronto-on-m4s-0e1
 https://www.padmapper.com/buildings/p402095/the-torontonian-apartments-at-45-dunfield-ave-toronto-on-m4s-2h4
 https://www.padmapper.com/buildings/p217257/apartments-at-225-davisville-ave-toronto-on-m4s-1g9
-https://www.padmapper.com/buildings/p217258/apartments-at-40-alexander-st-toronto-on-m4y-1b5
 https://www.padmapper.com/buildings/p512179/apartments-at-40-pleasant-blvd-toronto-on-m4t-1j9
 https://www.padmapper.com/buildings/p213524/high-park-village-apartments-at-111-pacific-ave-toronto-on-m6p-2p2
 https://www.padmapper.com/buildings/p601904/parker-apartments-at-200-redpath-ave-toronto-on-m4p-0e6
-https://www.padmapper.com/buildings/p217317/apartments-at-2525-bathurst-st-toronto-on-m6b-2y9
 https://www.padmapper.com/buildings/p217760/apartments-at-33-isabella-st-toronto-on-m4y-2p7
 https://www.padmapper.com/buildings/p217750/apartments-at-11-walmer-rd-toronto-on-m5r-2w9
 https://www.padmapper.com/buildings/p741015/tippett-park-apartments-at-18-tretti-way-toronto-on-m3h-0e4
@@ -1703,7 +1699,6 @@ https://www.padmapper.com/buildings/p288770/yonge-eglinton-apartments-orchard-vi
 https://www.padmapper.com/buildings/1558779/roanoke-apartments-at-7-toronto-on-m8v-none
 https://www.padmapper.com/buildings/p288791/mimico-estates-apartments-at-2527-lake-shore-blvd-w-toronto-on-m8v-1e5
 https://www.padmapper.com/buildings/p288788/bentley-apartments-at-15-tangreen-crt-toronto-on-m2m-3z2
-https://www.padmapper.com/buildings/p446289/chatsworth-apartments-at-2928-yonge-st-toronto-on-m4n-2k1
 https://www.padmapper.com/buildings/p450332/livonia-apartments-at-30-livonia-pl-toronto-on-m1e-4w7
 https://www.padmapper.com/buildings/p224803/apartments-at-99-tyndall-ave-toronto-on-m6k-2g2
 https://www.padmapper.com/buildings/p224808/apartments-at-95-jameson-ave-toronto-on-m6k-2x1
@@ -1744,7 +1739,6 @@ https://www.padmapper.com/buildings/p1039619/apartments-at-287-markland-dr-toron
 https://www.padmapper.com/buildings/p420403/apartments-at-3967-lawrence-ave-e-toronto-on-m1g-1s2
 https://www.padmapper.com/buildings/1558767/park-vista-apartments-at-2-toronto-on-m8v-none
 https://www.padmapper.com/buildings/p219384/apartments-at-9-kingsbridge-crt-toronto-on-m2r-1l6
-https://www.padmapper.com/buildings/p219418/graydon-hall-apartments-at-20-graydon-hall-dr-toronto-on-m3a-2z9
 https://www.padmapper.com/buildings/p214743/parkway-forest-towers-apartments-at-100-parkway-forest-dr-toronto-on-m2j-1l6
 https://www.padmapper.com/buildings/p325412/apartments-at-746-midland-ave-toronto-on-m1k-4e2
 https://www.padmapper.com/buildings/p417530/apartments-at-85-wellesley-st-e-toronto-on-m4y-1h8
@@ -2103,8 +2097,10 @@ https://www.padmapper.com/buildings/p213111/upper-canada-court-centre-apartments
 https://www.padmapper.com/buildings/p217045/fred-j-beavis-apartments-at-110-unity-rd-toronto-on-m4j-5a9
 https://www.padmapper.com/buildings/p252736/1-3-21-eccleston-drive-apartments-at-1-eccleston-dr-toronto-on-m4a-1k1
 https://www.padmapper.com/buildings/p252732/apartments-at-3000-dufferin-st-toronto-on-m6b-3t6
+https://www.padmapper.com/buildings/p446289/chatsworth-apartments-at-2928-yonge-st-toronto-on-m4n-2k1
 https://www.padmapper.com/buildings/p409781/apartments-at-190-jameson-ave-toronto-on-m6k-2z5
 https://www.padmapper.com/buildings/p400683/apartments-at-54-maitland-st-toronto-on-m4y-1c5
+https://www.padmapper.com/buildings/p219418/graydon-hall-apartments-at-20-graydon-hall-dr-toronto-on-m3a-2z9
 https://www.padmapper.com/buildings/p371592/apartments-at-1001-o'connor-dr-toronto-on-m4b-2t2
 https://www.padmapper.com/buildings/p252619/campusone-apartments-at-253-college-st-toronto-on-m5t-1r5
 https://www.padmapper.com/buildings/p235103/parkside-student-residence-apartments-at-111-carlton-st-toronto-on-m5b-2g3
@@ -2126,945 +2122,135 @@ https://www.padmapper.com/buildings/p217938/apartments-at-730-dovercourt-rd-toro
 https://www.padmapper.com/buildings/p1037508/apartments-at-2255-jane-st-toronto-on-m3m-1a6
 https://www.padmapper.com/buildings/1367031/seeley-estates-apartments-at-18-24-25-27-seeley-drive-toronto-on-m3m-2v7
 https://www.padmapper.com/buildings/p499971/apartments-at-75-windermere-manor-toronto-on-m6s-3j5
+https://www.padmapper.com/buildings/p622568/the-bee-shop-apartments-at-1340-bloor-street-west-toronto-on-m6h-1p2
 https://www.padmapper.com/buildings/p949867/tailor-condos-apartments-at-1195-the-queensway-toronto-on-m8z-1r6
 https://www.padmapper.com/buildings/p939566/guildwood-gardens-apartments-at-3969-kingston-road-toronto-on-m1j-3h8
-https://www.padmapper.com/buildings/p622568/the-bee-shop-apartments-at-1340-bloor-street-west-toronto-on-m6h-1p2
 https://www.padmapper.com/buildings/p651778/downsview-park-apartments-at-3444-keele-st-toronto-on-m3j-1l8
-Processing listing: https://www.padmapper.com/buildings/p955742/maple-house-at-canary-landing-apartments-at-131-mill-st-toronto-on-m5a-2z8
+Processing listing: https://www.padmapper.com/buildings/p217317/apartments-at-2525-bathurst-st-toronto-on-m6b-2y9
 Extracted 0 units in Toronto
 Total units: 0
-ERROR: Extracted 0 units on url https://www.padmapper.com/buildings/p955742/maple-house-at-canary-landing-apartments-at-131-mill-st-toronto-on-m5a-2z8, retrying...
-Processing listing: https://www.padmapper.com/buildings/p955742/maple-house-at-canary-landing-apartments-at-131-mill-st-toronto-on-m5a-2z8
+ERROR: Extracted 0 units on url https://www.padmapper.com/buildings/p217317/apartments-at-2525-bathurst-st-toronto-on-m6b-2y9, retrying...
+Processing listing: https://www.padmapper.com/buildings/p217317/apartments-at-2525-bathurst-st-toronto-on-m6b-2y9
 Extracted 0 units in Toronto
 Total units: 0
-ERROR: Extracted 0 units on url https://www.padmapper.com/buildings/p955742/maple-house-at-canary-landing-apartments-at-131-mill-st-toronto-on-m5a-2z8, retrying...
-Processing listing: https://www.padmapper.com/buildings/p955742/maple-house-at-canary-landing-apartments-at-131-mill-st-toronto-on-m5a-2z8
+ERROR: Extracted 0 units on url https://www.padmapper.com/buildings/p217317/apartments-at-2525-bathurst-st-toronto-on-m6b-2y9, retrying...
+Processing listing: https://www.padmapper.com/buildings/p217317/apartments-at-2525-bathurst-st-toronto-on-m6b-2y9
 Extracted 0 units in Toronto
 Total units: 0
-ERROR: Extracted 0 units on url https://www.padmapper.com/buildings/p955742/maple-house-at-canary-landing-apartments-at-131-mill-st-toronto-on-m5a-2z8, retrying...
-Processing listing: https://www.padmapper.com/buildings/p977714/immix-apartments-at-7-grosvenor-st-toronto-on-m4y-0e2
+ERROR: Extracted 0 units on url https://www.padmapper.com/buildings/p217317/apartments-at-2525-bathurst-st-toronto-on-m6b-2y9, retrying...
+Processing listing: https://www.padmapper.com/buildings/p600303/the-whitney-on-redpath-apartments-at-71-redpath-ave-toronto-on-m4s-0e1
 Extracted 0 units in Toronto
 Total units: 0
-ERROR: Extracted 0 units on url https://www.padmapper.com/buildings/p977714/immix-apartments-at-7-grosvenor-st-toronto-on-m4y-0e2, retrying...
-Processing listing: https://www.padmapper.com/buildings/p977714/immix-apartments-at-7-grosvenor-st-toronto-on-m4y-0e2
+ERROR: Extracted 0 units on url https://www.padmapper.com/buildings/p600303/the-whitney-on-redpath-apartments-at-71-redpath-ave-toronto-on-m4s-0e1, retrying...
+Processing listing: https://www.padmapper.com/buildings/p600303/the-whitney-on-redpath-apartments-at-71-redpath-ave-toronto-on-m4s-0e1
 Extracted 0 units in Toronto
 Total units: 0
-ERROR: Extracted 0 units on url https://www.padmapper.com/buildings/p977714/immix-apartments-at-7-grosvenor-st-toronto-on-m4y-0e2, retrying...
-Processing listing: https://www.padmapper.com/buildings/p977714/immix-apartments-at-7-grosvenor-st-toronto-on-m4y-0e2
+ERROR: Extracted 0 units on url https://www.padmapper.com/buildings/p600303/the-whitney-on-redpath-apartments-at-71-redpath-ave-toronto-on-m4s-0e1, retrying...
+Processing listing: https://www.padmapper.com/buildings/p600303/the-whitney-on-redpath-apartments-at-71-redpath-ave-toronto-on-m4s-0e1
 Extracted 0 units in Toronto
 Total units: 0
-ERROR: Extracted 0 units on url https://www.padmapper.com/buildings/p977714/immix-apartments-at-7-grosvenor-st-toronto-on-m4y-0e2, retrying...
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p368402/apartments-at-39-niagara-st-toronto-on-m5v-0t6, retrying...
-Processing listing: https://www.padmapper.com/buildings/p368402/apartments-at-39-niagara-st-toronto-on-m5v-0t6
-Extracted 6 units in Toronto
-Total units: 6
-Processing listing: https://www.padmapper.com/buildings/p354975/the-selby-apartments-at-25-selby-st-toronto-on-m4y-0e6
-Extracted 21 units in Toronto
-Total units: 27
+ERROR: Extracted 0 units on url https://www.padmapper.com/buildings/p600303/the-whitney-on-redpath-apartments-at-71-redpath-ave-toronto-on-m4s-0e1, retrying...
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p806219/the-taylor-apartments-at-57-spadina-ave-toronto-on-m5v-0t9, retrying...
 Processing listing: https://www.padmapper.com/buildings/p806219/the-taylor-apartments-at-57-spadina-ave-toronto-on-m5v-0t9
 Extracted 23 units in Toronto
-Total units: 50
+Total units: 23
+Processing listing: https://www.padmapper.com/buildings/p955742/maple-house-at-canary-landing-apartments-at-131-mill-st-toronto-on-m5a-2z8
+Extracted 155 units in Toronto
+Total units: 178
+Processing listing: https://www.padmapper.com/buildings/p354975/the-selby-apartments-at-25-selby-st-toronto-on-m4y-0e6
+Extracted 21 units in Toronto
+Total units: 199
 Processing listing: https://www.padmapper.com/buildings/p997166/the-ivy-apartments-at-8-gloucester-st-toronto-on-m4y-0h8
 Extracted 74 units in Toronto
-Total units: 124
+Total units: 273
 Processing listing: https://www.padmapper.com/buildings/p799004/aberdeen-on-the-kingsway-apartments-at-299-the-kingsway-toronto-on-m9a-0e7
 Extracted 32 units in Toronto
-Total units: 156
+Total units: 305
 Processing listing: https://www.padmapper.com/buildings/p906075/apartments-at-20-samuel-wood-way-toronto-on-m9b-0c8
 Extracted 2 units in Toronto
-Total units: 158
-Processing listing: https://www.padmapper.com/buildings/p751811/the-residences-at-the-well-apartments-at-425-wellington-st-w-toronto-on-m5v-0v3
-Extracted 32 units in Toronto
-Total units: 190
-Processing listing: https://www.padmapper.com/buildings/p399412/parkside-square-apartments-at-55-smooth-rose-crt-toronto-on-m2j-0g7
-Extracted 38 units in Toronto
-Total units: 228
-Processing listing: https://www.padmapper.com/buildings/p876828/fourfifty-the-well-apartments-at-450-front-st-w-toronto-on-m5v-0v7
-Extracted 38 units in Toronto
-Total units: 266
-Processing listing: https://www.padmapper.com/buildings/p421941/york-mills-and-leslie-apartments-at-750-york-mills-rd-toronto-on-m3b-1w9
-Extracted 3 units in Toronto
-Total units: 269
-Processing listing: https://www.padmapper.com/buildings/p213527/the-roe-apartments-at-150-roehampton-ave-toronto-on-m4p-0a2
-Extracted 5 units in Toronto
-Total units: 274
-Processing listing: https://www.padmapper.com/buildings/p456727/lillian-park-apartments-at-44-lillian-st-toronto-on-m4s-0b7
-Extracted 50 units in Toronto
-Total units: 324
-Processing listing: https://www.padmapper.com/buildings/p675015/apartments-at-2-clarendon-ave-toronto-on-m4v-1h9
-Extracted 4 units in Toronto
-Total units: 328
-Processing listing: https://www.padmapper.com/buildings/p1113252/toronto-house-apartments-at-225-adelaide-st-w-toronto-on-m5h-0a7
-Extracted 3 units in Toronto
-Total units: 331
-Processing listing: https://www.padmapper.com/buildings/p931189/balliol-park-apartments-at-118-balliol-st-toronto-on-m4s-0a9
-Extracted 22 units in Toronto
-Total units: 353
-Processing listing: https://www.padmapper.com/buildings/p562197/novus-apartments-at-25-ordnance-st-toronto-on-m6k-0e9
-Extracted 31 units in Toronto
-Total units: 384
-Processing listing: https://www.padmapper.com/buildings/p784660/apartments-at-44-charles-st-w-toronto-on-m4y-1r8
-Extracted 8 units in Toronto
-Total units: 392
-Processing listing: https://www.padmapper.com/buildings/p847933/lnx-apartments-at-2376-dundas-st-w-toronto-on-m6p-0c1
-Extracted 61 units in Toronto
-Total units: 453
-Processing listing: https://www.padmapper.com/buildings/p600303/the-whitney-on-redpath-apartments-at-71-redpath-ave-toronto-on-m4s-0e1
-Extracted 14 units in Toronto
-Total units: 467
-Processing listing: https://www.padmapper.com/buildings/p402095/the-torontonian-apartments-at-45-dunfield-ave-toronto-on-m4s-2h4
-Extracted 26 units in Toronto
-Total units: 493
-Processing listing: https://www.padmapper.com/buildings/p217257/apartments-at-225-davisville-ave-toronto-on-m4s-1g9
-Extracted 6 units in Toronto
-Total units: 499
+Total units: 307
 Processing listing: https://www.padmapper.com/buildings/p217258/apartments-at-40-alexander-st-toronto-on-m4y-1b5
 Extracted 6 units in Toronto
-Total units: 505
+Total units: 313
+Processing listing: https://www.padmapper.com/buildings/p368402/apartments-at-39-niagara-st-toronto-on-m5v-0t6
+Extracted 6 units in Toronto
+Total units: 319
+Processing listing: https://www.padmapper.com/buildings/p751811/the-residences-at-the-well-apartments-at-425-wellington-st-w-toronto-on-m5v-0v3
+Extracted 32 units in Toronto
+Total units: 351
+Processing listing: https://www.padmapper.com/buildings/p399412/parkside-square-apartments-at-55-smooth-rose-crt-toronto-on-m2j-0g7
+Extracted 38 units in Toronto
+Total units: 389
+Processing listing: https://www.padmapper.com/buildings/p876828/fourfifty-the-well-apartments-at-450-front-st-w-toronto-on-m5v-0v7
+Extracted 38 units in Toronto
+Total units: 427
+Processing listing: https://www.padmapper.com/buildings/p421941/york-mills-and-leslie-apartments-at-750-york-mills-rd-toronto-on-m3b-1w9
+Extracted 3 units in Toronto
+Total units: 430
+Processing listing: https://www.padmapper.com/buildings/p213527/the-roe-apartments-at-150-roehampton-ave-toronto-on-m4p-0a2
+Extracted 5 units in Toronto
+Total units: 435
+Processing listing: https://www.padmapper.com/buildings/p456727/lillian-park-apartments-at-44-lillian-st-toronto-on-m4s-0b7
+Extracted 50 units in Toronto
+Total units: 485
+Processing listing: https://www.padmapper.com/buildings/p675015/apartments-at-2-clarendon-ave-toronto-on-m4v-1h9
+Extracted 4 units in Toronto
+Total units: 489
+Processing listing: https://www.padmapper.com/buildings/p1113252/toronto-house-apartments-at-225-adelaide-st-w-toronto-on-m5h-0a7
+Extracted 3 units in Toronto
+Total units: 492
+Processing listing: https://www.padmapper.com/buildings/p977714/immix-apartments-at-7-grosvenor-st-toronto-on-m4y-0e2
+Extracted 31 units in Toronto
+Total units: 523
+Processing listing: https://www.padmapper.com/buildings/p931189/balliol-park-apartments-at-118-balliol-st-toronto-on-m4s-0a9
+Extracted 22 units in Toronto
+Total units: 545
+Processing listing: https://www.padmapper.com/buildings/p562197/novus-apartments-at-25-ordnance-st-toronto-on-m6k-0e9
+Extracted 31 units in Toronto
+Total units: 576
+Processing listing: https://www.padmapper.com/buildings/p784660/apartments-at-44-charles-st-w-toronto-on-m4y-1r8
+Extracted 8 units in Toronto
+Total units: 584
+Processing listing: https://www.padmapper.com/buildings/p847933/lnx-apartments-at-2376-dundas-st-w-toronto-on-m6p-0c1
+Extracted 61 units in Toronto
+Total units: 645
+Processing listing: https://www.padmapper.com/buildings/p402095/the-torontonian-apartments-at-45-dunfield-ave-toronto-on-m4s-2h4
+Extracted 26 units in Toronto
+Total units: 671
+Processing listing: https://www.padmapper.com/buildings/p217257/apartments-at-225-davisville-ave-toronto-on-m4s-1g9
+Extracted 6 units in Toronto
+Total units: 677
 Processing listing: https://www.padmapper.com/buildings/p512179/apartments-at-40-pleasant-blvd-toronto-on-m4t-1j9
 Extracted 3 units in Toronto
-Total units: 508
+Total units: 680
 Processing listing: https://www.padmapper.com/buildings/p213524/high-park-village-apartments-at-111-pacific-ave-toronto-on-m6p-2p2
 Extracted 5 units in Toronto
-Total units: 513
+Total units: 685
 Processing listing: https://www.padmapper.com/buildings/p601904/parker-apartments-at-200-redpath-ave-toronto-on-m4p-0e6
 Extracted 74 units in Toronto
-Total units: 587
-Processing listing: https://www.padmapper.com/buildings/p217317/apartments-at-2525-bathurst-st-toronto-on-m6b-2y9
-Extracted 3 units in Toronto
-Total units: 590
+Total units: 759
+ERROR: Function timed out on url https://www.padmapper.com/buildings/p217760/apartments-at-33-isabella-st-toronto-on-m4y-2p7, retrying...
 Processing listing: https://www.padmapper.com/buildings/p217760/apartments-at-33-isabella-st-toronto-on-m4y-2p7
 Extracted 3 units in Toronto
-Total units: 593
+Total units: 762
 Processing listing: https://www.padmapper.com/buildings/p217750/apartments-at-11-walmer-rd-toronto-on-m5r-2w9
 Extracted 2 units in Toronto
-Total units: 595
+Total units: 764
 Processing listing: https://www.padmapper.com/buildings/p741015/tippett-park-apartments-at-18-tretti-way-toronto-on-m3h-0e4
 Extracted 5 units in Toronto
-Total units: 600
+Total units: 769
 Processing listing: https://www.padmapper.com/buildings/p1113084/mirvish-village-apartments-at-748-bathurst-st-toronto-on-m5s-2r6
 Extracted 4 units in Toronto
-Total units: 604
+Total units: 773
 Processing listing: https://www.padmapper.com/buildings/p217771/apartments-at-666-spadina-ave-toronto-on-m5s-2h8
 Extracted 3 units in Toronto
-Total units: 607
+Total units: 776
 Processing listing: https://www.padmapper.com/buildings/p1058118/elm-ledbury-apartments-at-25-dalhousie-st-toronto-on-m5b-0e2
 Extracted 319 units in Toronto
-Total units: 926
+Total units: 1095
 Processing listing: https://www.padmapper.com/buildings/p409223/the-quay-apartments-at-390-apartment-building-toronto-on-m5v-3a6
 Extracted 4 units in Toronto
-Total units: 930
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p674925/the-stack-apartments-at-730-hillsdale-ave-e-toronto-on-m4s-0c9, retrying...
+Total units: 1099
 Processing listing: https://www.padmapper.com/buildings/p674925/the-stack-apartments-at-730-hillsdale-ave-e-toronto-on-m4s-0c9
 Extracted 8 units in Toronto
-Total units: 938
-Processing listing: https://www.padmapper.com/buildings/p322377/apartments-at-2050-keele-st-toronto-on-m6m-3y7
-Extracted 3 units in Toronto
-Total units: 941
-Processing listing: https://www.padmapper.com/buildings/p1051722/towns-on-danforth-apartments-at-41-35-41-danforth-road-toronto-on-m1l-0j6
-Extracted 86 units in Toronto
-Total units: 1027
-Processing listing: https://www.padmapper.com/buildings/p370592/apartments-at-70-spadina-rd-toronto-on-m5r-2t6
-Extracted 23 units in Toronto
-Total units: 1050
-Processing listing: https://www.padmapper.com/buildings/p456839/apartments-at-66-spadina-rd-toronto-on-m5r-2t4
-Extracted 12 units in Toronto
-Total units: 1062
-Processing listing: https://www.padmapper.com/buildings/1665913/320-342-avenue-road-apartments-at-320-326-330-340-342-avenue-road-toronto-on-m4v-2h3
-Extracted 13 units in Toronto
-Total units: 1075
-Processing listing: https://www.padmapper.com/buildings/p213629/apartments-at-525-richmond-st-w-toronto-on-m5v-1y5
-Extracted 3 units in Toronto
-Total units: 1078
-Processing listing: https://www.padmapper.com/buildings/p540366/apartments-at-1265-birchmount-rd-toronto-on-m1p-0e9
-Extracted 4 units in Toronto
-Total units: 1082
-Processing listing: https://www.padmapper.com/buildings/p215304/205-207-morningside-apartments-at-207-apartment-bldg-toronto-on-m1e-3e3
-Extracted 12 units in Toronto
-Total units: 1094
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p365662/apartments-at-2-regal-rd-toronto-on-m6h-2j4, retrying...
-Processing listing: https://www.padmapper.com/buildings/p365662/apartments-at-2-regal-rd-toronto-on-m6h-2j4
-Extracted 6 units in Toronto
-Total units: 1100
-Processing listing: https://www.padmapper.com/buildings/p494783/promenade-gardens-apartments-at-301-dixon-rd-toronto-on-m9r-1s2
-Extracted 10 units in Toronto
-Total units: 1110
-Processing listing: https://www.padmapper.com/buildings/p224806/apartments-at-2040-eglinton-ave-w-toronto-on-m6e-2k5
-Extracted 4 units in Toronto
-Total units: 1114
-Processing listing: https://www.padmapper.com/buildings/p432146/apartments-at-125-bamburgh-cir-toronto-on-m1w-3g4
-Extracted 11 units in Toronto
-Total units: 1125
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p420404/apartments-at-5600-sheppard-ave-e-toronto-on-m1b-2l4, retrying...
-Processing listing: https://www.padmapper.com/buildings/p420404/apartments-at-5600-sheppard-ave-e-toronto-on-m1b-2l4
-Extracted 2 units in Toronto
-Total units: 1127
-Processing listing: https://www.padmapper.com/buildings/p217071/apartments-at-35-walmer-rd-toronto-on-m5r-2x3
-Extracted 13 units in Toronto
-Total units: 1140
-Processing listing: https://www.padmapper.com/buildings/p430873/apartments-at-3311-bathurst-st-toronto-on-m6a-2b5
-Extracted 6 units in Toronto
-Total units: 1146
-Processing listing: https://www.padmapper.com/buildings/p337174/trilogy-on-king-apartments-at-1100-king-st-w-toronto-on-m6k-0c6
-Extracted 20 units in Toronto
-Total units: 1166
-Processing listing: https://www.padmapper.com/buildings/p557025/litho-apartments-at-740-dupont-st-toronto-on-m6g-0a9
-Extracted 11 units in Toronto
-Total units: 1177
-Processing listing: https://www.padmapper.com/buildings/p329668/the-montgomery-apartments-at-25-montgomery-ave-toronto-on-m4r-0a1
-Extracted 9 units in Toronto
-Total units: 1186
-Processing listing: https://www.padmapper.com/buildings/p217939/apartments-at-120-raglan-ave-toronto-on-m6c-2l4
-Extracted 15 units in Toronto
-Total units: 1201
-Processing listing: https://www.padmapper.com/buildings/p368551/the-britt-apartments-at-31-phipps-st-toronto-on-m4y-0e5
-Extracted 6 units in Toronto
-Total units: 1207
-Processing listing: https://www.padmapper.com/buildings/p1002330/the-fairbank-apartments-at-9-croham-rd-toronto-on-m6e-0b3
-Extracted 57 units in Toronto
-Total units: 1264
-Processing listing: https://www.padmapper.com/buildings/p465439/apartments-at-20-monte-kwinter-crt-toronto-on-m3h-0e1
-Extracted 8 units in Toronto
-Total units: 1272
-Processing listing: https://www.padmapper.com/buildings/p482981/the-brixton-apartments-at-410-dufferin-st-toronto-on-m6k-0h1
-Extracted 16 units in Toronto
-Total units: 1288
-Processing listing: https://www.padmapper.com/buildings/p635109/liberty-house-apartments-at-15-solidarity-way-toronto-on-m6k-0g8
-Extracted 14 units in Toronto
-Total units: 1302
-Processing listing: https://www.padmapper.com/buildings/p320059/residences-on-bloor-apartments-at-235-bloor-st-e-toronto-on-m4w-3y3
-Extracted 26 units in Toronto
-Total units: 1328
-Processing listing: https://www.padmapper.com/buildings/p213235/bretton-place-apartments-at-44-jackes-ave-toronto-on-m4t-1e5
-Extracted 23 units in Toronto
-Total units: 1351
-Processing listing: https://www.padmapper.com/buildings/p529647/apartments-at-1336-kingston-rd-toronto-on-m1n-1p6
-Extracted 3 units in Toronto
-Total units: 1354
-Processing listing: https://www.padmapper.com/buildings/p213635/the-galleria-apartments-at-77-finch-ave-e-toronto-on-m2n-6h8
-Extracted 5 units in Toronto
-Total units: 1359
-Processing listing: https://www.padmapper.com/buildings/p438719/apartments-at-18-brownlow-ave-toronto-on-m4s-2k8
-Extracted 5 units in Toronto
-Total units: 1364
-Processing listing: https://www.padmapper.com/buildings/p213460/redpath-tower-apartments-at-95-redpath-ave-toronto-on-m4s-2k1
-Extracted 4 units in Toronto
-Total units: 1368
-Processing listing: https://www.padmapper.com/buildings/p512188/apartments-at-701-eglinton-ave-w-toronto-on-m5n-1c6
-Extracted 5 units in Toronto
-Total units: 1373
-Processing listing: https://www.padmapper.com/buildings/p213513/apartments-at-77-davisville-ave-toronto-on-m4s-1g4
-Extracted 8 units in Toronto
-Total units: 1381
-Processing listing: https://www.padmapper.com/buildings/p213112/upper-canada-court-east-apartments-at-160-erskine-ave-toronto-on-m4p-1z3
-Extracted 3 units in Toronto
-Total units: 1384
-Processing listing: https://www.padmapper.com/buildings/p288748/apartments-at-75-eastdale-ave-toronto-on-m4c-5n3
-Extracted 9 units in Toronto
-Total units: 1393
-Processing listing: https://www.padmapper.com/buildings/p465433/apartments-at-464-spadina-rd-toronto-on-m5p-2w4
-Extracted 3 units in Toronto
-Total units: 1396
-Processing listing: https://www.padmapper.com/buildings/p1086418/apartments-at-98-east-mall-cres-toronto-on-m9b-none
-Extracted 3 units in Toronto
-Total units: 1399
-Processing listing: https://www.padmapper.com/buildings/p267277/apartments-at-608-church-st-toronto-on-m4y-2e7
-Extracted 5 units in Toronto
-Total units: 1404
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p242602/via123-apartments-at-123-parkway-forest-dr-toronto-on-m2j-0g1, retrying...
-Processing listing: https://www.padmapper.com/buildings/p242602/via123-apartments-at-123-parkway-forest-dr-toronto-on-m2j-0g1
-Extracted 7 units in Toronto
-Total units: 1411
-Processing listing: https://www.padmapper.com/buildings/p441172/apartments-at-3101-eglinton-ave-e-toronto-on-m1j-2g3
-Extracted 2 units in Toronto
-Total units: 1413
-Processing listing: https://www.padmapper.com/buildings/p474277/apartments-at-245-howland-ave-toronto-on-m5r-3b7
-Extracted 2 units in Toronto
-Total units: 1415
-Processing listing: https://www.padmapper.com/buildings/p511304/apartments-at-10-garfella-dr-toronto-on-m9v-2e9
-Extracted 2 units in Toronto
-Total units: 1417
-Processing listing: https://www.padmapper.com/buildings/p449917/pharmacy-place-apartments-at-263-273-283-pharmacy-ave-toronto-on-m1l-none
-Extracted 3 units in Toronto
-Total units: 1420
-Processing listing: https://www.padmapper.com/buildings/p215133/oben-flats-leslieville-apartments-at-1075-queen-st-e-toronto-on-m4m-0c1
-Extracted 2 units in Toronto
-Total units: 1422
-Processing listing: https://www.padmapper.com/buildings/p217935/lake-promenade-community-apartments-at-21-park-blvd-toronto-on-m8w-1g4
-Extracted 3 units in Toronto
-Total units: 1425
-Processing listing: https://www.padmapper.com/buildings/p393573/kingsway-village-square-on-prince-edward-apartments-at-571-prince-edward-dr-n-toronto-on-m8x-0a1
-Extracted 5 units in Toronto
-Total units: 1430
-Processing listing: https://www.padmapper.com/buildings/p292165/velocity-at-the-square-apartments-at-252-victoria-st-toronto-on-m5b-1v8
-Extracted 7 units in Toronto
-Total units: 1437
-Processing listing: https://www.padmapper.com/buildings/p218506/apartments-at-1862-bathurst-st-toronto-on-m5p-3k8
-Extracted 8 units in Toronto
-Total units: 1445
-Processing listing: https://www.padmapper.com/buildings/p444145/the-fleetwood-apartments-at-64-st-clair-ave-w-toronto-on-m4v-1n1
-Extracted 2 units in Toronto
-Total units: 1447
-Processing listing: https://www.padmapper.com/buildings/p437962/elm-place-apartments-at-222-apartment-building-toronto-on-m5t-1k5
-Extracted 2 units in Toronto
-Total units: 1449
-Processing listing: https://www.padmapper.com/buildings/p377832/apartments-at-730-saint-clarens-ave-toronto-on-m6h-4e8
-Extracted 5 units in Toronto
-Total units: 1454
-Processing listing: https://www.padmapper.com/buildings/p213634/college-park-apartments-at-424-yonge-st-toronto-on-m5b-2h3
-Extracted 2 units in Toronto
-Total units: 1456
-Processing listing: https://www.padmapper.com/buildings/p453226/e18hteen-apartments-at-18-erskine-ave-toronto-on-m4p-0c9
-Extracted 7 units in Toronto
-Total units: 1463
-Processing listing: https://www.padmapper.com/buildings/p424830/apartments-at-280-wellesley-st-e-toronto-on-m4x-1g7
-Extracted 4 units in Toronto
-Total units: 1467
-Processing listing: https://www.padmapper.com/buildings/p219583/apartments-at-130-raglan-ave-toronto-on-m6c-0a7
-Extracted 2 units in Toronto
-Total units: 1469
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p219517/harrison-apartments-at-105-harrison-garden-blvd-toronto-on-m2n-0c3, retrying...
-Processing listing: https://www.padmapper.com/buildings/p219517/harrison-apartments-at-105-harrison-garden-blvd-toronto-on-m2n-0c3
-Extracted 2 units in Toronto
-Total units: 1471
-Processing listing: https://www.padmapper.com/buildings/p223608/apartments-at-1440-lawrence-ave-w-toronto-on-m6l-1b4
-Extracted 2 units in Toronto
-Total units: 1473
-Processing listing: https://www.padmapper.com/buildings/p555611/apartments-at-699-eglinton-ave-w-toronto-on-m5n-1c6
-Extracted 4 units in Toronto
-Total units: 1477
-Processing listing: https://www.padmapper.com/buildings/p454652/palomar-at-village-gate-west-apartments-at-3-summerland-terr-toronto-on-m9a-0b4
-Extracted 3 units in Toronto
-Total units: 1480
-Processing listing: https://www.padmapper.com/buildings/p314062/motion-apartments-at-570-bay-st-toronto-on-m5g-0b2
-Extracted 5 units in Toronto
-Total units: 1485
-Processing listing: https://www.padmapper.com/buildings/p456885/rosebury-square-apartments-at-145-marlee-ave-toronto-on-m6b-3h3
-Extracted 3 units in Toronto
-Total units: 1488
-Processing listing: https://www.padmapper.com/buildings/p522273/apartments-at-915-st-clair-ave-w-toronto-on-m6c-1c7
-Extracted 2 units in Toronto
-Total units: 1490
-Processing listing: https://www.padmapper.com/buildings/p217363/apartments-at-166-eastbourne-ave-toronto-on-m5p-2g6
-Extracted 2 units in Toronto
-Total units: 1492
-Processing listing: https://www.padmapper.com/buildings/p1091599/251-283-the-west-mall-apartments-at-283-251-283-the-west-mall-toronto-on-m9c-none
-Error encountered on page https://www.padmapper.com/buildings/p1091599/251-283-the-west-mall-apartments-at-283-251-283-the-west-mall-toronto-on-m9c-none: 'NoneType' object has no attribute 'find_next_sibling'
-Error occurred on url: https://www.padmapper.com/buildings/p1091599/251-283-the-west-mall-apartments-at-283-251-283-the-west-mall-toronto-on-m9c-none
-Processing listing: https://www.padmapper.com/buildings/p511638/apartments-at-34-noble-st-toronto-on-m6k-2c9
-Extracted 2 units in Toronto
-Total units: 1494
-Processing listing: https://www.padmapper.com/buildings/p511635/apartments-at-448-spadina-rd-toronto-on-m5p-2w4
-Extracted 3 units in Toronto
-Total units: 1497
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p591951/serrano-at-village-gate-west-apartments-at-5191-dundas-st-w-toronto-on-m9a-0b2, retrying...
-Processing listing: https://www.padmapper.com/buildings/p591951/serrano-at-village-gate-west-apartments-at-5191-dundas-st-w-toronto-on-m9a-0b2
-Extracted 4 units in Toronto
-Total units: 1501
-Processing listing: https://www.padmapper.com/buildings/p313846/jazz-apartments-at-167-church-st-toronto-on-m5b-1y6
-Extracted 6 units in Toronto
-Total units: 1507
-Processing listing: https://www.padmapper.com/buildings/p454651/sierra-at-village-gate-west-apartments-at-7-summerland-terr-toronto-on-m9a-0b6
-Extracted 3 units in Toronto
-Total units: 1510
-Processing listing: https://www.padmapper.com/buildings/p1091523/bela-square-apartments-at-94-eastdale-ave-toronto-on-m4c-5a1
-Extracted 10 units in Toronto
-Total units: 1520
-Processing listing: https://www.padmapper.com/buildings/p479373/the-crossways-complex-apartments-at-2360-crossways-b-apartment-bldg-toronto-on-m6p-4b2
-Extracted 5 units in Toronto
-Total units: 1525
-Processing listing: https://www.padmapper.com/buildings/p454649/prelude-apartments-at-151-beecroft-rd-toronto-on-m2n-7c4
-Extracted 4 units in Toronto
-Total units: 1529
-Processing listing: https://www.padmapper.com/buildings/p454648/one-32-apartments-at-132-berkeley-st-toronto-on-m5a-0h6
-Extracted 4 units in Toronto
-Total units: 1533
-Processing listing: https://www.padmapper.com/buildings/p359779/ecentral-apartments-at-15-roehampton-ave-toronto-on-m4p-0c2
-Extracted 2 units in Toronto
-Total units: 1535
-Processing listing: https://www.padmapper.com/buildings/p217287/apartments-at-161-st-george-st-toronto-on-m5r-2m3
-Extracted 3 units in Toronto
-Total units: 1538
-Processing listing: https://www.padmapper.com/buildings/p420405/apartments-at-570-birchmount-rd-toronto-on-m1k-1p7
-Extracted 3 units in Toronto
-Total units: 1541
-Processing listing: https://www.padmapper.com/buildings/p213526/richgrove-village-apartments-at-21-richgrove-place-toronto-on-m9r-2l2
-Extracted 3 units in Toronto
-Total units: 1544
-Processing listing: https://www.padmapper.com/buildings/p214024/upper-canada-drive-apartments-at-199-upper-canada-dr-toronto-on-m2p-1t3
-Extracted 3 units in Toronto
-Total units: 1547
-Processing listing: https://www.padmapper.com/buildings/p213528/minto-yorkville-apartments-at-61-yorkville-ave-toronto-on-m5r-1b7
-Extracted 3 units in Toronto
-Total units: 1550
-Processing listing: https://www.padmapper.com/buildings/p288766/davisville-village-apartments-at-33-davisville-ave-toronto-on-m4s-2y9
-Extracted 2 units in Toronto
-Total units: 1552
-Processing listing: https://www.padmapper.com/buildings/p288785/davisville-village-apartments-at-141-davisville-ave-toronto-on-m4s-1g7
-Extracted 3 units in Toronto
-Total units: 1555
-Processing listing: https://www.padmapper.com/buildings/p288767/davisville-village-apartments-at-111-davisville-ave-toronto-on-m4s-1g5
-Extracted 3 units in Toronto
-Total units: 1558
-Processing listing: https://www.padmapper.com/buildings/p288648/wellesley-apartments-at-100-wellesley-st-e-toronto-on-m4y-1h5
-Extracted 4 units in Toronto
-Total units: 1562
-Processing listing: https://www.padmapper.com/buildings/p288776/shallmar-apartments-at-20-shallmar-blvd-toronto-on-m5n-1j5
-Extracted 3 units in Toronto
-Total units: 1565
-Processing listing: https://www.padmapper.com/buildings/p446285/lawrence-apartments-at-1004-lawrence-ave-e-toronto-on-m3c-1r5
-Extracted 2 units in Toronto
-Total units: 1567
-Processing listing: https://www.padmapper.com/buildings/p446290/belmar-apartments-at-2265-victoria-park-ave-toronto-on-m1r-1w3
-Extracted 2 units in Toronto
-Total units: 1569
-Processing listing: https://www.padmapper.com/buildings/p288747/west-park-village-apartments-at-10-blackfriar-ave-toronto-on-m9r-3s4
-Extracted 2 units in Toronto
-Total units: 1571
-Processing listing: https://www.padmapper.com/buildings/p288771/dixon-apartments-at-236-dixon-rd-toronto-on-m9p-2m3
-Extracted 2 units in Toronto
-Total units: 1573
-Processing listing: https://www.padmapper.com/buildings/p224815/apartments-at-150-fermanagh-ave-toronto-on-m6r-1m3
-Extracted 3 units in Toronto
-Total units: 1576
-Processing listing: https://www.padmapper.com/buildings/p288640/panorama-apartments-at-18-panorama-crt-toronto-on-m9v-3z8
-Extracted 3 units in Toronto
-Total units: 1579
-Processing listing: https://www.padmapper.com/buildings/p426826/apartments-at-5-cheviot-pl-toronto-on-m9a-2e3
-Extracted 2 units in Toronto
-Total units: 1581
-Processing listing: https://www.padmapper.com/buildings/p445244/the-lakeside-apartments-at-91-jameson-ave-toronto-on-m6k-2w9
-Extracted 2 units in Toronto
-Total units: 1583
-Processing listing: https://www.padmapper.com/buildings/p420473/blue-forest-apartments-at-40-tyndall-ave-toronto-on-m6k-2e4
-Extracted 2 units in Toronto
-Total units: 1585
-Processing listing: https://www.padmapper.com/buildings/p420458/maynard-apartments-at-32-maynard-ave-toronto-on-m6k-2z9
-Extracted 2 units in Toronto
-Total units: 1587
-Processing listing: https://www.padmapper.com/buildings/p422886/apartments-at-60-tyndall-ave-toronto-on-m6k-2e5
-Extracted 3 units in Toronto
-Total units: 1590
-Processing listing: https://www.padmapper.com/buildings/p252733/apartments-at-3636-bathurst-st-toronto-on-m6a-2y5
-Extracted 2 units in Toronto
-Total units: 1592
-Processing listing: https://www.padmapper.com/buildings/p252729/apartments-at-6040-bathurst-st-toronto-on-m2r-2a1
-Extracted 3 units in Toronto
-Total units: 1595
-Processing listing: https://www.padmapper.com/buildings/p513849/7-9-11-crescent-pl-apartments-at-9-crescent-pl-toronto-on-m4c-5l8
-Extracted 5 units in Toronto
-Total units: 1600
-Processing listing: https://www.padmapper.com/buildings/p513847/14-16-20-carluke-cres-apartments-at-20-fifshire-towers-west-toronto-on-m2l-2j1
-Extracted 3 units in Toronto
-Total units: 1603
-Processing listing: https://www.padmapper.com/buildings/p288649/markham-road-apartments-1050-at-1050-markham-rd-toronto-on-m1h-2y7
-Extracted 2 units in Toronto
-Total units: 1605
-Processing listing: https://www.padmapper.com/buildings/p219445/apartments-at-4190-bathurst-st-toronto-on-m3h-3p9
-Extracted 3 units in Toronto
-Total units: 1608
-Processing listing: https://www.padmapper.com/buildings/p217316/apartments-at-276-st-george-st-toronto-on-m5r-2p6
-Extracted 2 units in Toronto
-Total units: 1610
-Processing listing: https://www.padmapper.com/buildings/p220518/apartments-at-169-st-george-st-toronto-on-m5r-2m2
-Extracted 3 units in Toronto
-Total units: 1613
-Processing listing: https://www.padmapper.com/buildings/p288769/yonge-eglinton-apartments-duplex-at-411-duplex-ave-toronto-on-m4r-1v2
-Extracted 2 units in Toronto
-Total units: 1615
-Processing listing: https://www.padmapper.com/buildings/p288770/yonge-eglinton-apartments-orchard-view-at-33-orchard-view-blvd-toronto-on-m4r-2e9
-Extracted 3 units in Toronto
-Total units: 1618
-Processing listing: https://www.padmapper.com/buildings/1558779/roanoke-apartments-at-7-toronto-on-m8v-none
-Extracted 2 units in Toronto
-Total units: 1620
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p288791/mimico-estates-apartments-at-2527-lake-shore-blvd-w-toronto-on-m8v-1e5, retrying...
-Processing listing: https://www.padmapper.com/buildings/p288791/mimico-estates-apartments-at-2527-lake-shore-blvd-w-toronto-on-m8v-1e5
-Extracted 3 units in Toronto
-Total units: 1623
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p288788/bentley-apartments-at-15-tangreen-crt-toronto-on-m2m-3z2, retrying...
-Processing listing: https://www.padmapper.com/buildings/p288788/bentley-apartments-at-15-tangreen-crt-toronto-on-m2m-3z2
-Extracted 3 units in Toronto
-Total units: 1626
-Processing listing: https://www.padmapper.com/buildings/p446289/chatsworth-apartments-at-2928-yonge-st-toronto-on-m4n-2k1
-Extracted 3 units in Toronto
-Total units: 1629
-Processing listing: https://www.padmapper.com/buildings/p450332/livonia-apartments-at-30-livonia-pl-toronto-on-m1e-4w7
-Extracted 2 units in Toronto
-Total units: 1631
-Processing listing: https://www.padmapper.com/buildings/p224803/apartments-at-99-tyndall-ave-toronto-on-m6k-2g2
-Extracted 3 units in Toronto
-Total units: 1634
-Processing listing: https://www.padmapper.com/buildings/p224808/apartments-at-95-jameson-ave-toronto-on-m6k-2x1
-Extracted 2 units in Toronto
-Total units: 1636
-Processing listing: https://www.padmapper.com/buildings/p579184/apartments-at-831-kennedy-rd-toronto-on-m1k-2e3
-Extracted 4 units in Toronto
-Total units: 1640
-Processing listing: https://www.padmapper.com/buildings/p498645/pivot-apartments-at-35-greenfield-ave-toronto-on-m2n-0l1
-Extracted 9 units in Toronto
-Total units: 1649
-Processing listing: https://www.padmapper.com/buildings/p344553/west22-apartments-at-22-john-st-toronto-on-m9n-0b1
-Extracted 12 units in Toronto
-Total units: 1661
-Processing listing: https://www.padmapper.com/buildings/p527737/waverley-apartments-at-484-spadina-ave-toronto-on-m5s-0e4
-Extracted 8 units in Toronto
-Total units: 1669
-Processing listing: https://www.padmapper.com/buildings/p217772/apartments-at-485-huron-st-toronto-on-m5r-2r5
-Extracted 3 units in Toronto
-Total units: 1672
-Processing listing: https://www.padmapper.com/buildings/p288642/islington-apartments-at-148-islington-ave-toronto-on-m8v-3b6
-Extracted 3 units in Toronto
-Total units: 1675
-Processing listing: https://www.padmapper.com/buildings/p217993/apartments-at-1291-bayview-ave-toronto-on-m4g-2z9
-Extracted 3 units in Toronto
-Total units: 1678
-Processing listing: https://www.padmapper.com/buildings/p213099/balfour-square-apartments-at-50-rosehill-ave-toronto-on-m4t-1g6
-Extracted 3 units in Toronto
-Total units: 1681
-Processing listing: https://www.padmapper.com/buildings/p1087877/apartments-at-33-gamble-ave-toronto-on-m4k-2h4
-Extracted 2 units in Toronto
-Total units: 1683
-Processing listing: https://www.padmapper.com/buildings/p288645/huntley-apartments-at-77-huntley-st-toronto-on-m4y-2p3
-Extracted 3 units in Toronto
-Total units: 1686
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p840961/ravine-park-apartments-at-2303-eglinton-ave-e-toronto-on-m1k-2n6, retrying...
-Processing listing: https://www.padmapper.com/buildings/p840961/ravine-park-apartments-at-2303-eglinton-ave-e-toronto-on-m1k-2n6
-Extracted 3 units in Toronto
-Total units: 1689
-Processing listing: https://www.padmapper.com/buildings/p224812/apartments-at-1420-kingston-rd-toronto-on-m1n-1r3
-Extracted 2 units in Toronto
-Total units: 1691
-Processing listing: https://www.padmapper.com/buildings/p400686/apartments-at-150-the-donway-w-toronto-on-m3c-2g2
-Extracted 4 units in Toronto
-Total units: 1695
-Processing listing: https://www.padmapper.com/buildings/p370957/tichester-park-manors-apartments-at-1531-bathurst-st-toronto-on-m5p-3h5
-Extracted 3 units in Toronto
-Total units: 1698
-Processing listing: https://www.padmapper.com/buildings/p226871/west-lodge-apartments-at-103-west-lodge-ave-toronto-on-m6k-2t7
-Extracted 4 units in Toronto
-Total units: 1702
-Processing listing: https://www.padmapper.com/buildings/p418267/apartments-at-157-jameson-ave-toronto-on-m6k-2y4
-Extracted 3 units in Toronto
-Total units: 1705
-Processing listing: https://www.padmapper.com/buildings/p213115/elm-grove-apartments-at-80-forest-manor-rd-toronto-on-m2j-1m6
-Extracted 2 units in Toronto
-Total units: 1707
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p213125/poplar-grove-apartments-at-125-parkway-forest-dr-toronto-on-m2j-1l9, retrying...
-Processing listing: https://www.padmapper.com/buildings/p213125/poplar-grove-apartments-at-125-parkway-forest-dr-toronto-on-m2j-1l9
-Extracted 2 units in Toronto
-Total units: 1709
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p317658/widdicombe-place-apartments-at-53-widdicombe-hill-blvd-toronto-on-m9r-1y3, retrying...
-Processing listing: https://www.padmapper.com/buildings/p317658/widdicombe-place-apartments-at-53-widdicombe-hill-blvd-toronto-on-m9r-1y3
-Extracted 2 units in Toronto
-Total units: 1711
-Processing listing: https://www.padmapper.com/buildings/p915246/apartments-at-1959-gerrard-st-e-toronto-on-m4e-2a9
-Extracted 3 units in Toronto
-Total units: 1714
-Processing listing: https://www.padmapper.com/buildings/p497059/rosslyn-residences-apartments-at-5950-bathurst-st-toronto-on-m2r-1y9
-Extracted 2 units in Toronto
-Total units: 1716
-Processing listing: https://www.padmapper.com/buildings/p496815/heath-residences-apartments-at-325-bogert-ave-toronto-on-m2n-1l8
-Extracted 2 units in Toronto
-Total units: 1718
-Processing listing: https://www.padmapper.com/buildings/p466930/apartments-at-245-logan-ave-toronto-on-m4m-2n2
-Extracted 3 units in Toronto
-Total units: 1721
-Processing listing: https://www.padmapper.com/buildings/p527778/apartments-at-345-merton-st-toronto-on-m4s-1b5
-Extracted 2 units in Toronto
-Total units: 1723
-Processing listing: https://www.padmapper.com/buildings/p456904/34-42-maitland-street-apartments-at-42-34-42-maitland-street-toronto-on-m4y-1c5
-Extracted 2 units in Toronto
-Total units: 1725
-Processing listing: https://www.padmapper.com/buildings/p213512/apartments-at-50-alexander-st-toronto-on-m4y-1b6
-Extracted 4 units in Toronto
-Total units: 1729
-Processing listing: https://www.padmapper.com/buildings/p217259/apartments-at-55-maitland-st-toronto-on-m4y-1c9
-Extracted 5 units in Toronto
-Total units: 1734
-Processing listing: https://www.padmapper.com/buildings/p213637/vivere-apartments-at-65-lillian-st-toronto-on-m4s-0a1
-Extracted 2 units in Toronto
-Total units: 1736
-Processing listing: https://www.padmapper.com/buildings/p324626/the-livmore-apartments-at-55-gerrard-st-w-toronto-on-m5g-0b9
-Extracted 4 units in Toronto
-Total units: 1740
-Processing listing: https://www.padmapper.com/buildings/p821292/apartments-at-111-cosburn-ave-toronto-on-m4j-2l1
-Extracted 2 units in Toronto
-Total units: 1742
-Processing listing: https://www.padmapper.com/buildings/p213516/apartments-at-391-sherbourne-st-toronto-on-m4x-1k4
-Extracted 7 units in Toronto
-Total units: 1749
-Processing listing: https://www.padmapper.com/buildings/p215778/apartments-at-107-redpath-ave-toronto-on-m4s-2j9
-Extracted 3 units in Toronto
-Total units: 1752
-Processing listing: https://www.padmapper.com/buildings/p251301/the-residence-at-weston-apartments-at-33-king-st-toronto-on-m9n-3r7
-Extracted 3 units in Toronto
-Total units: 1755
-Processing listing: https://www.padmapper.com/buildings/p1039619/apartments-at-287-markland-dr-toronto-on-m9c-1r6
-Error encountered on page https://www.padmapper.com/buildings/p1039619/apartments-at-287-markland-dr-toronto-on-m9c-1r6: 'NoneType' object has no attribute 'find_next_sibling'
-Error occurred on url: https://www.padmapper.com/buildings/p1039619/apartments-at-287-markland-dr-toronto-on-m9c-1r6
-Processing listing: https://www.padmapper.com/buildings/p420403/apartments-at-3967-lawrence-ave-e-toronto-on-m1g-1s2
-Extracted 3 units in Toronto
-Total units: 1758
-Processing listing: https://www.padmapper.com/buildings/1558767/park-vista-apartments-at-2-toronto-on-m8v-none
-Extracted 3 units in Toronto
-Total units: 1761
-Processing listing: https://www.padmapper.com/buildings/p219384/apartments-at-9-kingsbridge-crt-toronto-on-m2r-1l6
-Extracted 2 units in Toronto
-Total units: 1763
-Processing listing: https://www.padmapper.com/buildings/p219418/graydon-hall-apartments-at-20-graydon-hall-dr-toronto-on-m3a-2z9
-Extracted 4 units in Toronto
-Total units: 1767
-Processing listing: https://www.padmapper.com/buildings/p214743/parkway-forest-towers-apartments-at-100-parkway-forest-dr-toronto-on-m2j-1l6
-Extracted 3 units in Toronto
-Total units: 1770
-Processing listing: https://www.padmapper.com/buildings/p325412/apartments-at-746-midland-ave-toronto-on-m1k-4e2
-Extracted 3 units in Toronto
-Total units: 1773
-Processing listing: https://www.padmapper.com/buildings/p417530/apartments-at-85-wellesley-st-e-toronto-on-m4y-1h8
-Extracted 2 units in Toronto
-Total units: 1775
-Processing listing: https://www.padmapper.com/buildings/p288789/lafayette-apartments-at-2020-sheppard-ave-w-toronto-on-m3n-1a3
-Extracted 2 units in Toronto
-Total units: 1777
-Processing listing: https://www.padmapper.com/buildings/p446286/bay-mills-apartments-at-25-bay-mills-blvd-toronto-on-m1t-3p4
-Extracted 2 units in Toronto
-Total units: 1779
-Processing listing: https://www.padmapper.com/buildings/p500289/buckingham-house-apartments-at-601-finch-ave-w-toronto-on-m2r-1n9
-Extracted 2 units in Toronto
-Total units: 1781
-Processing listing: https://www.padmapper.com/buildings/p420406/apartments-at-1636-gerrard-st-e-toronto-on-m4l-2a6
-Extracted 6 units in Toronto
-Total units: 1787
-Processing listing: https://www.padmapper.com/buildings/p302063/apartments-at-57-charles-st-w-toronto-on-m5s-2x1
-Extracted 7 units in Toronto
-Total units: 1794
-Processing listing: https://www.padmapper.com/buildings/p219553/apartments-at-95-lawton-blvd-toronto-on-m4v-1z8
-Extracted 2 units in Toronto
-Total units: 1796
-Processing listing: https://www.padmapper.com/buildings/p371226/apartments-at-111-lawton-blvd-toronto-on-m4v-1z9
-Extracted 5 units in Toronto
-Total units: 1801
-Processing listing: https://www.padmapper.com/buildings/p224809/apartments-at-265-russell-hill-rd-toronto-on-m4v-2t3
-Extracted 3 units in Toronto
-Total units: 1804
-Processing listing: https://www.padmapper.com/buildings/p456821/bayview-mews-apartments-at-2911-bayview-ave-toronto-on-m2k-1e8
-Extracted 5 units in Toronto
-Total units: 1809
-Processing listing: https://www.padmapper.com/buildings/p317661/cloisters-of-the-don-apartments-at-10-roanoke-rd-toronto-on-m3a-1e7
-Extracted 7 units in Toronto
-Total units: 1816
-Processing listing: https://www.padmapper.com/buildings/p422554/apartments-at-100-vaughan-rd-toronto-on-m6c-2m1
-Extracted 3 units in Toronto
-Total units: 1819
-Processing listing: https://www.padmapper.com/buildings/p412587/queens-end-apartments-at-3010-queen-st-e-toronto-on-m1n-1a4
-Extracted 2 units in Toronto
-Total units: 1821
-Processing listing: https://www.padmapper.com/buildings/p451400/apartments-at-33-erskine-ave-toronto-on-m4p-1y6
-Extracted 3 units in Toronto
-Total units: 1824
-Processing listing: https://www.padmapper.com/buildings/p443346/apartments-at-15-walmer-rd-toronto-on-m5r-2x1
-Extracted 4 units in Toronto
-Total units: 1828
-Processing listing: https://www.padmapper.com/buildings/p293992/cedar-grove-apartments-at-24-forest-manor-rd-toronto-on-m2j-1m3
-Extracted 2 units in Toronto
-Total units: 1830
-Processing listing: https://www.padmapper.com/buildings/p217038/beech-grove-suites-apartments-at-106-parkway-forest-dr-toronto-on-m2j-0c3
-Extracted 2 units in Toronto
-Total units: 1832
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p219244/apartments-at-440-eglinton-ave-e-toronto-on-m4p-1m2, retrying...
-Processing listing: https://www.padmapper.com/buildings/p219244/apartments-at-440-eglinton-ave-e-toronto-on-m4p-1m2
-Extracted 3 units in Toronto
-Total units: 1835
-Processing listing: https://www.padmapper.com/buildings/p553627/apartments-at-231-vaughan-rd-toronto-on-m6c-2m9
-Extracted 4 units in Toronto
-Total units: 1839
-Processing listing: https://www.padmapper.com/buildings/p217285/apartments-at-177-st-george-st-toronto-on-m5r-2m5
-Extracted 5 units in Toronto
-Total units: 1844
-Processing listing: https://www.padmapper.com/buildings/p213458/apartments-at-2600-don-mills-rd-toronto-on-m2j-3b4
-Extracted 3 units in Toronto
-Total units: 1847
-Processing listing: https://www.padmapper.com/buildings/p617073/the-livmore-high-park-apartments-at-50-high-park-ave-toronto-on-m6p-0b4
-Extracted 4 units in Toronto
-Total units: 1851
-Processing listing: https://www.padmapper.com/buildings/p252652/the-ossington-apartments-at-1145-ossington-ave-toronto-on-m6g-0a3
-Extracted 2 units in Toronto
-Total units: 1853
-Processing listing: https://www.padmapper.com/buildings/p217879/lake-promenade-community-apartments-at-31-park-blvd-toronto-on-m8w-1g5
-Extracted 2 units in Toronto
-Total units: 1855
-Processing listing: https://www.padmapper.com/buildings/p217936/lake-promenade-community-apartments-at-230-lake-promenade-toronto-on-m8w-1b1
-Extracted 3 units in Toronto
-Total units: 1858
-Processing listing: https://www.padmapper.com/buildings/p213461/lake-promenade-community-apartments-at-220-lake-promenade-toronto-on-m8w-1a9
-Extracted 3 units in Toronto
-Total units: 1861
-Processing listing: https://www.padmapper.com/buildings/p420449/tyndall-tower-apartments-at-118-tyndall-ave-toronto-on-m6k-2e7
-Extracted 2 units in Toronto
-Total units: 1863
-Processing listing: https://www.padmapper.com/buildings/p420462/spencer-apartments-at-47-spencer-ave-toronto-on-m6k-2k2
-Extracted 3 units in Toronto
-Total units: 1866
-Processing listing: https://www.padmapper.com/buildings/p288639/10-tuxedo-court-apartments-at-10-tuxedo-crt-toronto-on-m1g-3s4
-Extracted 2 units in Toronto
-Total units: 1868
-Processing listing: https://www.padmapper.com/buildings/p446281/the-thomas-apartments-at-355-st-clair-ave-w-toronto-on-m5p-1n5
-Extracted 2 units in Toronto
-Total units: 1870
-Processing listing: https://www.padmapper.com/buildings/p288650/murray-ross-apartments-at-500-murray-ross-pky-toronto-on-m3j-2z3
-Extracted 2 units in Toronto
-Total units: 1872
-Processing listing: https://www.padmapper.com/buildings/p594732/tower-hill-east-apartments-at-330-spadina-rd-toronto-on-m5r-2v9
-Extracted 2 units in Toronto
-Total units: 1874
-Processing listing: https://www.padmapper.com/buildings/p288643/scarborough-golf-apartments-at-567-scarborough-golf-club-rd-toronto-on-m1g-1h5
-Extracted 3 units in Toronto
-Total units: 1877
-Processing listing: https://www.padmapper.com/buildings/p213459/dunfield-tower-apartments-at-44-dunfield-ave-toronto-on-m4s-2h2
-Extracted 2 units in Toronto
-Total units: 1879
-Processing listing: https://www.padmapper.com/buildings/p262418/hampton-house-south-apartments-at-322-eglinton-ave-e-toronto-on-m4p-1l6
-Extracted 9 units in Toronto
-Total units: 1888
-Processing listing: https://www.padmapper.com/buildings/p262426/roehampton-apartments-at-305-roehampton-ave-toronto-on-m4p-0b2
-Extracted 8 units in Toronto
-Total units: 1896
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p464424/summit-place-apartments-at-1441-lawrence-ave-e-toronto-on-m4a-1w3, retrying...
-Processing listing: https://www.padmapper.com/buildings/p464424/summit-place-apartments-at-1441-lawrence-ave-e-toronto-on-m4a-1w3
-Extracted 2 units in Toronto
-Total units: 1898
-Processing listing: https://www.padmapper.com/buildings/p502445/gerrard-residences-apartments-at-40-gerrard-st-e-toronto-on-m5b-2e8
-Extracted 4 units in Toronto
-Total units: 1902
-Processing listing: https://www.padmapper.com/buildings/p806247/bayview-village-place-apartments-at-640-sheppard-ave-e-toronto-on-m2k-1b8
-Extracted 2 units in Toronto
-Total units: 1904
-Processing listing: https://www.padmapper.com/buildings/p418479/apartments-at-81-isabella-st-toronto-on-m4y-1n7
-Extracted 2 units in Toronto
-Total units: 1906
-Processing listing: https://www.padmapper.com/buildings/p317657/lion's-gate-apartments-at-59-waterford-dr-toronto-on-m9r-2n7
-Extracted 2 units in Toronto
-Total units: 1908
-Processing listing: https://www.padmapper.com/buildings/p219247/the-fairlea-apartments-at-2350-birchmount-rd-toronto-on-m1t-3n4
-Extracted 2 units in Toronto
-Total units: 1910
-Processing listing: https://www.padmapper.com/buildings/p417306/apartments-at-50-gloucester-st-toronto-on-m4y-1l5
-Extracted 2 units in Toronto
-Total units: 1912
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p974501/guestville-apartments-at-80-guestville-ave-toronto-on-m6n-4n3, retrying...
-Processing listing: https://www.padmapper.com/buildings/p974501/guestville-apartments-at-80-guestville-ave-toronto-on-m6n-4n3
-Extracted 2 units in Toronto
-Total units: 1914
-Processing listing: https://www.padmapper.com/buildings/p213109/upper-canada-court-west-apartments-at-110-erskine-ave-toronto-on-m4p-1y4
-Extracted 3 units in Toronto
-Total units: 1917
-Processing listing: https://www.padmapper.com/buildings/p250205/esterbrooke-apartments-at-20-esterbrooke-ave-toronto-on-m2j-2c3
-Extracted 2 units in Toronto
-Total units: 1919
-Processing listing: https://www.padmapper.com/buildings/p1116230/apartments-at-59-roncesvalles-ave-toronto-on-m6r-2k5
-Extracted 5 units in Toronto
-Total units: 1924
-Processing listing: https://www.padmapper.com/buildings/p800663/apartments-at-478-caledonia-rd-toronto-on-m6e-4v2
-Extracted 2 units in Toronto
-Total units: 1926
-Processing listing: https://www.padmapper.com/buildings/p1002504/apartments-at-115-stephen-dr-toronto-on-m8y-3n4
-Extracted 3 units in Toronto
-Total units: 1929
-Processing listing: https://www.padmapper.com/buildings/p1000496/apartments-at-358-walmer-rd-toronto-on-m5r-2y4
-Extracted 3 units in Toronto
-Total units: 1932
-Processing listing: https://www.padmapper.com/buildings/p801309/apartments-at-1051-victoria-park-ave-toronto-on-m4b-2j7
-Extracted 3 units in Toronto
-Total units: 1935
-Processing listing: https://www.padmapper.com/buildings/p499071/apartments-at-2901-st-clair-ave-e-toronto-on-m4b-1n5
-Extracted 3 units in Toronto
-Total units: 1938
-Processing listing: https://www.padmapper.com/buildings/p883470/apartments-at-46-montye-ave-toronto-on-m6s-2g9
-Extracted 5 units in Toronto
-Total units: 1943
-Processing listing: https://www.padmapper.com/buildings/p533657/apartments-at-1477-birchmount-rd-toronto-on-m1p-2g4
-Extracted 3 units in Toronto
-Total units: 1946
-Processing listing: https://www.padmapper.com/buildings/p781417/apartments-at-2373-bloor-st-w-toronto-on-m6s-1p6
-Extracted 6 units in Toronto
-Total units: 1952
-Processing listing: https://www.padmapper.com/buildings/p570027/apartments-at-1191-birchmount-rd-toronto-on-m1p-2c1
-Extracted 2 units in Toronto
-Total units: 1954
-Processing listing: https://www.padmapper.com/buildings/p1131631/apartments-at-115-larchmount-ave-toronto-on-m4m-2y6
-Extracted 43 units in Toronto
-Total units: 1997
-Processing listing: https://www.padmapper.com/buildings/p451406/apartments-at-1010-broadview-ave-toronto-on-m4k-2r8
-Extracted 2 units in Toronto
-Total units: 1999
-Processing listing: https://www.padmapper.com/buildings/p451401/apartments-at-101-roehampton-ave-toronto-on-m4p-2w2
-Extracted 4 units in Toronto
-Total units: 2003
-Processing listing: https://www.padmapper.com/buildings/p604698/strada-apartments-at-555-college-st-toronto-on-m6g-0b1
-Extracted 3 units in Toronto
-Total units: 2006
-Processing listing: https://www.padmapper.com/buildings/p473521/the-kingsview-apartments-at-289-the-kingsway-toronto-on-m9a-3t9
-Extracted 6 units in Toronto
-Total units: 2012
-Processing listing: https://www.padmapper.com/buildings/p1096727/apartments-at-320-roncesvalles-ave-toronto-on-m6r-2m7
-Extracted 3 units in Toronto
-Total units: 2015
-Processing listing: https://www.padmapper.com/buildings/p930829/apartments-at-18-cavell-ave-toronto-on-m8v-1p2
-Extracted 4 units in Toronto
-Total units: 2019
-Processing listing: https://www.padmapper.com/buildings/p794731/apartments-at-285-park-lawn-rd-toronto-on-m8y-3j7
-Extracted 5 units in Toronto
-Total units: 2024
-Processing listing: https://www.padmapper.com/buildings/p926698/apartments-at-68-fifteenth-st-toronto-on-m8v-3j6
-Extracted 5 units in Toronto
-Total units: 2029
-Processing listing: https://www.padmapper.com/buildings/p836957/apartments-at-272-birmingham-st-toronto-on-m8v-2e4
-Extracted 4 units in Toronto
-Total units: 2033
-Processing listing: https://www.padmapper.com/buildings/p213627/apartments-at-400-walmer-rd-toronto-on-m5p-2x7
-Extracted 3 units in Toronto
-Total units: 2036
-Processing listing: https://www.padmapper.com/buildings/p288644/lawrence-east-apartments-at-4000-lawrence-ave-e-toronto-on-m1e-2r3
-Extracted 2 units in Toronto
-Total units: 2038
-Processing listing: https://www.padmapper.com/buildings/p502448/bloor-yonge-residences-apartments-at-88-bloor-st-e-toronto-on-m4w-3g9
-Extracted 5 units in Toronto
-Total units: 2043
-Processing listing: https://www.padmapper.com/buildings/p502449/bloor-annex-residences-apartments-at-7-walmer-rd-toronto-on-m5r-2w8
-Extracted 4 units in Toronto
-Total units: 2047
-Processing listing: https://www.padmapper.com/buildings/p446288/eastmount-apartments-at-33-eastmount-ave-toronto-on-m4k-1v3
-Extracted 3 units in Toronto
-Total units: 2050
-Processing listing: https://www.padmapper.com/buildings/p288768/oriole-apartments-at-1-oriole-rd-toronto-on-m4v-2e7
-Extracted 4 units in Toronto
-Total units: 2054
-Processing listing: https://www.padmapper.com/buildings/p288651/san-romanoway-apartments-at-10-san-romanoway-toronto-on-m3n-2y2
-Extracted 2 units in Toronto
-Total units: 2056
-Processing listing: https://www.padmapper.com/buildings/p500287/the-richelieu-apartments-at-22-elkhorn-dr-toronto-on-m2k-1j4
-Extracted 2 units in Toronto
-Total units: 2058
-Processing listing: https://www.padmapper.com/buildings/p288750/sheppard-manor-apartments-at-11-dervock-cres-toronto-on-m2k-1a6
-Extracted 2 units in Toronto
-Total units: 2060
-Processing listing: https://www.padmapper.com/buildings/p217769/apartments-at-55-isabella-st-toronto-on-m4y-1m8
-Extracted 2 units in Toronto
-Total units: 2062
-Processing listing: https://www.padmapper.com/buildings/p310511/the-continental-toronto-apartments-at-55-erskine-ave-toronto-on-m4p-1y7
-Extracted 2 units in Toronto
-Total units: 2064
-Processing listing: https://www.padmapper.com/buildings/p431609/apartments-at-125-lawton-blvd-toronto-on-m4v-2a1
-Extracted 2 units in Toronto
-Total units: 2066
-Processing listing: https://www.padmapper.com/buildings/p420506/jameson-avenue-apartments-at-87-jameson-ave-toronto-on-m6k-2w8
-Extracted 2 units in Toronto
-Total units: 2068
-Processing listing: https://www.padmapper.com/buildings/p213294/apartments-at-25-st-dennis-dr-toronto-on-m3c-1e6
-Extracted 4 units in Toronto
-Total units: 2072
-Processing listing: https://www.padmapper.com/buildings/p754464/2fifteen-apartments-at-215-lonsdale-rd-toronto-on-m4v-0b4
-Extracted 6 units in Toronto
-Total units: 2078
-Processing listing: https://www.padmapper.com/buildings/p213293/apartments-at-2-secord-ave-toronto-on-m4c-2c3
-Extracted 3 units in Toronto
-Total units: 2081
-Processing listing: https://www.padmapper.com/buildings/p213295/apartments-at-90-eastdale-ave-toronto-on-m4c-5a2
-Extracted 3 units in Toronto
-Total units: 2084
-Processing listing: https://www.padmapper.com/buildings/p233620/kingston-road-apartments-at-3207-kingston-rd-toronto-on-m1m-1p6
-Extracted 2 units in Toronto
-Total units: 2086
-Processing listing: https://www.padmapper.com/buildings/p1121833/northwood-terrace-apartments-at-1476-1436-1476-avenue-rd-toronto-on-m5n-2h7
-Extracted 2 units in Toronto
-Total units: 2088
-Processing listing: https://www.padmapper.com/buildings/p1121831/upper-canada-apartments-at-99-coe-hill-dr-toronto-on-m6s-3e4
-Extracted 2 units in Toronto
-Total units: 2090
-Processing listing: https://www.padmapper.com/buildings/p1121827/st-edmund-apartments-at-7-edmund-ave-toronto-on-m4v-1h2
-Extracted 2 units in Toronto
-Total units: 2092
-Processing listing: https://www.padmapper.com/buildings/p1121824/kingsway-apartments-at-2655-bloor-st-w-toronto-on-m8x-1a3
-Extracted 2 units in Toronto
-Total units: 2094
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p493328/ashby-apartments-at-1749-victoria-park-ave-toronto-on-m1r-1s1, retrying...
-Processing listing: https://www.padmapper.com/buildings/p493328/ashby-apartments-at-1749-victoria-park-ave-toronto-on-m1r-1s1
-Extracted 2 units in Toronto
-Total units: 2096
-Processing listing: https://www.padmapper.com/buildings/p1121822/regal-court-apartments-at-1652-bathurst-st-toronto-on-m5p-3j9
-Extracted 2 units in Toronto
-Total units: 2098
-Processing listing: https://www.padmapper.com/buildings/p1121819/dunmurray-apartments-at-2555-bloor-st-w-toronto-on-m6s-1s1
-Extracted 2 units in Toronto
-Total units: 2100
-Processing listing: https://www.padmapper.com/buildings/p224802/apartments-at-77-spencer-ave-toronto-on-m6k-2k4
-Extracted 3 units in Toronto
-Total units: 2103
-Processing listing: https://www.padmapper.com/buildings/p641948/27-31-paxtonia-apartments-at-31-paxtonia-blvd-toronto-on-m3k-1w1
-Extracted 2 units in Toronto
-Total units: 2105
-Processing listing: https://www.padmapper.com/buildings/p432231/apartments-at-41-dundonald-st-toronto-on-m4y-1k6
-Extracted 3 units in Toronto
-Total units: 2108
-Processing listing: https://www.padmapper.com/buildings/p214687/apartments-at-100-gowan-ave-toronto-on-m4k-2e2
-Extracted 2 units in Toronto
-Total units: 2110
-Processing listing: https://www.padmapper.com/buildings/p361083/apartments-at-1577-lawrence-ave-w-toronto-on-m6l-1c4
-Extracted 2 units in Toronto
-Total units: 2112
-Processing listing: https://www.padmapper.com/buildings/p214750/valencia-towers-apartments-at-6020-bathurst-st-toronto-on-m2r-1z8
-Extracted 3 units in Toronto
-Total units: 2115
-Processing listing: https://www.padmapper.com/buildings/p475592/the-citadel-apartments-at-701-don-mills-rd-toronto-on-m3c-1r9
-Extracted 2 units in Toronto
-Total units: 2117
-Processing listing: https://www.padmapper.com/buildings/p224792/apartments-at-188-jameson-ave-toronto-on-m6k-2z3
-Extracted 2 units in Toronto
-Total units: 2119
-Processing listing: https://www.padmapper.com/buildings/p214763/garden-view-apartments-at-321-sherbourne-st-toronto-on-m5a-2s4
-Extracted 2 units in Toronto
-Total units: 2121
-Processing listing: https://www.padmapper.com/buildings/p214707/apartments-at-665-roselawn-ave-toronto-on-m5n-1l1
-Extracted 2 units in Toronto
-Total units: 2123
-Processing listing: https://www.padmapper.com/buildings/p214751/apartments-at-569-broadview-ave-toronto-on-m4k-2n8
-Extracted 3 units in Toronto
-Total units: 2126
-Processing listing: https://www.padmapper.com/buildings/p310509/the-montebello-toronto-apartments-at-21-mayfair-ave-toronto-on-m5n-2n5
-Extracted 2 units in Toronto
-Total units: 2128
-Processing listing: https://www.padmapper.com/buildings/p524777/apartments-at-99-marlee-ave-toronto-on-m6e-3b3
-Extracted 2 units in Toronto
-Total units: 2130
-Processing listing: https://www.padmapper.com/buildings/p214709/apartments-at-620-northcliffe-blvd-toronto-on-m6e-3l9
-Extracted 2 units in Toronto
-Total units: 2132
-Processing listing: https://www.padmapper.com/buildings/p214708/dufferin-heights-apartments-at-65-dynevor-rd-toronto-on-m6e-3w8
-Extracted 2 units in Toronto
-Total units: 2134
-Processing listing: https://www.padmapper.com/buildings/p214730/lord-dufferin-apartments-at-200-dufferin-st-toronto-on-m6k-1z4
-Extracted 2 units in Toronto
-Total units: 2136
-Processing listing: https://www.padmapper.com/buildings/p294013/apartments-at-1080-kingston-rd-toronto-on-m1n-1n5
-Extracted 2 units in Toronto
-Total units: 2138
-Processing listing: https://www.padmapper.com/buildings/p545176/apartments-at-2892-st-clair-ave-e-toronto-on-m4b-1n6
-Extracted 3 units in Toronto
-Total units: 2141
-Processing listing: https://www.padmapper.com/buildings/p954902/apartments-at-85-silversprings-park-toronto-on-m1v-1w3
-Extracted 2 units in Toronto
-Total units: 2143
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p420482/apartments-at-1450-sheppard-ave-w-toronto-on-m3m-2x1, retrying...
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p420482/apartments-at-1450-sheppard-ave-w-toronto-on-m3m-2x1, retrying...
-Processing listing: https://www.padmapper.com/buildings/p420482/apartments-at-1450-sheppard-ave-w-toronto-on-m3m-2x1
-Extracted 3 units in Toronto
-Total units: 2146
-Processing listing: https://www.padmapper.com/buildings/p429736/apartments-at-55-triller-ave-toronto-on-m6r-2h6
-Extracted 3 units in Toronto
-Total units: 2149
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p218953/apartments-at-295-dufferin-st-toronto-on-m6k-3g2, retrying...
-Processing listing: https://www.padmapper.com/buildings/p218953/apartments-at-295-dufferin-st-toronto-on-m6k-3g2
-Extracted 3 units in Toronto
-Total units: 2152
-ERROR: Function timed out on url https://www.padmapper.com/buildings/p249432/ridge-hill-manor-apartments-at-2100-bathurst-st-toronto-on-m5n-2p2, retrying...
+Total units: 1107
